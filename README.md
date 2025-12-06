@@ -17,6 +17,7 @@ Template repository for creating a static website with YACMS.
 ├── public/                 # Static assets
 │   ├── CNAME               # Custom domain (GitHub Pages)
 │   ├── .nojekyll           # Required for GitHub Pages
+│   ├── robots.txt          # SEO configuration
 │   └── [images, favicon, etc.]
 │
 └── README.md
@@ -41,6 +42,13 @@ Both folders are required for the YACMS to work as they will be scaffolded into 
 
 > [!IMPORTANT]
 > The `.nojekyll` file must be present in `public/` for GitHub Pages deployment to work correctly.
+
+## SEO Configuration
+
+The `robots.txt` file in the `public/` folder is used to manage how search engines crawl and index your site. Customize it as needed to improve your site's SEO.
+
+> [!NOTE]
+> YACMS automatically generates a sitemap for your site, which is essential for SEO.
 
 ## Documentation
 
