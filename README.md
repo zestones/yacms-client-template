@@ -5,7 +5,7 @@ Template repository for creating a static website with YACMS.
 ## Project Structure
 
 ```text
-├── .cms/                   # Site content and configuration
+├── yablocks/               # Site content and configuration
 │   ├── _shared/            # Shared blocks across pages
 │   │   ├── navigation.json
 │   │   └── footer.json
@@ -27,16 +27,16 @@ Template repository for creating a static website with YACMS.
 
 1. Click **"Use this template"** → **"Create a new repository"**
 2. Add your `PAT_TOKEN` as a secret in your repository settings for GitHub Actions
-3. Edit files in `.cms/` to customize your content
+3. Edit files in `yablocks/` to customize your content
 4. Add your assets to `public/`
 5. Push to `main` branch to trigger deployment
 
 ## Folders
 
-| Folder    | Description                                        |
-| --------- | -------------------------------------------------- |
-| `.cms/`   | Page configurations and block content (JSON files) |
-| `public/` | Static assets (images, favicon, CNAME, .nojekyll)  |
+| Folder      | Description                                        |
+| ----------- | -------------------------------------------------- |
+| `yablocks/` | Page configurations and block content (JSON files) |
+| `public/`   | Static assets (images, favicon, CNAME, .nojekyll)  |
 
 Both folders are required for the YACMS to work as they will be scaffolded into the final website during the build process.
 
