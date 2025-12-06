@@ -39,7 +39,7 @@ Template repository for creating a static website with YACMS.
 
 Both folders are required for the YACMS to work as they will be scaffolded into the final website during the build process.
 
-> [!IMPORTANT]:
+> [!IMPORTANT]
 > The `.nojekyll` file must be present in `public/` for GitHub Pages deployment to work correctly.
 
 ## Documentation
