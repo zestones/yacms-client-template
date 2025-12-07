@@ -31,6 +31,9 @@ Template repository for creating a static website with YACMS.
 4. Add your assets to `public/`
 5. Push to `main` branch to trigger deployment
 
+> [!IMPORTANT]
+> Of course update the workflow file in `.github/workflows/` to match your repository name (replace the repository `zestones/yacms` to your username/repo name).
+
 ## Folders
 
 | Folder      | Description                                        |
