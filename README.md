@@ -2,7 +2,7 @@
 
 Template repository for creating a static website with YACMS.
 
-## Project Structure
+## Client Repository Structure
 
 ```text
 ├── yablocks/               # Site content and configuration
@@ -27,14 +27,22 @@ Template repository for creating a static website with YACMS.
 
 1. Click **"Use this template"** → **"Create a new repository"**
 2. Add your `PAT_TOKEN` as a secret in your repository settings for GitHub Actions
-3. Edit files in `yablocks/` to customize your content
-4. Add your assets to `public/`
-5. Push to `main` branch to trigger deployment
+3. Update the workflow file in `.github/workflows/request-build.yml` to set your repository name
+4. Edit files in `yablocks/` to customize your content
+5. Add your assets to `public/`
+6. Push to `main` branch to trigger deployment
+
+## Workflow Configuration
+
+There is two things to configure in the GitHub Actions workflow file located at `.github/workflows/request-build.yml`:
+
+1. **Repository Name**: Update the `repository` field in the workflow file to point to your repository.
+2. **Client Payload**: Update the `client-payload` field to match your repository name.
 
 > [!IMPORTANT]
-> Of course update the workflow file in `.github/workflows/` to match your repository name (replace the repository `zestones/yacms` to your username/repo name).
+> Make sure to set the `PAT_TOKEN` secret in your repository settings. This token is required for the workflow to trigger builds in the YACMS central repository.
 
-## Folders
+## Folders Structure
 
 | Folder      | Description                                        |
 | ----------- | -------------------------------------------------- |
@@ -46,11 +54,17 @@ Both folders are required for the YACMS to work as they will be scaffolded into 
 > [!IMPORTANT]
 > The `.nojekyll` file must be present in `public/` for GitHub Pages deployment to work correctly.
 
+CNAME file is optional and should contain your custom domain if you are using one. It is placed in the `public/` folder to be included in the final build.
+
+> [!NOTE]
+> The CNAME **must** be place at the root of the `public/` folder to be recognized by GitHub Pages.
+> Because the build process scaffolds the `public/` folder into the root of the final website.
+
 ## SEO Configuration
 
 The `robots.txt` file in the `public/` folder is used to manage how search engines crawl and index your site. Customize it as needed to improve your site's SEO.
 
-> [!NOTE]
+> [!TIP]
 > YACMS automatically generates a sitemap for your site, which is essential for SEO.
 
 ## Documentation
