@@ -5,7 +5,8 @@ import path from 'node:path';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-    site: 'https://zestones.github.io/yacms-client-template',
+    site: 'https://zestones.github.io',
+    base: '/yacms-client-template',
     integrations: [react(), sitemap()],
     vite: {
         plugins: [tailwindcss()],
