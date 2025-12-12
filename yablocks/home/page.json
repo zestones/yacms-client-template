@@ -1,33 +1,29 @@
 {
     "meta": {
-        "title": "Accueil - Thermosolis | Expert Chauffage & Climatisation",
-        "description": "Expert en chauffage, climatisation et énergies renouvelables. Plus de 15 ans d'expérience. Devis gratuit et intervention rapide 24/7.",
+        "title": "Accueil - Site Modèle YACMS",
+        "description": "Un modèle de site moderne, rapide et optimisé pour mettre en valeur votre activité. Structure flexible, personnalisation complète et performances maximales.",
         "keywords": [
-            "chauffage",
-            "climatisation",
-            "pompe à chaleur",
-            "panneaux solaires",
-            "ventilation",
-            "RGE"
+            "site vitrine",
+            "services",
+            "entreprise",
+            "professionnel",
+            "modèle",
+            "yacms"
         ],
-        "author": "Thermosolis",
-        "canonical": "https://thermosolis.fr/",
+        "author": "YACMS Template",
+        "canonical": "https://zestones.github.io/yacms-client-template/",
         "locale": "fr_FR",
         "robots": "index, follow",
         "og": {
             "type": "website",
-            "image": "/images/og-home.jpg",
-            "imageAlt": "Thermosolis - Votre expert en confort thermique"
+            "image": "/images/og-default.jpg",
+            "imageAlt": "Aperçu du modèle de site YACMS"
         }
     },
-    "theme": "light",
+    "theme": "dark",
     "blocks": [
         "../_shared/navigation.json",
         "hero.json",
-        "services.json",
-        "stats.json",
-        "testimonials.json",
-        "cta.json",
         "../_shared/footer.json"
     ]
 }

@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "component": "blocks/hero/Hero03",
+        "section": "home/hero"
+    },
+    "data": {
+        "title": "Votre Titre Principal.",
+        "titleHighlight": "Votre Sous-Titre Mis en Valeur",
+        "description": "Une description claire et inspirante pour présenter votre projet, votre entreprise ou votre service, mettant en avant votre identité et votre proposition de valeur.",
+        "primaryButton": {
+            "label": "Commencer",
+            "variant": "default",
+            "href": "/start"
+        },
+        "secondaryButton": {
+            "label": "En savoir plus",
+            "variant": "outline",
+            "href": "/contact"
+        },
+        "logos": [
+            {
+                "src": "https://v3.material-tailwind.com/logo/spotify.svg",
+                "alt": "logo 1"
+            },
+            {
+                "src": "https://v3.material-tailwind.com/logo/coinbase.svg",
+                "alt": "logo 2"
+            },
+            {
+                "src": "https://v3.material-tailwind.com/logo/netflix.svg",
+                "alt": "logo 3"
+            },
+            {
+                "src": "https://v3.material-tailwind.com/logo/pinterest.svg",
+                "alt": "logo 4"
+            }
+        ],
+        "heroImage": {
+            "src": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&w=2000&q=85",
+            "alt": "Hero image"
+        }
+    }
+}

@@ -5,9 +5,9 @@
     },
     "data": {
         "logo": {
-            "text": "ClimatExpert",
+            "text": "VotreSite",
             "href": "/",
-            "image": "/logo-dark.png"
+            "image": "/yacms-client-template/logo.png"
         },
         "links": [
             {
@@ -19,24 +19,20 @@
                 "href": "#services",
                 "dropdown": [
                     {
-                        "label": "Chauffage",
-                        "href": "/services/chauffage"
+                        "label": "Service 1",
+                        "href": "/services/service-1"
                     },
                     {
-                        "label": "Climatisation",
-                        "href": "#climatisation"
+                        "label": "Service 2",
+                        "href": "/services/service-2"
                     },
                     {
-                        "label": "Ventilation",
-                        "href": "#ventilation"
+                        "label": "Service 3",
+                        "href": "/services/service-3"
                     },
                     {
-                        "label": "Pompe à chaleur",
-                        "href": "#pompe-a-chaleur"
-                    },
-                    {
-                        "label": "Panneaux solaires",
-                        "href": "#panneaux-solaires"
+                        "label": "Service 4",
+                        "href": "/services/service-4"
                     }
                 ]
             },
@@ -45,17 +41,17 @@
                 "href": "/about"
             },
             {
-                "label": "Réalisations",
-                "href": "#realisations"
+                "label": "Projets",
+                "href": "/projects"
             },
             {
                 "label": "Contact",
-                "href": "#contact"
+                "href": "/contact"
             }
         ],
         "cta": {
-            "text": "Devis Gratuit",
-            "href": "#contact"
+            "text": "Nous Contacter",
+            "href": "/contact"
         }
     }
 }
