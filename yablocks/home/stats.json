@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/stats/Stats",
+    "section": "home/stats"
+  },
+  "data": {
+    "stats": [
+      {
+        "number": "55",
+        "label": "YACMS",
+        "suffix": "%"
+      }
+    ]
+  }
+}
