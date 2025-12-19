@@ -4,9 +4,9 @@
     "section": "home/hero"
   },
   "data": {
-    "title": "Votre Titre secondaire.",
-    "titleHighlight": "Votre Sous-Titre Mis en Valeur",
-    "description": "Une description claire et inspirante pour présenter votre projet, votre entreprise ou votre service, mettant en avant votre identité et votre proposition de valeur.",
+    "title": "TITRE EN GRAS",
+    "titleHighlight": "SOUS TITRE !!!",
+    "description": "ZESTONES - Une description claire et inspirante pour présenter votre projet, votre entreprise ou votre service, mettant en avant votre identité et votre proposition de valeur.",
     "primaryButton": {
       "label": "Commencer",
       "variant": "default",
