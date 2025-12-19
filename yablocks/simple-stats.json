@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/stats/SimpleStats",
+    "section": "simple-stats"
+  },
+  "data": {
+    "stats_list": [
+      {
+        "count": "500",
+        "title": "test",
+        "desc": "elements that need to be done"
+      }
+    ]
+  }
+}
