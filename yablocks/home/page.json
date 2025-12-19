@@ -22,8 +22,8 @@
   },
   "theme": "dark",
   "blocks": [
-    "./navigation.json",
+    "../_shared/navigation.json",
     "./hero.json",
-    "./footer.json"
+    "../_shared/footer.json"
   ]
 }
