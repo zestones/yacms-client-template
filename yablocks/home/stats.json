@@ -9,6 +9,11 @@
         "number": "55",
         "label": "YACMS",
         "suffix": "%"
+      },
+      {
+        "number": "125",
+        "label": "test",
+        "suffix": "€"
       }
     ]
   }
