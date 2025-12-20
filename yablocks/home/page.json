@@ -23,6 +23,7 @@
   "theme": "dark",
   "blocks": [
     "../_shared/navigation.json",
-    "./hero.json"
+    "./hero.json",
+    "./primary-c-t-a.json"
   ]
 }

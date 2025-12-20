@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "component": "blocks/cta/PrimaryCTA",
+    "section": "home/primary-c-t-a"
+  },
+  "data": {
+    "title": "fdbdfbdbxfgnfxgn",
+    "subtitle": "cxncnxfnxfnxcgn",
+    "features": [],
+    "cta": {
+      "primary": {
+        "text": "Bonjour",
+        "link": ""
+      },
+      "secondary": {
+        "text": "45565651",
+        "link": ""
+      }
+    }
+  }
+}
