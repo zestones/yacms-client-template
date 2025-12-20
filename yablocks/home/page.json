@@ -24,7 +24,6 @@
   "blocks": [
     "../_shared/navigation.json",
     "./hero.json",
-    "../_shared/footer.json",
     "./stats.json"
   ]
 }
