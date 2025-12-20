@@ -25,7 +25,7 @@
     "../_shared/navigation.json",
     "./hero.json",
     "simple-stats.json",
-    "./stats.json",
-    "../_shared/footer.json"
+    "../_shared/footer.json",
+    "./stats.json"
   ]
 }
