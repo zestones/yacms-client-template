@@ -9,7 +9,7 @@
     "description": "ZESTONES - Une description claire et inspirante pour présenter votre projet, votre entreprise ou votre service, mettant en avant vocfbbfcbcfgnfgntre identité et votre proposition de valeur.gf,ng,gh,",
     "primaryButton": {
       "label": "Commencer",
-      "variant": "default",
+      "variant": "destructive",
       "href": "/start"
     },
     "secondaryButton": {
