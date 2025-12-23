@@ -1,14 +1,14 @@
 {
   "meta": {
     "component": "blocks/stats/SimpleStats",
-    "section": "simple-stats"
+    "section": "home/simple-stats"
   },
   "data": {
     "stats_list": [
       {
-        "count": "ZESTONES",
-        "title": "500 par jours",
-        "desc": "elements that need to be done"
+        "count": "545151",
+        "title": "fdvbdfbdfb",
+        "desc": "sdvbjksdv sdvjnsdfvjkn"
       }
     ]
   }
