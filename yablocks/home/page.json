@@ -25,6 +25,7 @@
     "./hero.json",
     "../_shared/navigation.json",
     "./simple-stats.json",
-    "./primary-c-t-a.json"
+    "./primary-c-t-a.json",
+    "./primary-hero.json"
   ]
 }
