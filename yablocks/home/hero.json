@@ -19,22 +19,24 @@
     },
     "logos": [
       {
-        "src": "https://v3.material-tailwind.com/logo/spotify.svg",
+        "src": "/images/steam.jpg",
         "alt": "logo 1"
       },
       {
-        "src": "https://v3.material-tailwind.com/logo/coinbase.svg",
+        "src": "/images/ss.png",
         "alt": "logo 2"
       },
       {
-        "src": "https://v3.material-tailwind.com/logo/netflix.svg",
+        "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
         "alt": "logo 3"
       },
       {
-        "src": "https://v3.material-tailwind.com/logo/pinterest.svg",
+        "src": "/images/vinland.png",
         "alt": "logo 4"
       },
-      {},
+      {
+        "src": "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg"
+      },
       {
         "src": "",
         "alt": ""
