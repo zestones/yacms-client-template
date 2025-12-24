@@ -6,7 +6,7 @@
       "site vitrine",
       "services",
       "entreprise",
-      "professionnel",
+      "bbfdfbdfbprofessionnel",
       "modèle",
       "yacms"
     ],
@@ -22,9 +22,9 @@
   },
   "theme": "dark",
   "blocks": [
-    "../_shared/navigation.json",
     "./hero.json",
-    "./primary-c-t-a.json",
-    "./simple-stats.json"
+    "../_shared/navigation.json",
+    "./simple-stats.json",
+    "./primary-c-t-a.json"
   ]
 }
