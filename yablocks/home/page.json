@@ -24,7 +24,7 @@
   "blocks": [
     "../_shared/navigation.json",
     "./hero.json",
-    "./simple-stats.json",
-    "./primary-c-t-a.json"
+    "./primary-c-t-a.json",
+    "./simple-stats.json"
   ]
 }
