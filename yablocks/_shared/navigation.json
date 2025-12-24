@@ -47,16 +47,6 @@
       {
         "label": "Contact",
         "href": "/contact"
-      },
-      {
-        "label": "CACAOUHETTE",
-        "href": "",
-        "dropdown": [
-          {
-            "label": "",
-            "href": ""
-          }
-        ]
       }
     ],
     "cta": {
