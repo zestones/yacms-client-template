@@ -27,6 +27,8 @@
     "./primary-c-t-a.json",
     "./primary-hero.json",
     "./simple-stats.json",
-    "./hero03.json"
+    "./hero03.json",
+    "./hero03-1.json",
+    "./hero03-2.json"
   ]
 }

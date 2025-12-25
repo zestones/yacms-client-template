@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "component": "blocks/hero/Hero03",
+    "section": "home/hero03-1"
+  },
+  "data": {
+    "title": "Sample Title",
+    "titleHighlight": "Sample Title",
+    "description": "This is a sample description that demonstrates the content structure.",
+    "primaryButton": {
+      "label": "Sample Label",
+      "variant": "default",
+      "href": "https://example.com"
+    },
+    "secondaryButton": {
+      "label": "Sample Label",
+      "variant": "default",
+      "href": "https://example.com"
+    },
+    "logos": [
+      {
+        "src": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "alt": "Sample alt"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "alt": "Sample alt"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "alt": "Sample alt"
+      }
+    ],
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+      "alt": "Sample text"
+    }
+  }
+}
