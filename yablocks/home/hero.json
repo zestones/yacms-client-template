@@ -4,11 +4,11 @@
     "section": "home/hero"
   },
   "data": {
-    "title": "Super titre",
+    "title": "",
     "titleHighlight": "Sous titre",
     "description": "",
     "primaryButton": {
-      "label": "Test",
+      "label": "",
       "variant": "destructive",
       "href": "/start"
     },
