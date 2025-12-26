@@ -2,7 +2,10 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
     site: 'https://zestones.github.io',
@@ -12,7 +15,7 @@ export default defineConfig({
         plugins: [tailwindcss()],
         resolve: {
             alias: {
-                '@': path.resolve(import.meta.dirname, '../../packages/yacms-core/src'),
+                '@': path.resolve(__dirname, './src'),
             },
         },
         css: {
