@@ -19,7 +19,7 @@
     },
     "logos": [
       {
-        "src": "/images/steam.jpg",
+        "src": "/yacms-client-template/images/steam.jpg",
         "alt": "logo 1"
       },
       {
@@ -43,7 +43,7 @@
       }
     ],
     "heroImage": {
-      "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
+      "src": "/yacms-client-template/images/wallpaperflare.com_wallpaper (1).jpg",
       "alt": "Hero image"
     }
   }
