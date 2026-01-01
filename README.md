@@ -67,6 +67,30 @@ The `robots.txt` file in the `public/` folder is used to manage how search engin
 > [!TIP]
 > YACMS automatically generates a sitemap for your site, which is essential for SEO.
 
+## Pre-commit Hook
+
+A pre-commit hook is set up to automatically generate a `yablocks.zip` archive on each commit. This ensures the yablocks directory is always packaged and available.
+
+The hook script (`.git/hooks/pre-commit`):
+
+```bash
+#!/bin/bash
+
+# Generate zip of yablocks directory
+echo "Generating yablocks.zip..."
+cd "$(git rev-parse --show-toplevel)"
+
+# Create the zip file (excluding any existing zip files in yablocks)
+zip -r yablocks.zip yablocks/ -x "*.zip"
+
+# Add the zip file to the commit
+git add yablocks.zip
+
+echo "✓ yablocks.zip generated and staged"
+```
+
+The hook runs automatically before each commit, generating and staging the zip file.
+
 ## Documentation
 
 For detailed documentation on available components and configuration, see the [YACMS documentation](https://github.com/zestones/yacms).
