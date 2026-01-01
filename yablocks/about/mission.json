@@ -1,41 +1,41 @@
 {
-  "meta": {
-    "component": "blocks/content/proposition/ValueProposition",
-    "section": "about/mission"
-  },
-  "data": {
-    "eyebrow": "Nos Valeurs",
-    "title": "Ce Qui Nous Anime",
-    "subtitle": "Des principes qui guident chaque décision",
-    "steps": [
-      {
-        "icon": "users",
-        "title": "Accessibilité",
-        "description": "Nous croyons que chacun devrait pouvoir créer sa présence en ligne, quel que soit son niveau technique."
-      },
-      {
-        "icon": "zap",
-        "title": "Performance",
-        "description": "La vitesse et l'efficacité sont au cœur de notre plateforme. Vos visiteurs méritent une expérience fluide."
-      },
-      {
-        "icon": "heart",
-        "title": "Qualité",
-        "description": "Nous ne faisons aucun compromis sur la qualité du code et l'expérience utilisateur."
-      }
-    ],
-    "outcomeLabel": "Le Résultat",
-    "outcome": {
-      "title": "Le Résultat",
-      "points": [
-        "Une plateforme intuitive et puissante",
-        "Des sites rapides et bien référencés",
-        "Un support dédié à votre réussite"
-      ]
+    "meta": {
+        "component": "blocks/content/proposition/ValueProposition",
+        "section": "about/mission"
     },
-    "proof": {
-      "stat": "500+",
-      "label": "sites créés avec YACMS"
+    "data": {
+        "eyebrow": "Nos Valeurs",
+        "title": "Ce Qui Nous Anime",
+        "subtitle": "Des principes qui guident chaque décision",
+        "steps": [
+            {
+                "icon": "users",
+                "title": "Accessibilité",
+                "description": "Nous croyons que chacun devrait pouvoir créer sa présence en ligne, quel que soit son niveau technique."
+            },
+            {
+                "icon": "zap",
+                "title": "Performance",
+                "description": "La vitesse et l'efficacité sont au cœur de notre plateforme. Vos visiteurs méritent une expérience fluide."
+            },
+            {
+                "icon": "heart",
+                "title": "Qualité",
+                "description": "Nous ne faisons aucun compromis sur la qualité du code et l'expérience utilisateur."
+            }
+        ],
+        "outcomeLabel": "Le Résultat",
+        "outcome": {
+            "title": "Le Résultat",
+            "points": [
+                "Une plateforme intuitive et puissante",
+                "Des sites rapides et bien référencés",
+                "Un support dédié à votre réussite"
+            ]
+        },
+        "proof": {
+            "stat": "500+",
+            "label": "sites créés avec YACMS"
+        }
     }
-  }
 }

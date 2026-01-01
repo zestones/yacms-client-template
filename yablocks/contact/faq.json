@@ -1,41 +1,41 @@
 {
-  "meta": {
-    "component": "blocks/content/proposition/ValueProposition",
-    "section": "contact/faq"
-  },
-  "data": {
-    "eyebrow": "FAQ",
-    "title": "Questions Fréquentes",
-    "subtitle": "Les réponses aux questions les plus courantes",
-    "steps": [
-      {
-        "icon": "search",
-        "title": "Comment démarrer ?",
-        "description": "Installez YACMS via npm, configurez votre premier projet et utilisez nos composants prêts à l'emploi. La documentation complète est disponible."
-      },
-      {
-        "icon": "wrench",
-        "title": "Puis-je personnaliser les composants ?",
-        "description": "Absolument ! Tous nos composants sont conçus pour être facilement personnalisables via des props et du CSS."
-      },
-      {
-        "icon": "shield",
-        "title": "Est-ce sécurisé ?",
-        "description": "Oui, YACMS utilise les meilleures pratiques de sécurité et est régulièrement mis à jour pour corriger les vulnérabilités."
-      }
-    ],
-    "outcomeLabel": "Besoin de plus d'aide ?",
-    "outcome": {
-      "title": "Besoin de plus d'aide ?",
-      "points": [
-        "Documentation complète disponible",
-        "Support communautaire actif",
-        "Exemples de code prêts à utiliser"
-      ]
+    "meta": {
+        "component": "blocks/content/proposition/ValueProposition",
+        "section": "contact/faq"
     },
-    "proof": {
-      "stat": "24h",
-      "label": "temps de réponse moyen"
+    "data": {
+        "eyebrow": "FAQ",
+        "title": "Questions Fréquentes",
+        "subtitle": "Les réponses aux questions les plus courantes",
+        "steps": [
+            {
+                "icon": "search",
+                "title": "Comment démarrer ?",
+                "description": "Installez YACMS via npm, configurez votre premier projet et utilisez nos composants prêts à l'emploi. La documentation complète est disponible."
+            },
+            {
+                "icon": "wrench",
+                "title": "Puis-je personnaliser les composants ?",
+                "description": "Absolument ! Tous nos composants sont conçus pour être facilement personnalisables via des props et du CSS."
+            },
+            {
+                "icon": "shield",
+                "title": "Est-ce sécurisé ?",
+                "description": "Oui, YACMS utilise les meilleures pratiques de sécurité et est régulièrement mis à jour pour corriger les vulnérabilités."
+            }
+        ],
+        "outcomeLabel": "Besoin de plus d'aide ?",
+        "outcome": {
+            "title": "Besoin de plus d'aide ?",
+            "points": [
+                "Documentation complète disponible",
+                "Support communautaire actif",
+                "Exemples de code prêts à utiliser"
+            ]
+        },
+        "proof": {
+            "stat": "24h",
+            "label": "temps de réponse moyen"
+        }
     }
-  }
 }

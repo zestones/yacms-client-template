@@ -1,39 +1,39 @@
 {
-  "meta": {
-    "component": "blocks/content/user-context/UserContext01",
-    "section": "home/user-context"
-  },
-  "data": {
-    "title": "Pour Qui ?",
-    "subtitle": "YACMS s'adapte à tous les professionnels",
-    "contexts": [
-      {
-        "type": "improvement",
-        "heading": "Entrepreneurs",
-        "situations": [
-          "Lancez votre présence en ligne rapidement",
-          "Site professionnel qui reflète votre activité",
-          "Attirez vos clients avec un design moderne"
+    "meta": {
+        "component": "blocks/content/user-context/UserContext01",
+        "section": "home/user-context"
+    },
+    "data": {
+        "title": "Pour Qui ?",
+        "subtitle": "YACMS s'adapte à tous les professionnels",
+        "contexts": [
+            {
+                "type": "improvement",
+                "heading": "Entrepreneurs",
+                "situations": [
+                    "Lancez votre présence en ligne rapidement",
+                    "Site professionnel qui reflète votre activité",
+                    "Attirez vos clients avec un design moderne"
+                ]
+            },
+            {
+                "type": "improvement",
+                "heading": "Agences",
+                "situations": [
+                    "Déployez plusieurs sites clients efficacement",
+                    "Plateforme unifiée pour tous vos projets",
+                    "Outils de gestion centralisés"
+                ]
+            },
+            {
+                "type": "improvement",
+                "heading": "Freelances",
+                "situations": [
+                    "Créez votre portfolio sans effort",
+                    "Site vitrine professionnel en quelques clics",
+                    "Concentrez-vous sur votre cœur de métier"
+                ]
+            }
         ]
-      },
-      {
-        "type": "improvement",
-        "heading": "Agences",
-        "situations": [
-          "Déployez plusieurs sites clients efficacement",
-          "Plateforme unifiée pour tous vos projets",
-          "Outils de gestion centralisés"
-        ]
-      },
-      {
-        "type": "improvement",
-        "heading": "Freelances",
-        "situations": [
-          "Créez votre portfolio sans effort",
-          "Site vitrine professionnel en quelques clics",
-          "Concentrez-vous sur votre cœur de métier"
-        ]
-      }
-    ]
-  }
+    }
 }

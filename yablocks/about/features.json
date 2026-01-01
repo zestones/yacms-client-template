@@ -1,39 +1,39 @@
 {
-  "meta": {
-    "component": "blocks/content/user-context/UserContext01",
-    "section": "about/features"
-  },
-  "data": {
-    "title": "Pourquoi Nous Choisir",
-    "subtitle": "Des fonctionnalités pensées pour votre succès",
-    "contexts": [
-      {
-        "type": "improvement",
-        "heading": "Open Source",
-        "situations": [
-          "Projet open source transparent",
-          "Communauté active et engagée",
-          "Amélioration continue garantie"
+    "meta": {
+        "component": "blocks/content/user-context/UserContext01",
+        "section": "about/features"
+    },
+    "data": {
+        "title": "Pourquoi Nous Choisir",
+        "subtitle": "Des fonctionnalités pensées pour votre succès",
+        "contexts": [
+            {
+                "type": "improvement",
+                "heading": "Open Source",
+                "situations": [
+                    "Projet open source transparent",
+                    "Communauté active et engagée",
+                    "Amélioration continue garantie"
+                ]
+            },
+            {
+                "type": "improvement",
+                "heading": "Évolutif",
+                "situations": [
+                    "Commencez petit et grandissez sans limites",
+                    "Architecture conçue pour évoluer",
+                    "S'adapte à vos besoins changeants"
+                ]
+            },
+            {
+                "type": "improvement",
+                "heading": "Support Actif",
+                "situations": [
+                    "Communauté engagée pour vous aider",
+                    "Documentation complète et détaillée",
+                    "Accompagnement à chaque étape"
+                ]
+            }
         ]
-      },
-      {
-        "type": "improvement",
-        "heading": "Évolutif",
-        "situations": [
-          "Commencez petit et grandissez sans limites",
-          "Architecture conçue pour évoluer",
-          "S'adapte à vos besoins changeants"
-        ]
-      },
-      {
-        "type": "improvement",
-        "heading": "Support Actif",
-        "situations": [
-          "Communauté engagée pour vous aider",
-          "Documentation complète et détaillée",
-          "Accompagnement à chaque étape"
-        ]
-      }
-    ]
-  }
+    }
 }

@@ -28,4 +28,32 @@
     "./cta.json",
     "../_shared/footer.json"
   ]
+    "meta": {
+        "title": "Projets - YACMS",
+        "description": "Découvrez des exemples de sites créés avec YACMS et inspirez-vous pour votre propre projet.",
+        "keywords": [
+            "projets",
+            "exemples",
+            "réalisations",
+            "portfolio",
+            "yacms",
+            "showcase"
+        ],
+        "author": "zestones",
+        "canonical": "https://zestones.github.io/yacms-client-template/projects",
+        "locale": "fr_FR",
+        "robots": "index, follow",
+        "og": {
+            "type": "website",
+            "image": "/images/og-projects.jpg",
+            "imageAlt": "Projets YACMS"
+        }
+    },
+    "blocks": [
+        "../_shared/navigation.json",
+        "./hero.json",
+        "./projects-grid.json",
+        "./cta.json",
+        "../_shared/footer.json"
+    ]
 }

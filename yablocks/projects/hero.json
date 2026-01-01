@@ -1,27 +1,27 @@
 {
-  "meta": {
-    "component": "blocks/layout/hero/GlassHeroSplit",
-    "section": "projects/hero"
-  },
-  "data": {
-    "eyebrow": "Réalisations",
-    "title": "Sites Créés avec YACMS",
-    "subtitle": "Explorez nos exemples",
-    "description": "Découvrez comment YACMS aide les professionnels à créer des sites web modernes et performants. Chaque projet démontre la puissance et la flexibilité de notre plateforme.",
-    "cta": {
-      "primary": {
-        "text": "Créer Mon Site",
-        "href": "/contact"
-      },
-      "secondary": {
-        "text": "Documentation",
-        "href": "/docs"
-      }
+    "meta": {
+        "component": "blocks/layout/hero/GlassHeroSplit",
+        "section": "projects/hero"
     },
-    "image": {
-      "src": "/yacms-client-template/images/projects-showcase.jpg",
-      "alt": "Showcase de projets YACMS"
-    },
-    "backgroundImage": "/yacms-client-template/images/projects-bg.jpg"
-  }
+    "data": {
+        "eyebrow": "Réalisations",
+        "title": "Sites Créés avec YACMS",
+        "subtitle": "Explorez nos exemples",
+        "description": "Découvrez comment YACMS aide les professionnels à créer des sites web modernes et performants. Chaque projet démontre la puissance et la flexibilité de notre plateforme.",
+        "cta": {
+            "primary": {
+                "text": "Créer Mon Site",
+                "href": "/contact"
+            },
+            "secondary": {
+                "text": "Documentation",
+                "href": "/docs"
+            }
+        },
+        "image": {
+            "src": "/yacms-client-template/images/projects-showcase.jpg",
+            "alt": "Showcase de projets YACMS"
+        },
+        "backgroundImage": "/yacms-client-template/images/projects-bg.jpg"
+    }
 }

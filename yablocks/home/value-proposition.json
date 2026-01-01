@@ -1,41 +1,41 @@
 {
-  "meta": {
-    "component": "blocks/content/proposition/ValueProposition",
-    "section": "home/value-proposition"
-  },
-  "data": {
-    "eyebrow": "Pourquoi YACMS ?",
-    "title": "Une Solution Complète",
-    "subtitle": "De la création à la gestion, tout ce dont vous avez besoin",
-    "steps": [
-      {
-        "icon": "clipboard",
-        "title": "Créez Facilement",
-        "description": "Utilisez nos composants prêts à l'emploi pour construire votre site en quelques minutes. Pas besoin d'être développeur."
-      },
-      {
-        "icon": "settings",
-        "title": "Personnalisez",
-        "description": "Adaptez chaque élément à votre identité visuelle. Couleurs, polices, images - tout est personnalisable."
-      },
-      {
-        "icon": "target",
-        "title": "Évoluez",
-        "description": "Faites grandir votre site au rythme de votre activité. Ajoutez de nouvelles pages et fonctionnalités sans limite."
-      }
-    ],
-    "outcomeLabel": "Le Résultat",
-    "outcome": {
-      "title": "Le Résultat",
-      "points": [
-        "Site professionnel en ligne rapidement",
-        "Performance et référencement optimisés",
-        "Gestion autonome de votre contenu"
-      ]
+    "meta": {
+        "component": "blocks/content/proposition/ValueProposition",
+        "section": "home/value-proposition"
     },
-    "proof": {
-      "stat": "98%",
-      "label": "de satisfaction client"
+    "data": {
+        "eyebrow": "Pourquoi YACMS ?",
+        "title": "Une Solution Complète",
+        "subtitle": "De la création à la gestion, tout ce dont vous avez besoin",
+        "steps": [
+            {
+                "icon": "clipboard",
+                "title": "Créez Facilement",
+                "description": "Utilisez nos composants prêts à l'emploi pour construire votre site en quelques minutes. Pas besoin d'être développeur."
+            },
+            {
+                "icon": "settings",
+                "title": "Personnalisez",
+                "description": "Adaptez chaque élément à votre identité visuelle. Couleurs, polices, images - tout est personnalisable."
+            },
+            {
+                "icon": "target",
+                "title": "Évoluez",
+                "description": "Faites grandir votre site au rythme de votre activité. Ajoutez de nouvelles pages et fonctionnalités sans limite."
+            }
+        ],
+        "outcomeLabel": "Le Résultat",
+        "outcome": {
+            "title": "Le Résultat",
+            "points": [
+                "Site professionnel en ligne rapidement",
+                "Performance et référencement optimisés",
+                "Gestion autonome de votre contenu"
+            ]
+        },
+        "proof": {
+            "stat": "98%",
+            "label": "de satisfaction client"
+        }
     }
-  }
 }

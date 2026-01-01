@@ -1,25 +1,25 @@
 {
-  "meta": {
-    "component": "blocks/conversion/cta/CTABanner",
-    "section": "about/cta"
-  },
-  "data": {
-    "title": "Rejoignez-Nous",
-    "subtitle": "Faites partie de la communauté YACMS",
-    "features": [
-      "Accès à tous les composants",
-      "Mises à jour régulières",
-      "Documentation complète"
-    ],
-    "primaryCTA": {
-      "text": "Commencer Gratuitement",
-      "href": "/contact",
-      "variant": "primary"
+    "meta": {
+        "component": "blocks/conversion/cta/CTABanner",
+        "section": "about/cta"
     },
-    "secondaryCTA": {
-      "text": "Explorer GitHub",
-      "href": "https://github.com/zestones/yacms",
-      "variant": "outline"
+    "data": {
+        "title": "Rejoignez-Nous",
+        "subtitle": "Faites partie de la communauté YACMS",
+        "features": [
+            "Accès à tous les composants",
+            "Mises à jour régulières",
+            "Documentation complète"
+        ],
+        "primaryCTA": {
+            "text": "Commencer Gratuitement",
+            "href": "/contact",
+            "variant": "primary"
+        },
+        "secondaryCTA": {
+            "text": "Explorer GitHub",
+            "href": "https://github.com/zestones/yacms",
+            "variant": "outline"
+        }
     }
-  }
 }
