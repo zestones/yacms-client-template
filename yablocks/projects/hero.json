@@ -4,18 +4,18 @@
         "section": "projects/hero"
     },
     "data": {
-        "eyebrow": "Réalisations",
+        "label": "Réalisations",
         "title": "Sites Créés avec YACMS",
         "subtitle": "Explorez nos exemples",
         "description": "Découvrez comment YACMS aide les professionnels à créer des sites web modernes et performants. Chaque projet démontre la puissance et la flexibilité de notre plateforme.",
         "cta": {
             "primary": {
                 "text": "Créer Mon Site",
-                "href": "/contact"
+                "link": "/contact"
             },
             "secondary": {
                 "text": "Documentation",
-                "href": "/docs"
+                "link": "/docs"
             }
         },
         "image": {
