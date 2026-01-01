@@ -1,17 +1,17 @@
 {
   "meta": {
-    "component": "blocks/navigation/PrimaryNavigation",
-    "section": "home/navigation"
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "shared/navigation"
   },
   "data": {
     "logo": {
-      "text": "Hellogbfgb",
+      "text": "YACMS",
       "href": "/",
-      "image": "/logo.png"
+      "image": "/yacms-client-template/logo.svg"
     },
     "links": [
       {
-        "label": "Hello",
+        "label": "Accueil",
         "href": "/"
       },
       {
@@ -19,20 +19,16 @@
         "href": "#services",
         "dropdown": [
           {
-            "label": "MARMAM",
-            "href": "/services/service-1"
+            "label": "Design Moderne",
+            "href": "#services"
           },
           {
-            "label": "Service 2",
-            "href": "/services/service-2"
+            "label": "Performance",
+            "href": "#services"
           },
           {
-            "label": "Service 3",
-            "href": "/services/service-3"
-          },
-          {
-            "label": "Service 4",
-            "href": "/services/service-4"
+            "label": "Sécurité",
+            "href": "#services"
           }
         ]
       },
@@ -50,7 +46,7 @@
       }
     ],
     "cta": {
-      "text": "Nous Contacter",
+      "text": "Démarrer",
       "href": "/contact"
     }
   }

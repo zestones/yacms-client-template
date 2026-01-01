@@ -1,50 +1,43 @@
 {
   "meta": {
-    "component": "blocks/hero/Hero03",
+    "component": "blocks/layout/hero/Hero03",
     "section": "home/hero"
   },
   "data": {
-    "title": "",
-    "titleHighlight": "Sous titre",
-    "description": "",
+    "title": "Créez Votre Site Professionnel",
+    "titleHighlight": "Avec YACMS",
+    "description": "Une plateforme moderne et intuitive pour gérer votre contenu en ligne. Déployez rapidement votre site vitrine avec des composants prêts à l'emploi.",
     "primaryButton": {
-      "label": "",
-      "variant": "destructive",
-      "href": "/start"
+      "label": "Commencer Maintenant",
+      "variant": "default",
+      "href": "#services"
     },
     "secondaryButton": {
-      "label": "En savoir plusdfbdfbdfb",
-      "variant": "destructive",
-      "href": "/contact"
+      "label": "En Savoir Plus",
+      "variant": "outline",
+      "href": "#value-proposition"
     },
     "logos": [
       {
-        "src": "/yacms-client-template/images/steam.jpg",
-        "alt": "logo 1"
+        "src": "/yacms-client-template/images/logo-1.svg",
+        "alt": "Client 1"
       },
       {
-        "src": "/images/ss.png",
-        "alt": "logo 2"
+        "src": "/yacms-client-template/images/logo-2.svg",
+        "alt": "Client 2"
       },
       {
-        "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
-        "alt": "logo 3"
+        "src": "/yacms-client-template/images/logo-3.svg",
+        "alt": "Client 3"
       },
       {
-        "src": "/images/vinland.png",
-        "alt": "logo 4"
-      },
-      {
-        "src": "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg"
-      },
-      {
-        "src": "",
-        "alt": ""
+        "src": "/yacms-client-template/images/logo-4.svg",
+        "alt": "Client 4"
       }
     ],
     "heroImage": {
-      "src": "/yacms-client-template/images/wallpaperflare.com_wallpaper (1).jpg",
-      "alt": "Hero image"
+      "src": "/yacms-client-template/images/hero-dashboard.jpg",
+      "alt": "Interface YACMS"
     }
   }
 }

@@ -1,14 +1,15 @@
 {
   "meta": {
-    "title": "Yacms",
-    "description": "cacaouette",
+    "title": "YACMS - Votre Plateforme de Gestion de Contenu",
+    "description": "Créez et gérez facilement votre présence en ligne avec YACMS, une solution moderne et performante pour votre site vitrine.",
     "keywords": [
       "site vitrine",
       "services",
       "entreprise",
-      "bbfdfbdfbprofessionnel",
+      "professionnel",
       "modèle",
-      "yacms"
+      "yacms",
+      "gestion de contenu"
     ],
     "author": "zestones",
     "canonical": "https://zestones.github.io/yacms-client-template/",
@@ -22,13 +23,12 @@
   },
   "theme": "dark",
   "blocks": [
-    "./hero.json",
     "../_shared/navigation.json",
-    "./primary-c-t-a.json",
-    "./primary-hero.json",
-    "./simple-stats.json",
-    "./hero03.json",
-    "./hero03-1.json",
-    "./hero03-2.json"
+    "./hero.json",
+    "./services.json",
+    "./value-proposition.json",
+    "./user-context.json",
+    "./cta-banner.json",
+    "../_shared/footer.json"
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "about/hero"
+  },
+  "data": {
+    "label": "À Propos",
+    "title": "Notre Mission",
+    "subtitle": "Rendre la création web accessible à tous",
+    "backgroundImage": {
+      "src": "/yacms-client-template/images/about-hero-bg.jpg",
+      "alt": "Background de la page À Propos"
+    },
+    "cta": {
+      "primary": {
+        "text": "Commencer",
+        "link": "/contact"
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
+        "link": "/projects"
+      }
+    },
+    "features": [
+      "Plateforme intuitive et moderne",
+      "Composants prêts à l'emploi",
+      "Support communautaire actif",
+      "Documentation complète"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/conversion/cta/CTABanner",
+    "section": "home/cta-banner"
+  },
+  "data": {
+    "title": "Prêt à Commencer ?",
+    "subtitle": "Rejoignez des centaines de professionnels qui font confiance à YACMS",
+    "features": [
+      "Déploiement en 5 minutes",
+      "Support technique disponible",
+      "Mises à jour régulières"
+    ],
+    "primaryCTA": {
+      "text": "Démarrer Gratuitement",
+      "href": "/contact",
+      "variant": "primary"
+    },
+    "secondaryCTA": {
+      "text": "Voir la Documentation",
+      "href": "/docs",
+      "variant": "outline"
+    }
+  }
+}

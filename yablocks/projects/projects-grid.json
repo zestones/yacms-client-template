@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "component": "blocks/content/services/ServiceGrid",
+    "section": "projects/projects-grid"
+  },
+  "data": {
+    "title": "Nos Réalisations",
+    "subtitle": "Des sites variés pour tous les besoins",
+    "services": [
+      {
+        "icon": "flame",
+        "situation": "Entreprise de conseil cherchant une présence en ligne professionnelle",
+        "title": "Site Corporate",
+        "benefit": "Un site vitrine élégant avec design épuré, navigation intuitive et contenu optimisé pour le SEO",
+        "image": "/yacms-client-template/images/project-corporate.jpg",
+        "features": [
+          "Responsive design",
+          "Temps de chargement < 1s",
+          "Score SEO 95/100"
+        ]
+      },
+      {
+        "icon": "zap",
+        "situation": "Boutique en ligne nécessitant une solution e-commerce complète",
+        "title": "E-Commerce",
+        "benefit": "Une plateforme moderne avec système de paiement intégré et gestion des stocks simplifiée",
+        "image": "/yacms-client-template/images/project-ecommerce.jpg",
+        "features": [
+          "Paiement sécurisé",
+          "Interface admin intuitive",
+          "Performance optimisée"
+        ]
+      },
+      {
+        "icon": "wind",
+        "situation": "Designer freelance voulant présenter son travail",
+        "title": "Portfolio Personnel",
+        "benefit": "Un portfolio minimaliste et élégant pour mettre en valeur les créations professionnelles",
+        "image": "/yacms-client-template/images/project-portfolio.jpg",
+        "features": [
+          "Design unique",
+          "Animations fluides",
+          "Mobile-first"
+        ]
+      },
+      {
+        "icon": "thermometer",
+        "situation": "Créateur de contenu cherchant une plateforme de publication",
+        "title": "Blog",
+        "benefit": "Un blog moderne avec système de commentaires et catégorisation avancée",
+        "image": "/yacms-client-template/images/project-blog.jpg",
+        "features": [
+          "Édition markdown",
+          "SEO optimisé",
+          "Partage social"
+        ]
+      },
+      {
+        "icon": "droplets",
+        "situation": "Agence immobilière nécessitant une vitrine digitale",
+        "title": "Site Immobilier",
+        "benefit": "Plateforme de présentation de biens avec recherche avancée et visites virtuelles",
+        "image": "/yacms-client-template/images/project-real-estate.jpg",
+        "features": [
+          "Filtres de recherche",
+          "Galerie photo optimisée",
+          "Formulaire de contact"
+        ]
+      },
+      {
+        "icon": "snowflake",
+        "situation": "Institution éducative voulant proposer des cours en ligne",
+        "title": "Site Éducatif",
+        "benefit": "Plateforme complète avec gestion des utilisateurs et suivi de progression des étudiants",
+        "image": "/yacms-client-template/images/project-education.jpg",
+        "features": [
+          "Gestion de cours",
+          "Suivi des étudiants",
+          "Espace membre"
+        ]
+      }
+    ]
+  }
+}

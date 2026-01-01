@@ -1,54 +1,52 @@
 {
   "meta": {
-    "component": "blocks/footer/PrimaryFooter",
-    "section": "home/footer"
+    "component": "blocks/layout/footer/FooterColumns",
+    "section": "shared/footer"
   },
   "data": {
-    "company": {
-      "name": "Votre Entreprise",
-      "tagline": "Une présence professionnelle en ligne, simplement."
+    "brand": {
+      "alt": "YACMS",
+      "logo": "/yacms-client-template/logo.svg",
+      "tagline": "Créez votre présence en ligne facilement et professionnellement."
     },
     "contact": {
-      "phone": "+33 1 00 00 00 00",
-      "email": "contact@example.com",
-      "address": "Adresse de votre entreprise, France"
+      "phone": "+33 1 23 45 67 89",
+      "email": "contact@yacms.com",
+      "address": "Paris, France"
     },
-    "social": [
+    "socialLinks": [
       {
-        "icon": "facebook",
-        "link": "https://facebook.com",
-        "label": "Facebook"
+        "platform": "twitter",
+        "href": "https://twitter.com/yacms"
       },
       {
-        "icon": "instagram",
-        "link": "https://instagram.com",
-        "label": "Instagram"
+        "platform": "linkedin",
+        "href": "https://linkedin.com/company/yacms"
       },
       {
-        "icon": "linkedin",
-        "link": "https://linkedin.com",
-        "label": "LinkedIn"
+        "platform": "facebook",
+        "href": "https://github.com/zestones/yacms"
       }
     ],
-    "sections": [
+    "linkGroups": [
       {
         "title": "Navigation",
         "links": [
           {
-            "label": "Accueil",
+            "text": "Accueil",
             "href": "/"
           },
           {
-            "label": "Services",
+            "text": "Services",
             "href": "#services"
           },
           {
-            "label": "À propos",
-            "href": "#about"
+            "text": "À propos",
+            "href": "/about"
           },
           {
-            "label": "Contact",
-            "href": "#contact"
+            "text": "Contact",
+            "href": "/contact"
           }
         ]
       },
@@ -56,59 +54,59 @@
         "title": "Ressources",
         "links": [
           {
-            "label": "FAQ",
-            "href": "/faq"
-          },
-          {
-            "label": "Blog",
-            "href": "/blog"
-          },
-          {
-            "label": "Documentation",
+            "text": "Documentation",
             "href": "/docs"
           },
           {
-            "label": "Support",
+            "text": "Guide de démarrage",
+            "href": "/docs/getting-started"
+          },
+          {
+            "text": "Exemples",
+            "href": "/examples"
+          },
+          {
+            "text": "Support",
             "href": "/support"
           }
         ]
       },
       {
-        "title": "Entreprise",
+        "title": "À propos",
         "links": [
           {
-            "label": "Notre histoire",
+            "text": "Notre vision",
             "href": "/about"
           },
           {
-            "label": "Équipe",
-            "href": "/team"
+            "text": "Blog",
+            "href": "/blog"
           },
           {
-            "label": "Carrières",
-            "href": "/careers"
+            "text": "Changelog",
+            "href": "/changelog"
           },
           {
-            "label": "Actualités",
-            "href": "/news"
+            "text": "Contribuer",
+            "href": "/contribute"
           }
         ]
       }
     ],
     "legal": {
-      "copyright": "© 2024 Votre Entreprise. Tous droits réservés.",
+      "copyright": "© 2026 YACMS. Tous droits réservés.",
       "links": [
         {
-          "label": "Mentions légales",
-          "href": "/mentions-legales"
+          "text": "Mentions légales",
+          "href": "/legal"
         },
         {
-          "label": "Politique de confidentialité",
-          "href": "/politique-confidentialite"
+          "text": "Politique de confidentialité",
+          "href": "/privacy"
         },
         {
-          "label": "Conditions générales",
-          "href": "/conditions"
+          "text": "CGU",
+          "href": "/terms"
         }
       ]
     }

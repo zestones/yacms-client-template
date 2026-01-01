@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "À Propos - YACMS",
+    "description": "Découvrez YACMS, une plateforme moderne de gestion de contenu conçue pour simplifier la création de sites web professionnels.",
+    "keywords": [
+      "à propos",
+      "yacms",
+      "plateforme",
+      "histoire",
+      "mission",
+      "équipe"
+    ],
+    "author": "zestones",
+    "canonical": "https://zestones.github.io/yacms-client-template/about",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/images/og-about.jpg",
+      "imageAlt": "À propos de YACMS"
+    }
+  },
+  "theme": "dark",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./hero.json",
+    "./mission.json",
+    "./features.json",
+    "./cta.json",
+    "../_shared/footer.json"
+  ]
+}
