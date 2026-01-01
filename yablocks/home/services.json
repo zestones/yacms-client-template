@@ -12,7 +12,7 @@
         "situation": "Vous avez besoin d'un site moderne et professionnel",
         "title": "Design Moderne",
         "benefit": "Des composants UI élégants et responsives pour créer une expérience utilisateur exceptionnelle",
-        "image": "/yacms-client-template/images/service-design.jpg",
+        "image": "/images/wallpaperflare.com_wallpaper (1).jpg",
         "features": [
           "Composants réutilisables",
           "Design responsive",
@@ -24,7 +24,7 @@
         "situation": "Votre site doit être rapide et performant",
         "title": "Performance Optimisée",
         "benefit": "Une architecture performante basée sur Astro pour des temps de chargement ultra-rapides",
-        "image": "/yacms-client-template/images/service-performance.jpg",
+        "image": "/images/1162946.jpg",
         "features": [
           "Chargement rapide",
           "SEO optimisé",
@@ -36,7 +36,7 @@
         "situation": "La sécurité de vos données est une priorité",
         "title": "Sécurité Renforcée",
         "benefit": "Protection de vos données avec une architecture moderne et des pratiques de sécurité éprouvées",
-        "image": "/yacms-client-template/images/service-security.jpg",
+        "image": "/images/ss.png",
         "features": [
           "HTTPS par défaut",
           "Authentification sécurisée",

@@ -36,7 +36,7 @@
       }
     ],
     "heroImage": {
-      "src": "/yacms-client-template/images/hero-dashboard.jpg",
+      "src": "/images/vinland.png",
       "alt": "Interface YACMS"
     }
   }
