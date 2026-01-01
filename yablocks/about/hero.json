@@ -8,7 +8,7 @@
     "title": "Notre Mission",
     "subtitle": "Rendre la création web accessible à tous",
     "backgroundImage": {
-      "src": "/yacms-client-template/images/about-hero-bg.jpg",
+      "src": "/images/ss.png",
       "alt": "Background de la page À Propos"
     },
     "cta": {
