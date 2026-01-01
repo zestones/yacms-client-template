@@ -19,7 +19,7 @@
       "imageAlt": "Contactez YACMS"
     }
   },
-  "theme": "dark",
+  "theme": "template-default",
   "blocks": [
     "../_shared/navigation.json",
     "./hero.json",
