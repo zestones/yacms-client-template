@@ -21,7 +21,7 @@
       "imageAlt": "Aperçu du modèle de site YACMS"
     }
   },
-  "theme": "light",
+  "theme": "template-default",
   "blocks": [
     "../_shared/navigation.json",
     "./hero.json",
