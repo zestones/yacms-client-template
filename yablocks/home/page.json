@@ -21,12 +21,12 @@
       "imageAlt": "Aperçu du modèle de site YACMS"
     }
   },
-  "theme": "template-default",
+  "theme": "light",
   "blocks": [
     "../_shared/navigation.json",
     "./hero.json",
-    "./services.json",
     "./value-proposition.json",
+    "./services.json",
     "./user-context.json",
     "./cta-banner.json",
     "../_shared/footer.json"
