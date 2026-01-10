@@ -32,7 +32,7 @@
       },
       "geo": {
         "latitude": 40.7128,
-        "longitude": -74.0060
+        "longitude": -74.006
       },
       "phone": "+15551234567",
       "email": "contact@yourbusiness.com",
@@ -59,7 +59,7 @@
       }
     }
   },
-  "theme": "default/light",
+  "theme": "template-default",
   "blocks": [
     "../_shared/navigation.json",
     "01-hero.json",
