@@ -1,17 +1,17 @@
 {
   "meta": {
     "component": "blocks/layout/navigation/PrimaryNavigation",
-    "section": "shared/navigation"
+    "section": "home/navigation"
   },
   "data": {
     "logo": {
-      "text": "YACMS",
+      "text": "YourBrand",
       "href": "/",
-      "image": "/yacms-client-template/logo.svg"
+      "image": "/logos/logo.png"
     },
     "links": [
       {
-        "label": "Accueil",
+        "label": "Home",
         "href": "/"
       },
       {
@@ -19,35 +19,35 @@
         "href": "#services",
         "dropdown": [
           {
-            "label": "Design Moderne",
-            "href": "#services"
+            "label": "Service One",
+            "href": "/services/service-one"
           },
           {
-            "label": "Performance",
-            "href": "#services"
+            "label": "Service Two",
+            "href": "/services/service-two"
           },
           {
-            "label": "Sécurité",
-            "href": "#services"
+            "label": "Service Three",
+            "href": "/services/service-three"
           }
         ]
       },
       {
-        "label": "À propos",
+        "label": "About",
         "href": "/about"
       },
       {
-        "label": "Projets",
-        "href": "/projects"
+        "label": "Portfolio",
+        "href": "/portfolio"
       },
       {
         "label": "Contact",
-        "href": "/contact"
+        "href": "#contact"
       }
     ],
     "cta": {
-      "text": "Démarrer",
-      "href": "/contact"
+      "text": "Get Started",
+      "href": "#contact"
     }
   }
 }
