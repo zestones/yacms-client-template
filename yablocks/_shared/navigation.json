@@ -1,13 +1,13 @@
 {
   "meta": {
     "component": "blocks/layout/navigation/PrimaryNavigation",
-    "section": "shared/navigation"
+    "section": "home/navigation"
   },
   "data": {
     "logo": {
-      "text": "YACMS",
+      "text": "Thermosolis",
       "href": "/",
-      "image": "/yacms-client-template/logo.svg"
+      "image": "/logos/logo-dark.png"
     },
     "links": [
       {
@@ -19,16 +19,24 @@
         "href": "#services",
         "dropdown": [
           {
-            "label": "Design Moderne",
-            "href": "#services"
+            "label": "Chauffage",
+            "href": "/services/chauffage"
           },
           {
-            "label": "Performance",
-            "href": "#services"
+            "label": "Climatisation",
+            "href": "#climatisation"
           },
           {
-            "label": "Sécurité",
-            "href": "#services"
+            "label": "Ventilation",
+            "href": "#ventilation"
+          },
+          {
+            "label": "Pompe à chaleur",
+            "href": "#pompe-a-chaleur"
+          },
+          {
+            "label": "Panneaux solaires",
+            "href": "#panneaux-solaires"
           }
         ]
       },
@@ -37,17 +45,17 @@
         "href": "/about"
       },
       {
-        "label": "Projets",
-        "href": "/projects"
+        "label": "Réalisations",
+        "href": "#realisations"
       },
       {
         "label": "Contact",
-        "href": "/contact"
+        "href": "#contact"
       }
     ],
     "cta": {
-      "text": "Démarrer",
-      "href": "/contact"
+      "text": "Devis Gratuit",
+      "href": "#contact"
     }
   }
 }

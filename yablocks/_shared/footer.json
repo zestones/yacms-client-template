@@ -1,96 +1,99 @@
 {
   "meta": {
     "component": "blocks/layout/footer/FooterColumns",
-    "section": "shared/footer"
+    "section": "_shared/footer"
   },
   "data": {
     "brand": {
-      "alt": "YACMS",
-      "logo": "/yacms-client-template/logo.svg",
-      "tagline": "Créez votre présence en ligne facilement et professionnellement."
+      "name": "Thermosolis",
+      "logo": "/logos/logo-dark.png",
+      "tagline": "Artisan expert en chauffage, climatisation et énergies renouvelables. Plus de 20 ans d'expérience à votre service.",
+      "alt": "Thermosolis"
     },
     "contact": {
-      "phone": "+33 1 23 45 67 89",
-      "email": "contact@yacms.com",
-      "address": "Paris, France"
+      "address": "15 rue Patroa\n42100 Saint-Étienne",
+      "phone": "06 60 59 98 35",
+      "email": "contact@thermosolis.fr",
+      "hours": "Lun-Ven : 8h-18h\nSam : 9h-12h"
     },
-    "socialLinks": [
-      {
-        "platform": "twitter",
-        "href": "https://twitter.com/yacms"
-      },
-      {
-        "platform": "linkedin",
-        "href": "https://linkedin.com/company/yacms"
-      },
-      {
-        "platform": "facebook",
-        "href": "https://github.com/zestones/yacms"
-      }
-    ],
     "linkGroups": [
       {
-        "title": "Navigation",
+        "title": "Services",
         "links": [
           {
-            "text": "Accueil",
-            "href": "/"
+            "text": "Chauffage",
+            "href": "/services/chauffage"
           },
           {
-            "text": "Services",
-            "href": "#services"
+            "text": "Climatisation",
+            "href": "/services/climatisation"
           },
+          {
+            "text": "Ventilation",
+            "href": "/services/ventilation"
+          },
+          {
+            "text": "Panneaux solaires",
+            "href": "/services/solaire"
+          },
+          {
+            "text": "Pompe à chaleur",
+            "href": "/services/pompe-a-chaleur"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": [
           {
             "text": "À propos",
-            "href": "/about"
+            "href": "/a-propos"
+          },
+          {
+            "text": "Nos réalisations",
+            "href": "/realisations"
+          },
+          {
+            "text": "Témoignages",
+            "href": "/temoignages"
+          }
+        ]
+      },
+      {
+        "title": "Informations",
+        "links": [
+          {
+            "text": "Aides et subventions",
+            "href": "/aides"
+          },
+          {
+            "text": "FAQ",
+            "href": "/faq"
           },
           {
             "text": "Contact",
             "href": "/contact"
           }
         ]
+      }
+    ],
+    "socialLinks": [],
+    "certifications": [
+      {
+        "src": "/logos/rge.png",
+        "alt": "RGE"
       },
       {
-        "title": "Ressources",
-        "links": [
-          {
-            "text": "Documentation",
-            "href": "/docs"
-          },
-          {
-            "text": "Guide de démarrage",
-            "href": "/docs/getting-started"
-          },
-          {
-            "text": "Exemples",
-            "href": "/examples"
-          },
-          {
-            "text": "Support",
-            "href": "/support"
-          }
-        ]
+        "src": "/logos/qualibat.avif",
+        "alt": "Qualibat"
       },
       {
-        "title": "À propos",
-        "links": [
-          {
-            "text": "Notre vision",
-            "href": "/about"
-          },
-          {
-            "text": "Blog",
-            "href": "/blog"
-          },
-          {
-            "text": "Changelog",
-            "href": "/changelog"
-          },
-          {
-            "text": "Contribuer",
-            "href": "/contribute"
-          }
-        ]
+        "src": "/logos/qualipac.png",
+        "alt": "QualiPAC"
+      },
+      {
+        "src": "/logos/qualisol.png",
+        "alt": "Qualisol"
       }
     ],
     "legal": {
@@ -98,15 +101,15 @@
       "links": [
         {
           "text": "Mentions légales",
-          "href": "/legal"
+          "href": "/mentions-legales"
         },
         {
           "text": "Politique de confidentialité",
-          "href": "/privacy"
+          "href": "/confidentialite"
         },
         {
-          "text": "CGU",
-          "href": "/terms"
+          "text": "CGV",
+          "href": "/cgv"
         }
       ]
     }
