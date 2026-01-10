@@ -17,7 +17,7 @@
       "imageAlt": "YourBrand - Page Not Found"
     }
   },
-  "theme": "light",
+  "theme": "template-default",
   "blocks": [
     "../_shared/navigation.json",
     "./not_found.json",
