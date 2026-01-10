@@ -5,13 +5,13 @@
   },
   "data": {
     "logo": {
-      "text": "Thermosolis",
+      "text": "YourBrand",
       "href": "/",
-      "image": "/logos/logo-dark.png"
+      "image": "/logos/logo.png"
     },
     "links": [
       {
-        "label": "Accueil",
+        "label": "Home",
         "href": "/"
       },
       {
@@ -19,34 +19,26 @@
         "href": "#services",
         "dropdown": [
           {
-            "label": "Chauffage",
-            "href": "/services/chauffage"
+            "label": "Service One",
+            "href": "/services/service-one"
           },
           {
-            "label": "Climatisation",
-            "href": "#climatisation"
+            "label": "Service Two",
+            "href": "/services/service-two"
           },
           {
-            "label": "Ventilation",
-            "href": "#ventilation"
-          },
-          {
-            "label": "Pompe à chaleur",
-            "href": "#pompe-a-chaleur"
-          },
-          {
-            "label": "Panneaux solaires",
-            "href": "#panneaux-solaires"
+            "label": "Service Three",
+            "href": "/services/service-three"
           }
         ]
       },
       {
-        "label": "À propos",
+        "label": "About",
         "href": "/about"
       },
       {
-        "label": "Réalisations",
-        "href": "#realisations"
+        "label": "Portfolio",
+        "href": "/portfolio"
       },
       {
         "label": "Contact",
@@ -54,7 +46,7 @@
       }
     ],
     "cta": {
-      "text": "Devis Gratuit",
+      "text": "Get Started",
       "href": "#contact"
     }
   }

@@ -4,33 +4,33 @@
     "section": "home/user-context"
   },
   "data": {
-    "title": "Votre confort à la maison n'est plus ce qu'il était ?",
-    "subtitle": "Panne soudaine ou installation vieillissante — ces situations du quotidien méritent une vraie attention.",
-    "closingStatement": "Ces situations sont plus fréquentes que vous ne le pensez — et elles ont toutes une solution.",
+    "title": "Facing Challenges in Your Business?",
+    "subtitle": "Every business faces obstacles. We understand the common pain points and have solutions ready.",
+    "closingStatement": "These challenges are more common than you think — and they all have solutions.",
     "contexts": [
       {
         "type": "urgent",
-        "heading": "Quelque chose ne fonctionne plus",
+        "heading": "Immediate Needs",
         "situations": [
-          "Votre chauffage est tombé en panne",
-          "Plus d'eau chaude depuis ce matin",
-          "La climatisation ne refroidit plus",
-          "Une odeur inhabituelle se dégage"
+          "Your current solution isn't working",
+          "Urgent deadline approaching",
+          "Technical issues affecting operations",
+          "Need expert advice quickly"
         ]
       },
       {
         "type": "improvement",
-        "heading": "Ce n'est pas une urgence, mais…",
+        "heading": "Growth Opportunities",
         "situations": [
-          "Certaines pièces restent froides l'hiver",
-          "Vos factures d'énergie augmentent",
-          "Votre installation a plus de 15 ans",
-          "Vous pensez à passer aux énergies renouvelables"
+          "Looking to scale your business",
+          "Want to improve efficiency",
+          "Outdated systems need upgrading",
+          "Ready to innovate and modernize"
         ]
       }
     ],
-    "eyebrow": "Vous reconnaissez-vous ?",
-    "urgentLabel": "Situation urgente",
-    "improvementLabel": "Besoin d'amélioration"
+    "eyebrow": "Does this sound familiar?",
+    "urgentLabel": "Urgent Situation",
+    "improvementLabel": "Room for Improvement"
   }
 }

@@ -4,23 +4,23 @@
     "section": "home/cta"
   },
   "data": {
-    "eyebrow": "Prêt à commencer ?",
-    "title": "Demandez votre devis gratuit",
-    "subtitle": "Réponse sous 24h. Sans engagement.",
+    "eyebrow": "Ready to Get Started?",
+    "title": "Request Your Free Consultation",
+    "subtitle": "Response within 24 hours. No obligation.",
     "primaryCTA": {
-      "text": "Obtenir un devis",
-      "href": "/devis",
+      "text": "Get a Quote",
+      "href": "/contact",
       "variant": "primary"
     },
     "secondaryCTA": {
-      "text": "06 60 59 98 35",
-      "href": "tel:+33660599835",
+      "text": "(555) 123-4567",
+      "href": "tel:+15551234567",
       "variant": "outline"
     },
     "features": [
-      "Devis gratuit",
-      "Sans engagement",
-      "Réponse sous 24h"
+      "Free consultation",
+      "No obligation",
+      "24-hour response"
     ],
     "layout": "split"
   }

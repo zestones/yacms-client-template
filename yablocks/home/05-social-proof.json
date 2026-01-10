@@ -4,71 +4,71 @@
     "section": "home/trust"
   },
   "data": {
-    "eyebrow": "Pourquoi nous choisir",
-    "title": "Votre artisan chauffagiste à Saint-Étienne depuis 2002",
-    "subtitle": "Artisan qualifié RGE intervenant dans toute la Loire. Certifications professionnelles garantissant un travail soigné et conforme aux normes.",
+    "eyebrow": "Why Choose Us",
+    "title": "Trusted by Businesses Since 2015",
+    "subtitle": "Certified professionals delivering excellence across all projects. Industry-recognized certifications ensuring quality work that meets the highest standards.",
     "stats": [
       {
-        "value": "23",
-        "suffix": "ans",
-        "label": "d'expérience artisanale"
-      },
-      {
-        "value": "100",
+        "value": "10",
         "suffix": "+",
-        "label": "clients satisfaits"
+        "label": "years of experience"
       },
       {
-        "value": "2021",
+        "value": "500",
+        "suffix": "+",
+        "label": "satisfied clients"
+      },
+      {
+        "value": "2015",
         "suffix": "",
-        "label": "date de création"
+        "label": "year established"
       },
       {
-        "value": "48",
-        "suffix": "h",
-        "label": "délai d'intervention"
+        "value": "24",
+        "suffix": "hrs",
+        "label": "response time"
       }
     ],
     "certifications": [
       {
         "icon": "award",
-        "name": "Certifié RGE",
-        "description": "Reconnu Garant de l'Environnement"
+        "name": "Industry Certified",
+        "description": "Recognized industry standards certification"
       },
       {
         "icon": "shield-check",
-        "name": "Qualisol",
-        "description": "Installation de systèmes solaires thermiques"
+        "name": "Quality Assured",
+        "description": "ISO quality management certified"
       },
       {
         "icon": "certificate",
-        "name": "Qualibat",
-        "description": "Certification professionnelle du bâtiment"
+        "name": "Professional Member",
+        "description": "Member of professional associations"
       },
       {
         "icon": "zap",
-        "name": "QualiPAC",
-        "description": "Spécialiste en installation de pompes à chaleur"
+        "name": "Technology Partner",
+        "description": "Certified technology implementation partner"
       }
     ],
     "trustLogos": [
       {
-        "src": "/logos/rge.png",
-        "alt": "Logo RGE"
+        "src": "/logos/certification-1.png",
+        "alt": "Certification 1 Logo"
       },
       {
-        "src": "/logos/qualibat.avif",
-        "alt": "Logo Qualibat"
+        "src": "/logos/certification-2.png",
+        "alt": "Certification 2 Logo"
       },
       {
-        "src": "/logos/qualipac.png",
-        "alt": "Logo QualiPAC"
+        "src": "/logos/certification-3.png",
+        "alt": "Certification 3 Logo"
       },
       {
-        "src": "/logos/qualisol.png",
-        "alt": "Logo QualiSol"
+        "src": "/logos/certification-4.png",
+        "alt": "Certification 4 Logo"
       }
     ],
-    "trustLogosTitle": "Nos certifications professionnelles"
+    "trustLogosTitle": "Our Professional Certifications"
   }
 }

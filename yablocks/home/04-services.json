@@ -4,163 +4,113 @@
     "section": "home/services"
   },
   "data": {
-    "title": "Comment pouvons-nous vous aider ?",
-    "subtitle": "Solutions de chauffage et climatisation à Saint-Étienne, Firminy, Roanne et dans toute la Loire. Intervention sous 48h dans un rayon de 70km.",
-    "badge": "Nos expertises",
+    "title": "How Can We Help You?",
+    "subtitle": "Comprehensive solutions designed to meet your business needs. Expert services delivered with quality and professionalism.",
+    "badge": "Our Services",
     "services": [
       {
-        "icon": "droplets",
-        "situation": "Fuite ou problème d'eau",
-        "title": "Plomberie & Sanitaires",
-        "benefit": "Intervention rapide pour tous vos problèmes de plomberie dans la Loire. Service d'urgence disponible.",
-        "description": "De la simple fuite au remplacement complet de votre installation sanitaire à Saint-Étienne et environs.",
-        "image": "/images/plomberie.jpg",
+        "icon": "lightbulb",
+        "situation": "Need strategic guidance",
+        "title": "Consulting Services",
+        "benefit": "Expert advice and strategic planning to help your business thrive. Comprehensive analysis and actionable recommendations.",
+        "description": "From business strategy to operational optimization, we provide insights that drive growth.",
+        "image": "/images/consulting.jpg",
         "features": [
-          "Dépannage urgent 24h/24",
-          "Détection de fuites sans casse",
-          "Installation chauffe-eau",
-          "Rénovation salle de bain",
-          "Débouchage canalisations",
-          "Garantie pièces & main d'œuvre"
+          "Strategic planning",
+          "Business analysis",
+          "Process optimization",
+          "Market research",
+          "Growth strategies",
+          "ROI-focused solutions"
         ],
         "cta": {
-          "text": "Découvrir",
-          "href": "/services/plomberie"
+          "text": "Learn More",
+          "href": "/services/consulting"
         },
-        "badge": "Urgence 24/7",
+        "badge": "Most Popular",
         "stats": {
-          "value": "48h",
-          "label": "Délai d'intervention"
+          "value": "200+",
+          "label": "Projects Completed"
         }
       },
       {
-        "icon": "flame",
-        "situation": "Plus de chauffage ou chauffage inefficace",
-        "title": "Chauffage Central",
-        "benefit": "Installation, dépannage et entretien de tous types de chaudières et systèmes de chauffage central.",
-        "description": "Profitez d'un confort thermique optimal avec nos solutions de chauffage performantes et économiques.",
-        "image": "https://www.maisonentravaux.fr/wp-content/uploads/2021/01/devis-pose-chauffage-central.jpg",
+        "icon": "code",
+        "situation": "Need technical solutions",
+        "title": "Development Services",
+        "benefit": "Custom software development tailored to your unique business requirements. Scalable and maintainable solutions.",
+        "description": "Build powerful applications with modern technologies and best practices.",
+        "image": "/images/development.jpg",
         "features": [
-          "Chaudières gaz condensation",
-          "Chaudières fioul & granulés",
-          "Plancher chauffant hydraulique",
-          "Installation radiateurs",
-          "Entretien annuel obligatoire",
-          "Contrat de maintenance"
+          "Web applications",
+          "Mobile apps",
+          "API integration",
+          "Database design",
+          "Cloud solutions",
+          "Ongoing support"
         ],
         "cta": {
-          "text": "Découvrir",
-          "href": "/services/chauffage"
+          "text": "Learn More",
+          "href": "/services/development"
         },
-        "badge": "RGE QualiPAC",
+        "badge": "Tech-driven",
         "stats": {
-          "value": "23 ans",
-          "label": "Expérience"
+          "value": "99%",
+          "label": "Client Satisfaction"
         }
       },
       {
-        "icon": "snowflake",
-        "situation": "Trop chaud l'été",
-        "title": "Climatisation Réversible",
-        "benefit": "Climatisez l'été et chauffez l'hiver avec nos solutions 2-en-1 économiques et silencieuses.",
-        "description": "Installation de climatiseurs réversibles dernière génération, pour un confort toute l'année.",
-        "image": "https://climfactory.com/img/.cms/Article%202.jpeg",
+        "icon": "palette",
+        "situation": "Need creative design",
+        "title": "Design Services",
+        "benefit": "Beautiful, user-friendly designs that engage your audience and elevate your brand.",
+        "description": "Create memorable experiences through thoughtful design and attention to detail.",
+        "image": "/images/design.jpg",
         "features": [
-          "Climatisation mono & multi-split",
-          "Système gainable invisible",
-          "Technologie Inverter économique",
-          "Installation certifiée F-GAS",
-          "Filtres purificateurs d'air",
-          "Garantie fabricant 5 ans"
+          "UI/UX design",
+          "Brand identity",
+          "Graphic design",
+          "Responsive layouts",
+          "Design systems",
+          "User research"
         ],
-        "href": "/services/climatisation",
-        "badge": "Éco-responsable",
+        "cta": {
+          "text": "Learn More",
+          "href": "/services/design"
+        },
+        "badge": "Creative",
         "stats": {
-          "value": "-65%",
-          "label": "Consommation vs chauffage électrique"
+          "value": "150+",
+          "label": "Brands Designed"
         }
       },
       {
-        "icon": "thermometer",
-        "situation": "Réduire ma consommation d'énergie",
-        "title": "Pompe à Chaleur",
-        "benefit": "Économisez jusqu'à 75% sur vos factures de chauffage avec une pompe à chaleur dernière génération.",
-        "description": "Solution de chauffage écologique et économique. Éligible aux aides MaPrimeRénov' et CEE.",
-        "image": "https://bo.calculeo.fr/sites/default/files/styles/web_p/public/2022-01/PAC_TopPage.jpg.webp",
+        "icon": "shield",
+        "situation": "Need reliable support",
+        "title": "Support & Maintenance",
+        "benefit": "Keep your systems running smoothly with proactive monitoring and rapid response support.",
+        "description": "Peace of mind knowing your technology is in expert hands.",
+        "image": "/images/support.jpg",
         "features": [
-          "PAC air/eau haute température",
-          "PAC air/air réversible",
-          "Géothermie & aquathermie",
-          "Aides financières incluses",
-          "ROI en 5-7 ans",
-          "Maintenance préventive"
+          "24/7 monitoring",
+          "Security updates",
+          "Performance optimization",
+          "Bug fixes",
+          "Technical support",
+          "Regular maintenance"
         ],
         "cta": {
-          "text": "Découvrir",
-          "href": "/services/chauffage"
+          "text": "Learn More",
+          "href": "/services/support"
         },
-        "badge": "★ Populaire",
+        "badge": "Always Available",
         "stats": {
-          "value": "-70%",
-          "label": "Économies d'énergie"
-        }
-      },
-      {
-        "icon": "wind",
-        "situation": "Air intérieur mal ventilé",
-        "title": "VMC & Ventilation",
-        "benefit": "Assainissez votre air intérieur et éliminez humidité et polluants avec nos systèmes de ventilation.",
-        "description": "Une bonne ventilation est essentielle pour votre santé et la durabilité de votre logement.",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-        "features": [
-          "VMC simple flux autoréglable",
-          "VMC double flux avec récupération",
-          "Ventilation hygro-réglable",
-          "Entretien & nettoyage VMC",
-          "Traitement anti-humidité",
-          "Conformité RT 2020"
-        ],
-        "cta": {
-          "text": "Découvrir",
-          "href": "/services/ventilation"
-        },
-        "stats": {
-          "value": "90%",
-          "label": "Récupération chaleur"
-        }
-      },
-      {
-        "icon": "zap",
-        "situation": "Problème électrique ou mise aux normes",
-        "title": "Électricité Générale",
-        "benefit": "Mise en conformité, rénovation électrique et dépannage par des électriciens qualifiés.",
-        "description": "Sécurisez votre installation électrique et bénéficiez d'un diagnostic complet gratuit.",
-        "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800",
-        "features": [
-          "Mise aux normes NF C 15-100",
-          "Remplacement tableau électrique",
-          "Installation borne recharge VE",
-          "Dépannage électrique 24/7",
-          "Diagnostic électrique gratuit",
-          "Certification Qualifelec"
-        ],
-        "cta": {
-          "text": "Découvrir",
-          "href": "/services/electricite"
-        },
-        "badge": "Certifié",
-        "stats": {
-          "value": "24h/24",
-          "label": "Dépannage urgent"
-        },
-        "pricing": {
-          "startingAt": "75€",
-          "unit": "dépannage"
+          "value": "<2hr",
+          "label": "Response Time"
         }
       }
     ],
     "cta": {
-      "text": "Demander un devis gratuit",
+      "text": "Request a Free Quote",
       "href": "/contact",
       "variant": "primary"
     },

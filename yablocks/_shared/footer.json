@@ -5,66 +5,62 @@
   },
   "data": {
     "brand": {
-      "name": "Thermosolis",
-      "logo": "/logos/logo-dark.png",
-      "tagline": "Artisan expert en chauffage, climatisation et énergies renouvelables. Plus de 20 ans d'expérience à votre service.",
-      "alt": "Thermosolis"
+      "name": "YourBrand",
+      "logo": "/logos/logo.png",
+      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
+      "alt": "YourBrand Logo"
     },
     "contact": {
-      "address": "15 rue Patroa\n42100 Saint-Étienne",
-      "phone": "06 60 59 98 35",
-      "email": "contact@thermosolis.fr",
-      "hours": "Lun-Ven : 8h-18h\nSam : 9h-12h"
+      "address": "123 Main Street\nYour City, ST 12345",
+      "phone": "(555) 123-4567",
+      "email": "contact@yourbusiness.com",
+      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
     },
     "linkGroups": [
       {
         "title": "Services",
         "links": [
           {
-            "text": "Chauffage",
-            "href": "/services/chauffage"
+            "text": "Consulting",
+            "href": "/services/consulting"
           },
           {
-            "text": "Climatisation",
-            "href": "/services/climatisation"
+            "text": "Development",
+            "href": "/services/development"
           },
           {
-            "text": "Ventilation",
-            "href": "/services/ventilation"
+            "text": "Design",
+            "href": "/services/design"
           },
           {
-            "text": "Panneaux solaires",
-            "href": "/services/solaire"
-          },
-          {
-            "text": "Pompe à chaleur",
-            "href": "/services/pompe-a-chaleur"
+            "text": "Support",
+            "href": "/services/support"
           }
         ]
       },
       {
-        "title": "Entreprise",
+        "title": "Company",
         "links": [
           {
-            "text": "À propos",
-            "href": "/a-propos"
+            "text": "About Us",
+            "href": "/about"
           },
           {
-            "text": "Nos réalisations",
-            "href": "/realisations"
+            "text": "Our Work",
+            "href": "/portfolio"
           },
           {
-            "text": "Témoignages",
-            "href": "/temoignages"
+            "text": "Testimonials",
+            "href": "/testimonials"
           }
         ]
       },
       {
-        "title": "Informations",
+        "title": "Resources",
         "links": [
           {
-            "text": "Aides et subventions",
-            "href": "/aides"
+            "text": "Blog",
+            "href": "/blog"
           },
           {
             "text": "FAQ",
@@ -80,36 +76,28 @@
     "socialLinks": [],
     "certifications": [
       {
-        "src": "/logos/rge.png",
-        "alt": "RGE"
+        "src": "/logos/certification-1.png",
+        "alt": "Certification 1"
       },
       {
-        "src": "/logos/qualibat.avif",
-        "alt": "Qualibat"
-      },
-      {
-        "src": "/logos/qualipac.png",
-        "alt": "QualiPAC"
-      },
-      {
-        "src": "/logos/qualisol.png",
-        "alt": "Qualisol"
+        "src": "/logos/certification-2.png",
+        "alt": "Certification 2"
       }
     ],
     "legal": {
-      "copyright": "Tous droits réservés.",
+      "copyright": "All rights reserved.",
       "links": [
         {
-          "text": "Mentions légales",
-          "href": "/mentions-legales"
+          "text": "Legal Notice",
+          "href": "/legal"
         },
         {
-          "text": "Politique de confidentialité",
-          "href": "/confidentialite"
+          "text": "Privacy Policy",
+          "href": "/privacy"
         },
         {
-          "text": "CGV",
-          "href": "/cgv"
+          "text": "Terms of Service",
+          "href": "/terms"
         }
       ]
     }
