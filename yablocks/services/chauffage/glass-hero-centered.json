@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "services/chauffage/glass-hero-centered"
+  },
+  "data": {
+    "label": "dvsdvsdv",
+    "title": "",
+    "subtitle": "",
+    "cta": {
+      "primary": {
+        "text": "ELEC",
+        "link": "/elec"
+      }
+    },
+    "features": [
+      ""
+    ]
+  }
+}
