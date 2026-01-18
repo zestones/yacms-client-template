@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "services/glass-hero-centered"
+  },
+  "data": {
+    "label": "",
+    "title": "",
+    "subtitle": "",
+    "cta": {
+      "primary": {
+        "text": "",
+        "link": "/services/chauffage"
+      }
+    },
+    "features": [
+      "",
+      ""
+    ]
+  }
+}
