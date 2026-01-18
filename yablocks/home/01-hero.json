@@ -14,7 +14,7 @@
     "cta": {
       "primary": {
         "text": "Get Started",
-        "link": "/tests/elec"
+        "link": "/test/elec"
       },
       "secondary": {
         "text": "(555) 123-4567",
