@@ -14,7 +14,7 @@
     "cta": {
       "primary": {
         "text": "Get Started",
-        "link": "/services/chauffage"
+        "link": "/service/chauffage"
       },
       "secondary": {
         "text": "(555) 123-4567",
