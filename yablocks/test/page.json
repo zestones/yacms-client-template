@@ -4,6 +4,8 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "template-default",
+  "blocks": [
+    "./value-proposition.json"
+  ]
 }
