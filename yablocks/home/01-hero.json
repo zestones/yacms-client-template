@@ -14,7 +14,7 @@
     "cta": {
       "primary": {
         "text": "Get Started",
-        "link": "/hello/plomberie"
+        "link": "/test/plomberie"
       },
       "secondary": {
         "text": "(555) 123-4567",
