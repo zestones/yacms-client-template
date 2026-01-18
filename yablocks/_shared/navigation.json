@@ -20,15 +20,15 @@
         "dropdown": [
           {
             "label": "Service One",
-            "href": "/services/service-one"
+            "href": "/service/service-one"
           },
           {
             "label": "Service Two",
-            "href": "/services/service-two"
+            "href": "/service/service-two"
           },
           {
             "label": "Service Three",
-            "href": "/services/service-three"
+            "href": "/service/service-three"
           }
         ]
       },

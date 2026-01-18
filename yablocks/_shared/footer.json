@@ -22,19 +22,19 @@
         "links": [
           {
             "text": "Consulting",
-            "href": "/services/consulting"
+            "href": "/service/consulting"
           },
           {
             "text": "Development",
-            "href": "/services/development"
+            "href": "/service/development"
           },
           {
             "text": "Design",
-            "href": "/services/design"
+            "href": "/service/design"
           },
           {
             "text": "Support",
-            "href": "/services/support"
+            "href": "/service/support"
           }
         ]
       },

@@ -25,7 +25,7 @@
         ],
         "cta": {
           "text": "Learn More",
-          "href": "/services/consulting"
+          "href": "/service/consulting"
         },
         "badge": "Most Popular",
         "stats": {
@@ -50,7 +50,7 @@
         ],
         "cta": {
           "text": "Learn More",
-          "href": "/services/development"
+          "href": "/service/development"
         },
         "badge": "Tech-driven",
         "stats": {
@@ -75,7 +75,7 @@
         ],
         "cta": {
           "text": "Learn More",
-          "href": "/services/design"
+          "href": "/service/design"
         },
         "badge": "Creative",
         "stats": {
@@ -100,7 +100,7 @@
         ],
         "cta": {
           "text": "Learn More",
-          "href": "/services/support"
+          "href": "/service/support"
         },
         "badge": "Always Available",
         "stats": {
