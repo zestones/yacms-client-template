@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "reset/glass-hero-centered"
+  },
+  "data": {
+    "label": "scsqscqscqsc",
+    "title": "qscqscsqc",
+    "subtitle": "qscqscqscqscsqcqsc",
+    "backgroundImage": {
+      "src": "/images/Code Geass.jpg",
+      "alt": ""
+    },
+    "cta": {
+      "primary": {
+        "text": "",
+        "link": ""
+      }
+    },
+    "features": [
+      "qscqscqscqsc"
+    ]
+  }
+}
