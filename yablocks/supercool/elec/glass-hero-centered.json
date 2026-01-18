@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/hero/GlassHeroCentered",
-    "section": "service/chauffage/glass-hero-centered"
+    "section": "services/elec/glass-hero-centered"
   },
   "data": {
     "label": "",
@@ -10,7 +10,7 @@
     "cta": {
       "primary": {
         "text": "",
-        "link": "/test/chauffage"
+        "link": "/supercool/elec"
       }
     },
     "features": [
