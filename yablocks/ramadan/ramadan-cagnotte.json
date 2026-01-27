@@ -19,6 +19,10 @@
     },
     "showDonorsCount": true,
     "donorsCount": 150,
-    "motivationalMessage": "« Celui qui construit une mosquée pour Allah, \nAllah lui construit une demeure au paradis » - sahih Muslim n°533"
+    "motivationalMessage": "« Celui qui construit une mosquée pour Allah, \nAllah lui construit une demeure au paradis » - sahih Muslim n°533",
+    "logo": {
+      "src": "/logos/Logo.png",
+      "alt": ""
+    }
   }
 }
