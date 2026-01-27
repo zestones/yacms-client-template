@@ -16,6 +16,9 @@
     "backgroundImage": {
       "src": "/images/banner.png",
       "alt": ""
-    }
+    },
+    "showDonorsCount": true,
+    "donorsCount": 150,
+    "motivationalMessage": "« La meilleure des aumônes est celle donnée pendant le Ramadan » - Hadith"
   }
 }
