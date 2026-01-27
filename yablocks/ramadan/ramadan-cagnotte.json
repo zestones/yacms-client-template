@@ -4,14 +4,18 @@
     "section": "ramadan/ramadan-cagnotte"
   },
   "data": {
-    "title": "",
-    "subtitle": "",
-    "endDate": "",
-    "currentAmount": 0,
-    "goalAmount": 100000,
+    "title": "Cagnotte Ramadan 2025",
+    "subtitle": "Ensemble, aidons les plus démunis durant ce mois béni. Chaque contribution fait la différence.",
+    "endDate": "2026-03-19",
+    "currentAmount": 100000,
+    "goalAmount": 400000,
     "cta": {
-      "text": "",
-      "link": ""
+      "text": "Faire un don",
+      "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+    },
+    "backgroundImage": {
+      "src": "/images/banner.png",
+      "alt": ""
     }
   }
 }
