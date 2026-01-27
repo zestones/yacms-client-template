@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/content/proposition/ValueProposition",
+    "section": "ramadan/value-proposition"
+  },
+  "data": {
+    "eyebrow": "Sample text",
+    "title": "Sample Title",
+    "subtitle": "Sample Title",
+    "steps": [
+      {
+        "icon": "search",
+        "title": "Sample Title",
+        "description": "This is a sample description that demonstrates the content structure."
+      },
+      {
+        "icon": "search",
+        "title": "Sample Title",
+        "description": "This is a sample description that demonstrates the content structure."
+      },
+      {
+        "icon": "search",
+        "title": "Sample Title",
+        "description": "This is a sample description that demonstrates the content structure."
+      }
+    ],
+    "outcome": {
+      "title": "Sample Title",
+      "points": [
+        "Sample text",
+        "Sample text",
+        "Sample text"
+      ]
+    },
+    "proof": {
+      "stat": "Sample text",
+      "label": "Sample Label"
+    },
+    "outcomeLabel": "vd"
+  }
+}

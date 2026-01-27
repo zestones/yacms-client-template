@@ -6,6 +6,7 @@
   },
   "theme": "light",
   "blocks": [
-    "./glass-hero-centered.json"
+    "./glass-hero-centered.json",
+    "./value-proposition.json"
   ]
 }
