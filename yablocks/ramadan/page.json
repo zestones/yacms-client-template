@@ -4,9 +4,8 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
+  "theme": "elegant",
   "blocks": [
-    "./glass-hero-centered.json",
-    "./value-proposition.json"
+    "./ramadan-cagnotte.json"
   ]
 }

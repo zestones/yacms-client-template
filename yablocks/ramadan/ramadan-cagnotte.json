@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/conversion/countdown/RamadanCagnotte",
+    "section": "ramadan/ramadan-cagnotte"
+  },
+  "data": {
+    "title": "",
+    "subtitle": "",
+    "endDate": "",
+    "currentAmount": 0,
+    "goalAmount": 100000,
+    "cta": {
+      "text": "",
+      "link": ""
+    }
+  }
+}
