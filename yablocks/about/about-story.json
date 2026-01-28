@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "component": "blocks/content/about/AboutStory",
+    "section": "about/about-story"
+  },
+  "data": {
+    "story": {
+      "eyebrow": "Notre histoire",
+      "title": "Une Aventure Humaine Depuis 2000",
+      "paragraphs": [
+        "Fondée il y a plus de 20 ans, Thermosolis est née de la passion d'un artisan pour les métiers du chauffage et de la plomberie. Ce qui a commencé comme une petite entreprise locale est devenu une référence dans la région stéphanoise.,       Au fil des années, nous avons élargi notre expertise à la climatisation et aux pompes à chaleur, toujours avec la même exigence de qualité et le même souci du détail qui ont fait notre réputation.,       Aujourd'hui, notre équipe de techniciens qualifiés perpétue cette tradition d'excellence, combinant savoir-faire artisanal et technologies modernes pour vous offrir le meilleur service possible."
+      ],
+      "image": {
+        "src": "/images/AkiraSatoInterrupteur .png",
+        "alt": ""
+      },
+      "quote": {
+        "text": "L'anticipation, Enleve les mains de tes poches",
+        "author": "Benguezzou  Abdelhak",
+        "role": "Gerant et fondateur"
+      }
+    },
+    "values": {
+      "eyebrow": "Nos Valeurs",
+      "title": "Ce qui nous animent au quotidient",
+      "subtitle": "Des engagements concrets pour votre satisfaction",
+      "items": [
+        {
+          "icon": "zap",
+          "title": "Reactivité",
+          "description": "Intervention Garantie sous 24h"
+        },
+        {
+          "icon": "shield",
+          "title": "Robustesse",
+          "description": "Des solutions durable et constantes"
+        },
+        {
+          "icon": "award",
+          "title": "Certifié",
+          "description": "Garanti certifié RGE"
+        }
+      ]
+    }
+  }
+}
