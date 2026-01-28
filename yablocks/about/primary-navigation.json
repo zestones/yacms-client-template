@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "about/primary-navigation"
+  },
+  "data": {
+    "logo": {
+      "text": ""
+    },
+    "links": [
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Services",
+        "href": "",
+        "dropdown": [
+          {
+            "label": "Chauffage",
+            "href": ""
+          },
+          {
+            "label": "Clim",
+            "href": ""
+          },
+          {
+            "label": "Plomberie",
+            "href": ""
+          }
+        ]
+      },
+      {
+        "label": "Realisation",
+        "href": ""
+      },
+      {
+        "label": "Contact",
+        "href": ""
+      }
+    ],
+    "cta": {
+      "text": "Contactez Nous",
+      "href": "#contact"
+    }
+  }
+}
