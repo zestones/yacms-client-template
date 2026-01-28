@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/AboutHero",
+    "section": "about/about-hero"
+  },
+  "data": {
+    "eyebrow": "A Propos",
+    "title": "Votre Expert Depuis 23 ans",
+    "subtitle": "Une entreprise familliale au service de votre confort",
+    "backgroundImage": {
+      "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
+      "alt": ""
+    },
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "link": ""
+      },
+      {
+        "label": "About",
+        "link": ""
+      }
+    ],
+    "stats": [
+      {
+        "value": "RGE",
+        "label": "Certifié"
+      },
+      {
+        "value": "23",
+        "label": "Ans d'experience"
+      },
+      {
+        "value": "23",
+        "label": "Ans D'Experience"
+      }
+    ]
+  }
+}
