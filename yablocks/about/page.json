@@ -6,7 +6,7 @@
   },
   "theme": "dark",
   "blocks": [
-    "./about-hero.json",
-    "./primary-navigation.json"
+    "./primary-navigation.json",
+    "./about-hero.json"
   ]
 }
