@@ -5,7 +5,9 @@
   },
   "data": {
     "logo": {
-      "text": ""
+      "text": "Logo",
+      "href": "/about",
+      "image": "/logos/logo.png"
     },
     "links": [
       {
