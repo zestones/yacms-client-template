@@ -42,6 +42,11 @@ There is two things to configure in the GitHub Actions workflow file located at 
 > [!IMPORTANT]
 > Make sure to set the `PAT_TOKEN` secret in your repository settings. This token is required for the workflow to trigger builds in the YACMS central repository.
 
+The fine-grained token should have at least the following permissions set :
+
+- Read access to metadata
+- Read and Write access to code
+
 ## Folders Structure
 
 | Folder      | Description                                        |
