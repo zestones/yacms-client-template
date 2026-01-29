@@ -44,8 +44,8 @@ There is two things to configure in the GitHub Actions workflow file located at 
 
 The fine-grained token should have at least the following permissions set :
 
-- Read access to metadata
-- Read and Write access to code
+- `Metadata`: Read access to metadata
+- `Contents`: Read and Write access to code
 
 ## Folders Structure
 
