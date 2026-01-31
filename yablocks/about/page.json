@@ -1,9 +1,13 @@
 {
   "meta": {
-    "title": "hello",
+    "title": "About",
     "description": "",
     "keywords": []
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "dark",
+  "blocks": [
+    "./primary-navigation.json",
+    "./about-hero.json",
+    "./about-story.json"
+  ]
 }
