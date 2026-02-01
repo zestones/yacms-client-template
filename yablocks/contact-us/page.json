@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
+  "theme": "dark",
   "blocks": [
     "./contact01.json"
   ]
