@@ -22,10 +22,10 @@
       }
     ],
     "formPlaceholders": {
-      "firstName": "caca",
-      "lastName": "bouda",
-      "email": "crepu@gmail.com",
-      "message": "Saleté de malogusto"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "message": "Demande rédiger clairement"
     }
   }
 }
