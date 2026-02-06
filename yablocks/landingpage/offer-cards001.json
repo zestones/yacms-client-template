@@ -93,7 +93,7 @@
         ],
         "cta": {
           "text": "Choisir Business",
-          "link": "/contact?offer=business"
+          "link": ""
         },
         "badge": "Populaire",
         "highlighted": true
