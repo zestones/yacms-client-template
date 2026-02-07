@@ -6,6 +6,7 @@
   },
   "theme": "theme001",
   "blocks": [
+    "./primary-navigation.json",
     "./hero001.json",
     "./problem-solution001.json",
     "./offer-cards001.json",

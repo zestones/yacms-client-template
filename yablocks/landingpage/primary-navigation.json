@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "landingpage/primary-navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "Yacms"
+    },
+    "links": [
+      {
+        "label": "Home",
+        "href": "/landingpage"
+      },
+      {
+        "label": "Zestones",
+        "href": ""
+      },
+      {
+        "label": "Offres",
+        "href": ""
+      },
+      {
+        "label": "Comment ca marce ?",
+        "href": ""
+      },
+      {
+        "label": "Portfolioo",
+        "href": ""
+      }
+    ],
+    "cta": {
+      "text": "Contactez nous"
+    }
+  }
+}
