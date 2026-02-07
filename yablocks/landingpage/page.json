@@ -4,12 +4,11 @@
     "description": "",
     "keywords": []
   },
-  "theme": "dark",
+  "theme": "theme001",
   "blocks": [
     "./hero001.json",
     "./problem-solution001.json",
     "./offer-cards001.json",
-    "./process-step001.json",
-    "./portfolio-grid001.json"
+    "./process-step001.json"
   ]
 }
