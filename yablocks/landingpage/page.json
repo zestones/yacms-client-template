@@ -6,6 +6,6 @@
   },
   "theme": "light",
   "blocks": [
-    "./value-proposition.json"
+    "./hero002.json"
   ]
 }
