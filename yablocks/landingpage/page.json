@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "theme002",
+  "theme": "light",
   "blocks": [
     "./primary-navigation.json",
     "./hero001.json",
