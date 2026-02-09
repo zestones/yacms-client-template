@@ -4,8 +4,10 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
+  "theme": "dark",
   "blocks": [
-    "./hero002.json"
+    "./hero002.json",
+    "./timeline001.json",
+    "./stats-bar001.json"
   ]
 }
