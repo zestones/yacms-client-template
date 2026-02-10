@@ -5,27 +5,27 @@
   },
   "data": {
     "logo": {
-      "text": "Yacms"
+      "text": "Thermosolis"
     },
     "links": [
       {
-        "label": "Home",
-        "href": "/landingpage"
-      },
-      {
-        "label": "Zestones",
+        "label": "Accueil",
         "href": ""
       },
       {
-        "label": "Offres",
+        "label": "Services",
         "href": ""
       },
       {
-        "label": "Comment ca marce ?",
+        "label": "A propos",
         "href": ""
       },
       {
-        "label": "Portfolioo",
+        "label": "Realisation",
+        "href": ""
+      },
+      {
+        "label": "Contact",
         "href": ""
       }
     ],
