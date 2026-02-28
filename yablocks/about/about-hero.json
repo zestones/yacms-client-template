@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/AboutHero",
+    "component": "blocks/content/cta/RamadanCagnotte",
     "section": "about/about-hero"
   },
   "data": {
