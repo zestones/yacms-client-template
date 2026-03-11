@@ -11,11 +11,15 @@ export default defineConfig({
     site: 'https://zestones.github.io',
     base: '/yacms-client-template',
     integrations: [react(), sitemap()],
+    build: {
+        inlineStylesheets: 'always'
+    },
     vite: {
         plugins: [tailwindcss()],
         resolve: {
             alias: {
                 '@': path.resolve(__dirname, './src'),
+                'zod-to-json-schema': path.resolve(__dirname, './src/stubs/zod-to-json-schema.ts'),
             },
         },
         css: {
