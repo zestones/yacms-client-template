@@ -12,7 +12,8 @@ export default defineConfig({
     base: '/yacms-client-template',
     integrations: [react(), sitemap()],
     build: {
-        inlineStylesheets: 'always'
+        inlineStylesheets: 'always',
+        compressHTML: true
     },
     vite: {
         plugins: [tailwindcss()],
@@ -30,6 +31,9 @@ export default defineConfig({
             watch: {
                 ignored: ['**/yablocks/**']
             }
-        }
+        },
+        ssr: {
+            noExternal: ['lucide-react'],
+        },
     },
 });
