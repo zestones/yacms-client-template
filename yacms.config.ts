@@ -14,7 +14,7 @@ export default defineConfig({
     },
   },
   i18n: {
-    defaultLocale: 'de',
+    defaultLocale: 'fr',
     locales: [
       { code: 'en', label: 'English' },
       { code: 'de', label: 'Deutsch' },
