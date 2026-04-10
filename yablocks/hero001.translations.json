@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badge": {
+      "source": "Studio Web",
+      "en": "Web Studio"
+    },
+    "data.title": {
+      "source": "Yacms Digital",
+      "en": "Yacms Digital"
+    },
+    "data.titleHighlight": {
+      "source": "Prêt en 1 semaine",
+      "en": "Ready in 1 week"
+    },
+    "data.subtitle": {
+      "source": "Sites vitrine rapide, efficace moderne et fonctionnel",
+      "en": "Fast, efficient, modern, and functional showcase websites"
+    },
+    "data.cta.primary.text": {
+      "source": "Demandez un devis",
+      "en": "Request a quote"
+    },
+    "data.cta.secondary.text": {
+      "source": "Voir nos réalisations",
+      "en": "View our projects"
+    },
+    "data.mockupImage.alt": {
+      "source": "",
+      "en": ""
+    }
+  }
+}
