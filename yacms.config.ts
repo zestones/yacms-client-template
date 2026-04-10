@@ -3,7 +3,6 @@ import { defineConfig } from "@yacms/core/config";
 export default defineConfig({
   plugins: {
     ga4: {
-      enabled: false,
       trackingId: 'G-XXXXXXXXX',
     },
     tawk: {
