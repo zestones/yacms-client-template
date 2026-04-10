@@ -19,6 +19,8 @@ export default defineConfig({
       { code: 'en', label: 'English' },
       { code: 'de', label: 'Deutsch' },
       { code: 'fr', label: 'Français' },
+      { code: 'zh', label: '中文' },
+      { code: 'ar', label: 'العربية' },
     ],
     routing: 'prefix-except-default',
     fallback: 'default',
