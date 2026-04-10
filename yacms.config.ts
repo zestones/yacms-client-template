@@ -14,10 +14,11 @@ export default defineConfig({
     },
   },
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'de',
     locales: [
       { code: 'en', label: 'English' },
       { code: 'de', label: 'Deutsch' },
+      { code: 'fr', label: 'Français' },
     ],
     routing: 'prefix-except-default',
     fallback: 'default',
