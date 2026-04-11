@@ -8,6 +8,18 @@
     "data.cta.text": {
       "source": "Demander un avis d'architecture",
       "en": "Request an architecture review"
+    },
+    "data.benefits[@6YHe5A].text": {
+      "source": "Expert indépendant — aucun lien commercial avec les constructeurs",
+      "en": "Independent expert — no commercial ties to manufacturers"
+    },
+    "data.benefits[@mUpD9m].text": {
+      "source": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
+      "en": "Deliverable specifications and requirements, ready for tender"
+    },
+    "data.benefits[@Q80QQA].text": {
+      "source": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "en": "Multi-brand, multi-sector — Siemens, Rockwell, Schneider, Beckhoff, Wago"
     }
   }
 }

@@ -16,6 +16,34 @@
     "data.image.alt": {
       "source": "Architecture systèmes de contrôle-commande — spécification technique AUTEM",
       "en": "Control-command systems architecture — AUTEM technical specification"
+    },
+    "data.paragraphs[@Nqw0xc].text": {
+      "source": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée.",
+      "en": "Defining the architecture of an industrial control system means making a series of structural choices: which PLCs, which supervision system, which industrial network, which communication protocols, and how to integrate with IT systems (ERP, MES). AUTEM formalizes these choices in a complete and documented architecture specification."
+    },
+    "data.highlights[@CNqQA5].text": {
+      "source": "Analyse fonctionnelle et organique : décomposition des fonctions, identification des interfaces, inventaire des entrées-sorties",
+      "en": "Functional and organic analysis: decomposition of functions, identification of interfaces, inventory of inputs-outputs"
+    },
+    "data.highlights[@Q0uYL2].text": {
+      "source": "Spécification matérielle multimarque : automates, IHM, serveurs SCADA, équipements réseau — sans lien commercial avec aucun fabricant",
+      "en": "Multi-brand hardware specification: PLCs, HMIs, SCADA servers, network equipment — with no commercial ties to any manufacturer"
+    },
+    "data.highlights[@vfQQev].text": {
+      "source": "Cartographie réseau OT : Profinet, Ethernet/IP, OPC-UA, segmentation VLAN, séparation DMZ",
+      "en": "OT network mapping: Profinet, Ethernet/IP, OPC-UA, VLAN segmentation, DMZ separation"
+    },
+    "data.highlights[@8x6WbJ].text": {
+      "source": "Intégration OT/IT : définition des flux de données entre automates, SCADA, MES et ERP",
+      "en": "OT/IT integration: definition of data flows between PLCs, SCADA, MES, and ERP"
+    },
+    "data.highlights[@YFajBi].text": {
+      "source": "Plan de redondance et de continuité : niveaux de redondance, stratégie de sauvegarde et reprise",
+      "en": "Redundancy and continuity plan: redundancy levels, backup and recovery strategy"
+    },
+    "data.highlights[@gSP24S].text": {
+      "source": "Cahier des charges technique livrable : document de spécification utilisable directement pour un appel d'offres ou une consultation fournisseur",
+      "en": "Deliverable technical specifications: a specification document that can be used directly for a call for tenders or supplier consultation"
     }
   }
 }

@@ -35,6 +35,130 @@
       "source": "All rights reserved.",
       "it": "Tutti i diritti riservati.",
       "en": "All rights reserved."
+    },
+    "data.linkGroups[@PjSVoM].title": {
+      "source": "Services",
+      "en": "Services"
+    },
+    "data.linkGroups[@Cyj4kl].title": {
+      "source": "Company",
+      "en": "Company"
+    },
+    "data.linkGroups[@mtbadr].title": {
+      "source": "Resources",
+      "en": "Resources"
+    },
+    "data.linkGroups[@PjSVoM].links[@KpeVeL].text": {
+      "source": "Consulting",
+      "en": "Consulting"
+    },
+    "data.linkGroups[@PjSVoM].links[@m3DvAK].text": {
+      "source": "Development",
+      "en": "Development"
+    },
+    "data.linkGroups[@PjSVoM].links[@Xj8bC1].text": {
+      "source": "Design",
+      "en": "Design"
+    },
+    "data.linkGroups[@PjSVoM].links[@YAWVLL].text": {
+      "source": "Support",
+      "en": "Support"
+    },
+    "data.linkGroups[@Cyj4kl].links[@ImUrs5].text": {
+      "source": "About Us",
+      "en": "About Us"
+    },
+    "data.linkGroups[@Cyj4kl].links[@dQo6zL].text": {
+      "source": "Our Work",
+      "en": "Our Work"
+    },
+    "data.linkGroups[@Cyj4kl].links[@M5W6XQ].text": {
+      "source": "Testimonials",
+      "en": "Testimonials"
+    },
+    "data.linkGroups[@mtbadr].links[@GI68Hh].text": {
+      "source": "Blog",
+      "en": "Blog"
+    },
+    "data.linkGroups[@mtbadr].links[@kOVizi].text": {
+      "source": "FAQ",
+      "en": "FAQ"
+    },
+    "data.linkGroups[@mtbadr].links[@uxe48l].text": {
+      "source": "Contact",
+      "en": "Contact"
+    },
+    "data.linkGroups[@PjSVoM].links[@KpeVeL].href": {
+      "source": "/service/consulting",
+      "en": "/service/consulting"
+    },
+    "data.linkGroups[@PjSVoM].links[@m3DvAK].href": {
+      "source": "/service/development",
+      "en": "/service/development"
+    },
+    "data.linkGroups[@PjSVoM].links[@Xj8bC1].href": {
+      "source": "/service/design",
+      "en": "/service/design"
+    },
+    "data.linkGroups[@PjSVoM].links[@YAWVLL].href": {
+      "source": "/service/support",
+      "en": "/service/support"
+    },
+    "data.linkGroups[@Cyj4kl].links[@ImUrs5].href": {
+      "source": "/about",
+      "en": "/about"
+    },
+    "data.linkGroups[@Cyj4kl].links[@dQo6zL].href": {
+      "source": "/portfolio",
+      "en": "/portfolio"
+    },
+    "data.linkGroups[@Cyj4kl].links[@M5W6XQ].href": {
+      "source": "/testimonials",
+      "en": "/testimonials"
+    },
+    "data.linkGroups[@mtbadr].links[@GI68Hh].href": {
+      "source": "/blog",
+      "en": "/blog"
+    },
+    "data.linkGroups[@mtbadr].links[@kOVizi].href": {
+      "source": "/faq",
+      "en": "/faq"
+    },
+    "data.linkGroups[@mtbadr].links[@uxe48l].href": {
+      "source": "/contact",
+      "en": "/contact"
+    },
+    "data.legal.links[@nwvjCF].text": {
+      "source": "Legal Notice",
+      "en": "Legal Notice"
+    },
+    "data.legal.links[@daKRJe].text": {
+      "source": "Privacy Policy",
+      "en": "Privacy Policy"
+    },
+    "data.legal.links[@k52wCG].text": {
+      "source": "Terms of Service",
+      "en": "Terms of Service"
+    },
+    "data.legal.links[@nwvjCF].href": {
+      "source": "/legal",
+      "en": "/legal"
+    },
+    "data.legal.links[@daKRJe].href": {
+      "source": "/privacy",
+      "en": "/privacy"
+    },
+    "data.legal.links[@k52wCG].href": {
+      "source": "/terms",
+      "en": "/terms"
+    },
+    "data.certifications[@EHgSM7].alt": {
+      "source": "Certification 1",
+      "en": "Certification 1"
+    },
+    "data.certifications[@aoPN4k].alt": {
+      "source": "Certification 2",
+      "en": "Certification 2"
     }
   }
 }

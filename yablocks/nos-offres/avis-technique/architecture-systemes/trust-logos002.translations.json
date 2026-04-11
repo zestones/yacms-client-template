@@ -8,6 +8,26 @@
     "data.subtitle": {
       "source": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
       "en": "Multi-sector experience, vendor independence, documentary rigor"
+    },
+    "data.logos[@Ir0Ocm].alt": {
+      "source": "Hermès — Architecture systèmes de contrôle industriels, Paris",
+      "en": "Hermès — Industrial control systems architecture, Paris"
+    },
+    "data.logos[@daWgID].alt": {
+      "source": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS",
+      "en": "Amazon — Mechanized warehouse automation, WCS/WMS"
+    },
+    "data.logos[@gdofc6].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie, IoT",
+      "en": "Thalys — Network supervision, telemetry, IoT"
+    },
+    "data.logos[@mJMXXg].alt": {
+      "source": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+      "en": "SEE/SFTRF — Road and rail network supervision"
+    },
+    "data.logos[@MgkP32].alt": {
+      "source": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg",
+      "en": "ArcelorMittal — Machining shop optimization, Luxembourg"
     }
   }
 }

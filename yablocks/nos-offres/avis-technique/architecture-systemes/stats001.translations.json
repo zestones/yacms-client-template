@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@CYhf4j].value": {
+      "source": "10",
+      "en": "10"
+    },
+    "data.stats[@omC4Pu].value": {
+      "source": "6",
+      "en": "6"
+    },
+    "data.stats[@qFzfGj].value": {
+      "source": "15",
+      "en": "15"
+    },
+    "data.stats[@o0rUBI].value": {
+      "source": "100",
+      "en": "100"
+    },
+    "data.stats[@CYhf4j].label": {
+      "source": "Années d'expérience en conception et validation d'architectures de systèmes industriels",
+      "en": "Years of experience in the design and validation of industrial system architectures"
+    },
+    "data.stats[@omC4Pu].label": {
+      "source": "Secteurs couverts : luxe, logistique, mobilité, chimie, agroalimentaire, métallurgie",
+      "en": "Sectors covered: luxury, logistics, mobility, chemicals, agri-food, metallurgy"
+    },
+    "data.stats[@qFzfGj].label": {
+      "source": "Clients accompagnés sur des projets d'architecture et d'intégration de systèmes",
+      "en": "Clients supported on system architecture and integration projects"
+    },
+    "data.stats[@o0rUBI].label": {
+      "source": "Des livrables d'architecture accompagnés de documentation technique complète et de schémas",
+      "en": "Architecture deliverables accompanied by complete technical documentation and diagrams"
+    },
+    "data.stats[@CYhf4j].suffix": {
+      "source": "+",
+      "en": " + "
+    },
+    "data.stats[@omC4Pu].suffix": {
+      "source": "+",
+      "en": " + "
+    },
+    "data.stats[@qFzfGj].suffix": {
+      "source": "+",
+      "en": " + "
+    },
+    "data.stats[@o0rUBI].suffix": {
+      "source": "%",
+      "en": "%"
+    }
+  }
+}

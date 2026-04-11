@@ -16,6 +16,34 @@
     "data.image.alt": {
       "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
       "en": "AUTEM Expert — industrial control system architecture"
+    },
+    "data.paragraphs[@mFiBX2].text": {
+      "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",
+      "en": "Poor industrial architectures are often designed by stakeholders who no longer set foot on the ground. AUTEM has commissioned systems for Hermès, Amazon, Thalys, and ArcelorMittal. Our specifications are built on the experience of what actually works—not on theoretical preferences."
+    },
+    "data.highlights[@b7U3Ue].text": {
+      "source": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations",
+      "en": "Vendor-independent (Siemens, Rockwell, Schneider, Beckhoff)—no conflict of interest in recommendations"
+    },
+    "data.highlights[@udGjhQ].text": {
+      "source": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système",
+      "en": "Dual OT+IT expertise: PLCs, industrial networks, supervision, cybersecurity, and system integration"
+    },
+    "data.highlights[@y8RnWP].text": {
+      "source": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales",
+      "en": "Multi-sector field experience: luxury, logistics, mobility, chemicals, metallurgy, special machinery"
+    },
+    "data.highlights[@JEGEJJ].text": {
+      "source": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511",
+      "en": "Mastery of industrial standards: ISA-88, ISA-95, IEC 62443 (OT cybersecurity), IEC 61511"
+    },
+    "data.highlights[@9ffFlM].text": {
+      "source": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres",
+      "en": "Directly usable deliverables: specifications, architecture diagrams, tender-ready technical specifications"
+    },
+    "data.highlights[@aPhM5n].text": {
+      "source": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final",
+      "en": "Support available through to validation: review of supplier bids, assistance in final selection"
     }
   }
 }

@@ -25,6 +25,70 @@
       "source": "#contact",
       "it": "#contact",
       "en": "#contact"
+    },
+    "data.links[@2jEoj7].label": {
+      "source": "Home",
+      "en": "Home"
+    },
+    "data.links[@YTDCLe].label": {
+      "source": "Services",
+      "en": "Services"
+    },
+    "data.links[@ORjBjf].label": {
+      "source": "About",
+      "en": "About"
+    },
+    "data.links[@ht4GrW].label": {
+      "source": "Portfolio",
+      "en": "Portfolio"
+    },
+    "data.links[@cf8tIX].label": {
+      "source": "Contact",
+      "en": "Contact"
+    },
+    "data.links[@2jEoj7].href": {
+      "source": "/",
+      "en": "/"
+    },
+    "data.links[@YTDCLe].href": {
+      "source": "#services",
+      "en": "#services"
+    },
+    "data.links[@ORjBjf].href": {
+      "source": "/about",
+      "en": "/about"
+    },
+    "data.links[@ht4GrW].href": {
+      "source": "/portfolio",
+      "en": "/portfolio"
+    },
+    "data.links[@cf8tIX].href": {
+      "source": "#contact",
+      "en": "#contact"
+    },
+    "data.links[@YTDCLe].dropdown[@PvmXXc].label": {
+      "source": "Service One",
+      "en": "Service One"
+    },
+    "data.links[@YTDCLe].dropdown[@L4hFql].label": {
+      "source": "Service Two",
+      "en": "Service Two"
+    },
+    "data.links[@YTDCLe].dropdown[@gBY3WC].label": {
+      "source": "Service Three",
+      "en": "Service Three"
+    },
+    "data.links[@YTDCLe].dropdown[@PvmXXc].href": {
+      "source": "/service/service-one",
+      "en": "/service/service-one"
+    },
+    "data.links[@YTDCLe].dropdown[@L4hFql].href": {
+      "source": "/service/service-two",
+      "en": "/service/service-two"
+    },
+    "data.links[@YTDCLe].dropdown[@gBY3WC].href": {
+      "source": "/service/service-three",
+      "en": "/service/service-three"
     }
   }
 }

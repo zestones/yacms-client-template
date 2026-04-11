@@ -8,6 +8,34 @@
     "data.closing": {
       "source": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer.",
       "en": "A carefully chosen architecture means 10 years of maintenance without surprises — and an internal team capable of evolving it."
+    },
+    "data.badges[@jBHTyq].alt": {
+      "source": "Hermès — Architecture systèmes industriels, Paris",
+      "en": "Hermès — Industrial systems architecture, Paris"
+    },
+    "data.badges[@H7HbQZ].alt": {
+      "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé",
+      "en": "Amazon — WCS/WMS mechanized warehouse automation"
+    },
+    "data.badges[@aybNWj].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie IoT",
+      "en": "Thalys — Network supervision, IoT telemetry"
+    },
+    "data.paragraphs[@pfPCEX].text": {
+      "source": "Choisir une plateforme par habitude ou parce qu'un commercial s'est montré convaincant. Ne pas anticiper les besoins d'interconnexion entre les systèmes OT et IT. Dimensionner un réseau sans penser à la croissance et à la redondance. Ces décisions paraissent anodines en début de projet. Leur impact se mesure en années, pas en semaines.",
+      "en": "Choosing a platform out of habit or because a salesperson was convincing. Failing to anticipate interconnection needs between OT and IT systems. Sizing a network without considering growth and redundancy. These decisions seem trivial at the start of a project. Their impact is measured in years, not weeks."
+    },
+    "data.paragraphs[@suwvlf].text": {
+      "source": "En aval, la facture s'alourdit : serveurs SCADA surdimensionnés ou sous-dimensionnés, réseaux industriels impossibles à sécuriser, équipements incompatibles entre eux, dépendance totale à un unique fabricant pour les mises à jour, les licences et le support.",
+      "en": "Downstream, the costs mount: oversized or undersized SCADA servers, industrial networks that are impossible to secure, incompatible equipment, and total dependence on a single manufacturer for updates, licenses, and support."
+    },
+    "data.paragraphs[@1ErBrU].text": {
+      "source": "Une architecture bien définie répond à des questions précises : quels équipements, quels protocoles, quelle topologie réseau, quels niveaux de redondance, quelle séparation OT/IT, quelle stratégie de cybersécurité. Elle est documentée, justifiée — et défendable devant un client, un auditeur ou une équipe maintenance.",
+      "en": "A well-defined architecture answers specific questions: which equipment, which protocols, which network topology, what levels of redundancy, what OT/IT separation, and what cybersecurity strategy. It is documented, justified—and defensible before a client, an auditor, or a maintenance team."
+    },
+    "data.paragraphs[@lhc1ZK].text": {
+      "source": "AUTEM intervient en amont : avant les appels d'offres, avant les choix structurants. En tant qu'expert indépendant, sans affiliation à aucun constructeur, notre seul objectif est de vous proposer l'architecture qui répond à vos contraintes techniques, budgétaires et opérationnelles à long terme.",
+      "en": "AUTEM intervenes upstream: before tenders, before structural choices. As an independent expert, with no affiliation to any manufacturer, our sole objective is to propose the architecture that meets your technical, budgetary, and operational constraints in the long term."
     }
   }
 }

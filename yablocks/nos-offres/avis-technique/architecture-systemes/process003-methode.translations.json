@@ -8,6 +8,46 @@
     "data.title": {
       "source": "De la compréhension du besoin à la spécification livrée : 5 étapes",
       "en": "From understanding the need to delivered specifications: 5 steps"
+    },
+    "data.steps[@MDHSh3].title": {
+      "source": "Cadrage & compréhension du besoin",
+      "en": "Scoping & Requirement Understanding"
+    },
+    "data.steps[@8OsBzY].title": {
+      "source": "Analyse fonctionnelle et organique",
+      "en": "Functional and Organic Analysis"
+    },
+    "data.steps[@ogHtoH].title": {
+      "source": "Spécification d'architecture",
+      "en": "Architecture Specification"
+    },
+    "data.steps[@yxFBQl].title": {
+      "source": "Revue critique & validation",
+      "en": "Critical Review & Validation"
+    },
+    "data.steps[@LFVt9H].title": {
+      "source": "Accompagnement à la consultation",
+      "en": "Consultation Support"
+    },
+    "data.steps[@MDHSh3].description": {
+      "source": "Entretiens avec vos équipes pour capturer les enjeux opérationnels, les contraintes de maintenabilité, les exigences de disponibilité et les standards internes. Identification des systèmes existants et des interfaces à conserver ou migrer.",
+      "en": "Interviews with your teams to capture operational challenges, maintainability constraints, availability requirements, and internal standards. Identification of existing systems and interfaces to be retained or migrated."
+    },
+    "data.steps[@8OsBzY].description": {
+      "source": "Décomposition des fonctions en briques élémentaires : modes de marche, transitions, E/S, interfaces opérateurs, alarmes, communications. Identification des exigences de performance (temps de cycle, temps de réponse, disponibilité cible).",
+      "en": "Decomposition of functions into elementary building blocks: operating modes, transitions, I/O, operator interfaces, alarms, communications. Identification of performance requirements (cycle time, response time, target availability)."
+    },
+    "data.steps[@ogHtoH].description": {
+      "source": "Définition de la topologie réseau (segmentation OT/IT, VLAN, DMZ), du choix des équipements (automates, IPC, serveurs SCADA), des protocoles de communication (OPC-UA, Profinet, Ethernet/IP) et de la stratégie de redondance.",
+      "en": "Definition of network topology (OT/IT segmentation, VLAN, DMZ), equipment selection (PLCs, IPCs, SCADA servers), communication protocols (OPC-UA, Profinet, Ethernet/IP), and redundancy strategy."
+    },
+    "data.steps[@yxFBQl].description": {
+      "source": "Présentation de l'architecture devant vos équipes techniques, réponse aux questions de maintenabilité et de cybersécurité, intégration des retours, validation formelle du document de spécification.",
+      "en": "Presentation of the architecture to your technical teams, addressing maintainability and cybersecurity questions, integrating feedback, and formal validation of the specification document."
+    },
+    "data.steps[@LFVt9H].description": {
+      "source": "Si nécessaire, assistance à la rédaction du cahier des charges pour appel d'offres, analyse comparative des réponses fournisseurs, recommandations objectives sur le choix final.",
+      "en": "If necessary, assistance in drafting the tender specifications, comparative analysis of supplier responses, and objective recommendations for the final selection."
     }
   }
 }
