@@ -17,6 +17,11 @@ export default defineConfig({
     defaultLocale: 'fr',
     locales: [
       { code: 'fr', label: 'Français' },
+      { code: 'en', label: 'English' },
+      { code: 'de', label: 'Deutsch' },
+      { code: 'ar', label: 'العربية' },
+      { code: 'zh', label: '中文' },
+      { code: 'ru', label: 'Русский' },
     ],
     routing: 'prefix-except-default',
     fallback: 'default',
