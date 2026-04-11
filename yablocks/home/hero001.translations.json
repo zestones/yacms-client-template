@@ -5,43 +5,50 @@
       "source": "Studio Web",
       "en": "Web Studio",
       "ru": "Веб-студия",
-      "ar": "استوديو ويب"
+      "ar": "استوديو ويب",
+      "de": "Webstudio"
     },
     "data.title": {
       "source": "Yacms",
       "en": "Yacms",
       "ru": "Yacms",
-      "ar": "Yacms"
+      "ar": "Yacms",
+      "de": "Yacms"
     },
     "data.titleHighlight": {
       "source": "Prêt en 2",
       "en": "Ready in Two Weeks",
       "ru": "Готов за 2",
-      "ar": "جاهز في 2"
+      "ar": "جاهز في 2",
+      "de": "Fertig in 2"
     },
     "data.subtitle": {
       "source": "Sites vitrine rapide",
       "en": "Fast showcase websites",
       "ru": "Быстрые сайты-визитки",
-      "ar": "مواقع عرض سريعة"
+      "ar": "مواقع عرض سريعة",
+      "de": "Schnelle Unternehmenswebsites"
     },
     "data.cta.primary.text": {
       "source": "Demandez un devis",
       "en": "Request a quote",
       "ru": "Запросить смету",
-      "ar": "اطلب عرض سعر"
+      "ar": "اطلب عرض سعر",
+      "de": "Angebot anfordern"
     },
     "data.cta.secondary.text": {
       "source": "Voir nos réalisations",
       "en": "View our projects",
       "ru": "Посмотреть наши работы",
-      "ar": "شاهد أعمالنا"
+      "ar": "شاهد أعمالنا",
+      "de": "Unsere Projekte ansehen"
     },
     "data.mockupImage.alt": {
       "source": "",
       "en": "",
       "ru": "",
-      "ar": ""
+      "ar": "",
+      "de": ""
     }
   }
 }
