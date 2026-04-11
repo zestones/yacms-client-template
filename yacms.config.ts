@@ -22,7 +22,7 @@ export default defineConfig({
       { code: 'zh', label: '中文' },
       { code: 'ar', label: 'العربية' },
     ],
-    routing: 'prefix-except-default',
+    routing: 'prefix-all',
     fallback: 'default',
   },
 });
