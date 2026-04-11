@@ -25,5 +25,9 @@ export default defineConfig({
     ],
     routing: 'prefix-except-default',
     fallback: 'default',
+    translation: {
+      adapter: 'gemini',
+      model: 'gemini-2.5-pro',
+    },
   },
 });
