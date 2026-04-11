@@ -12,17 +12,5 @@ export default defineConfig({
     klaro: {
       privacyPolicyPath: '/mentions-legales',
     },
-  },
-  i18n: {
-    defaultLocale: 'fr',
-    locales: [
-      { code: 'en', label: 'English' },
-      { code: 'de', label: 'Deutsch' },
-      { code: 'fr', label: 'Français' },
-      { code: 'zh', label: '中文' },
-      { code: 'ar', label: 'العربية' },
-    ],
-    routing: 'prefix-all',
-    fallback: 'skip',
-  },
+  }
 });
