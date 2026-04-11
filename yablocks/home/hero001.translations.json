@@ -11,8 +11,7 @@
     },
     "data.titleHighlight": {
       "source": "Prêt en 2",
-      "en": "Ready in Two Weeks",
-      "en:manual": true
+      "en": "Ready in Two Weeks"
     },
     "data.subtitle": {
       "source": "Sites vitrine rapide",
