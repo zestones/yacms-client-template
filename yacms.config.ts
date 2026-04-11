@@ -6,6 +6,7 @@ export default defineConfig({
       trackingId: 'G-XXXXXXXXX',
     },
     tawk: {
+      enabled: false,
       widgetId: '69bc038b22e4791c3681a8c2/1jk36rmup',
       source: 'yacms-template.fr',
     },
