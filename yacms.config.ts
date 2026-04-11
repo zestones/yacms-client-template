@@ -27,7 +27,7 @@ export default defineConfig({
     fallback: 'default',
     translation: {
       adapter: 'gemini',
-      model: 'gemini-2.5-pro',
+      model: 'gemma-4-26b',
     },
   },
 });
