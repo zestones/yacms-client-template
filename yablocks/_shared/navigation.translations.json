@@ -1,0 +1,25 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.logo.text": {
+      "source": "YourBrand",
+      "it": "YourBrand"
+    },
+    "data.logo.href": {
+      "source": "/",
+      "it": "/"
+    },
+    "data.logo.image": {
+      "source": "/logos/logo.png",
+      "it": "/logos/logo.png"
+    },
+    "data.cta.text": {
+      "source": "Get Started",
+      "it": "Inizia ora"
+    },
+    "data.cta.href": {
+      "source": "#contact",
+      "it": "#contact"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.errorCode": {
+      "source": "404",
+      "it": "404"
+    },
+    "data.badge": {
+      "source": "Page Not Found",
+      "it": "Pagina non trovata"
+    },
+    "data.title": {
+      "source": "Oops! Lost in Space",
+      "it": "Oops! Perso nello spazio"
+    },
+    "data.subtitle": {
+      "source": "The page you're looking for doesn't exist or has been moved to another location.",
+      "it": "La pagina che stai cercando non esiste o è stata spostata in un'altra posizione."
+    },
+    "data.cta.primary.text": {
+      "source": "Back to Home",
+      "it": "Torna alla Home"
+    },
+    "data.cta.primary.link": {
+      "source": "/",
+      "it": "/ "
+    },
+    "data.cta.secondary.text": {
+      "source": "Go Back",
+      "it": "Torna indietro"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.brand.alt": {
+      "source": "YourBrand Logo",
+      "it": "Logo di YourBrand"
+    },
+    "data.brand.tagline": {
+      "source": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
+      "it": "Servizi professionali e soluzioni innovative. Scelti da aziende di tutto il mondo da oltre un decennio."
+    },
+    "data.contact.address": {
+      "source": "123 Main Street\nYour City, ST 12345",
+      "it": "123 Main Street\nYour City, ST 12345"
+    },
+    "data.contact.phone": {
+      "source": "(555) 123-4567",
+      "it": "(555) 123-4567"
+    },
+    "data.contact.email": {
+      "source": "contact@yourbusiness.com",
+      "it": "contact@yourbusiness.com"
+    },
+    "data.contact.hours": {
+      "source": "Mon-Fri: 9am-5pm\nSat: 10am-2pm",
+      "it": "Lun-Ven: 9:00-17:00\nSab: 10:00-14:00"
+    },
+    "data.legal.copyright": {
+      "source": "All rights reserved.",
+      "it": "Tutti i diritti riservati."
+    }
+  }
+}
