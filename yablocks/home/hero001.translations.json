@@ -5,29 +5,25 @@
       "source": "Studio Web",
       "zh": "网络工作室",
       "zh:manual": true,
-      "en": "Web Studio",
-      "en:manual": true
+      "en": "Web Studio"
     },
     "data.titleHighlight": {
-      "source": "Prêt en 2 semaine",
+      "source": "Prêt en 2",
       "zh": "两周内准备就绪",
       "zh:manual": true,
-      "en": "Ready in Two Weeks",
-      "en:manual": true
+      "en": "Ready in 2"
     },
     "data.subtitle": {
-      "source": "Sites vitrine rapide, efficace moderne et fonctionnel",
+      "source": "Sites vitrine rapide",
       "zh": "快速、高效、现代且实用的展示网站",
       "zh:manual": true,
-      "en": "Fast showcase websites",
-      "en:manual": true
+      "en": "Fast showcase websites"
     },
     "data.cta.primary.text": {
       "source": "Demandez un devis",
       "zh": "获取报价",
       "zh:manual": true,
-      "en": "Request a Quote",
-      "en:manual": true
+      "en": "Request a Quote"
     },
     "data.cta.secondary.text": {
       "source": "Voir nos réalisations",
@@ -37,8 +33,8 @@
       "en:manual": true
     },
     "data.title": {
-      "source": "Yacms Digital",
-      "en": "Yacms Digital"
+      "source": "Yacms",
+      "en": "Yacms"
     },
     "data.mockupImage.alt": {
       "source": "",
