@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "en": "WHY AUTEM"
+    },
+    "data.title": {
+      "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
+      "en": "Independent, multi-brand, field-proven expert — not a generalist consultancy."
+    },
+    "data.conclusion": {
+      "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
+      "en": "We have no interest in steering you toward one supplier over another. Our only metric is your operational autonomy over the next 5 to 10 years."
+    },
+    "data.image.alt": {
+      "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
+      "en": "AUTEM Expert — industrial control system architecture"
+    }
+  }
+}

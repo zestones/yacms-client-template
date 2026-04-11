@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Ils nous ont confié la conception ou la validation de leurs architectures",
+      "en": "They have trusted us with the design or validation of their architectures"
+    },
+    "data.subtitle": {
+      "source": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
+      "en": "Multi-sector experience, vendor independence, documentary rigor"
+    }
+  }
+}

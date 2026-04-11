@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Références clients AUTEM — architecture systèmes industriels",
+      "en": "AUTEM client references — industrial systems architecture"
+    },
+    "data.quote": {
+      "source": "Un accompagnement structurant pour notre projet de refonte des systèmes de contrôle. AUTEM nous a fourni une vision d'architecture claire, indépendante de tout fournisseur et parfaitement documentée.",
+      "en": "Structured support for our control systems redesign project. AUTEM provided us with a clear, vendor-independent, and perfectly documented architectural vision."
+    },
+    "data.author.name": {
+      "source": "Responsable Automatismes",
+      "en": "Automation Manager"
+    },
+    "data.author.role": {
+      "source": "Hermès — Paris",
+      "en": "Hermès — Paris"
+    }
+  }
+}

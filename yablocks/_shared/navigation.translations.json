@@ -3,23 +3,28 @@
   "fields": {
     "data.logo.text": {
       "source": "YourBrand",
-      "it": "YourBrand"
+      "it": "YourBrand",
+      "en": "YourBrand"
     },
     "data.logo.href": {
       "source": "/",
-      "it": "/"
+      "it": "/",
+      "en": "/"
     },
     "data.logo.image": {
       "source": "/logos/logo.png",
-      "it": "/logos/logo.png"
+      "it": "/logos/logo.png",
+      "en": "/logos/logo.png"
     },
     "data.cta.text": {
       "source": "Get Started",
-      "it": "Inizia ora"
+      "it": "Inizia ora",
+      "en": "Get Started"
     },
     "data.cta.href": {
       "source": "#contact",
-      "it": "#contact"
+      "it": "#contact",
+      "en": "#contact"
     }
   }
 }

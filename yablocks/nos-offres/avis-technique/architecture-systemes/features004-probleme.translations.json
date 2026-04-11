@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.headline": {
+      "source": "Une mauvaise architecture ne coûte rien à l'heure où on la choisit — elle coûte tout quand on ne peut plus la changer.",
+      "en": "A bad architecture costs nothing at the time it's chosen — it costs everything when it can no longer be changed."
+    },
+    "data.closing": {
+      "source": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer.",
+      "en": "A carefully chosen architecture means 10 years of maintenance without surprises — and an internal team capable of evolving it."
+    }
+  }
+}

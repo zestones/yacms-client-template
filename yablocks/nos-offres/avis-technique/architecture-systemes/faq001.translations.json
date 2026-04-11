@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "en": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur la définition d'architecture de systèmes industriels",
+      "en": "Frequently Asked Questions about industrial systems architecture definition"
+    }
+  }
+}

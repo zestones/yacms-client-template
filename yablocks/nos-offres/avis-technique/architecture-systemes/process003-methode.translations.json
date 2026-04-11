@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "en": "OUR METHOD"
+    },
+    "data.title": {
+      "source": "De la compréhension du besoin à la spécification livrée : 5 étapes",
+      "en": "From understanding the need to delivered specifications: 5 steps"
+    }
+  }
+}
