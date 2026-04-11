@@ -3,11 +3,13 @@
   "fields": {
     "data.title": {
       "source": "Prêt à libérer votre potentiel de croissance ?",
-      "de": "Bereit, Ihr Wachstumspotenzial voll auszuschöpfen?"
+      "de": "Bereit, Ihr Wachstumspotenzial voll auszuschöpfen?",
+      "it": "Pronto a liberare il tuo potenziale di crescita?"
     },
     "data.cta.text": {
       "source": "Prendre RDV",
-      "de": "Termin vereinbaren"
+      "de": "Termin vereinbaren",
+      "it": "Prenota un appuntamento"
     }
   }
 }
