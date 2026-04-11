@@ -23,6 +23,6 @@ export default defineConfig({
       { code: 'ar', label: 'العربية' },
     ],
     routing: 'prefix-all',
-    fallback: 'default',
+    fallback: 'skip',
   },
 });
