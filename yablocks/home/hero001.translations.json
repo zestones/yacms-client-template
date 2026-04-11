@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badge": {
+      "source": "Studio Web",
+      "en": "Web Studio"
+    },
+    "data.title": {
+      "source": "Yacms",
+      "en": "Yacms"
+    },
+    "data.titleHighlight": {
+      "source": "Prêt en 2",
+      "en": "Ready in 2"
+    },
+    "data.subtitle": {
+      "source": "Sites vitrine rapide",
+      "en": "Fast showcase websites"
+    },
+    "data.cta.primary.text": {
+      "source": "Demandez un devis",
+      "en": "Request a quote"
+    },
+    "data.cta.secondary.text": {
+      "source": "Voir nos réalisations",
+      "en": "View our projects"
+    },
+    "data.mockupImage.alt": {
+      "source": "",
+      "en": ""
+    }
+  }
+}
