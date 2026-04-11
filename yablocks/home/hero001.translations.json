@@ -3,31 +3,38 @@
   "fields": {
     "data.badge": {
       "source": "Studio Web",
-      "en": "Web Studio"
+      "en": "Web Studio",
+      "ru": "Веб-студия"
     },
     "data.title": {
       "source": "Yacms",
-      "en": "Yacms"
+      "en": "Yacms",
+      "ru": "Yacms"
     },
     "data.titleHighlight": {
       "source": "Prêt en 2",
-      "en": "Ready in Two Weeks"
+      "en": "Ready in Two Weeks",
+      "ru": "Готов за 2"
     },
     "data.subtitle": {
       "source": "Sites vitrine rapide",
-      "en": "Fast showcase websites"
+      "en": "Fast showcase websites",
+      "ru": "Быстрые сайты-визитки"
     },
     "data.cta.primary.text": {
       "source": "Demandez un devis",
-      "en": "Request a quote"
+      "en": "Request a quote",
+      "ru": "Запросить смету"
     },
     "data.cta.secondary.text": {
       "source": "Voir nos réalisations",
-      "en": "View our projects"
+      "en": "View our projects",
+      "ru": "Посмотреть наши работы"
     },
     "data.mockupImage.alt": {
       "source": "",
-      "en": ""
+      "en": "",
+      "ru": ""
     }
   }
 }
