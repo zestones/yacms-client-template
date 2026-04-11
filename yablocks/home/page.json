@@ -6,6 +6,7 @@
   },
   "theme": "phantom-violet",
   "blocks": [
-    "./hero001.json"
+    "./hero001.json",
+    "./cta002.json"
   ]
 }
