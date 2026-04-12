@@ -3,11 +3,19 @@
   "fields": {
     "data.overtitle": {
       "source": "NOTRE MÉTHODE",
-      "it": "IL NOSTRO METODO"
+      "it": "IL NOSTRO METODO",
+      "de": "UNSERE METHODE",
+      "ar": "منهجيتنا",
+      "zh": "我们的方法",
+      "ru": "НАШ МЕТОД"
     },
     "data.title": {
       "source": "De l'audit à la remise en service : 5 étapes pour une migration réussie",
-      "it": "Dall'audit alla messa in servizio: 5 fasi per una migrazione riuscita"
+      "it": "Dall'audit alla messa in servizio: 5 fasi per una migrazione riuscita",
+      "de": "Vom Audit bis zur Wiederinbetriebnahme: 5 Schritte für eine erfolgreiche Migration",
+      "ar": "من التدقيق إلى إعادة التشغيل: 5 خطوات لعملية انتقال ناجحة",
+      "zh": "从审计到重新投入使用：成功迁移的 5 个步骤",
+      "ru": "От аудита до ввода в эксплуатацию: 5 этапов для успешной миграции"
     },
     "data.steps[@EEh2fQ].title": {
       "source": "Audit & Inventaire",

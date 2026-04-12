@@ -15,7 +15,12 @@
     },
     "data.headline": {
       "source": "Un PC industriel hors support n'est pas un risque — c'est une bombe à retardement.",
-      "it": "Un PC industriale fuori supporto non è un rischio: è una bomba a orologeria."
+      "it": "Un PC industriale fuori supporto non è un rischio: è una bomba a orologeria.",
+      "de": "Ein IPC ohne Support ist kein Risiko – es ist eine Zeitbombe.",
+      "ar": "جهاز الكمبيوتر الصناعي الذي فقد الدعم الفنيي ليس مجرد مخاطرة، بل هو قنبلة موقوتة.",
+      "zh": "一台失去支持的工业 PC 不仅仅是风险——它是一颗定时炸弹。",
+      "en": "An unsupported industrial PC is not a risk — it's a time bomb.",
+      "ru": "Промышленный ПК с истекшим сроком поддержки — это не просто риск, это бомба замедленного действия."
     },
     "data.paragraphs[@Vir4HJ].text": {
       "source": "Windows XP, Windows 7, Windows Embedded CE : des millions de PC industriels tournent encore sur des systèmes d'exploitation abandonnés par Microsoft. Aucun correctif de sécurité, aucun patch, aucune mise à jour. Et pourtant, ces machines continuent de piloter des lignes de production entières.",
@@ -35,7 +40,12 @@
     },
     "data.closing": {
       "source": "La question n'est pas si votre IPC va tomber — c'est quand, et si vous serez prêt.",
-      "it": "La questione non è se il vostro IPC si guasterà — è quando, e se sarete pronti."
+      "it": "La questione non è se il vostro IPC si guasterà — è quando, e se sarete pronti.",
+      "de": "Die Frage ist nicht, ob Ihr IPC ausfallen wird – sondern wann, und ob Sie bereit sein werden.",
+      "ar": "المسألة ليست ما إذا كان جهاز الكمبيوتر الصناعي الخاص بك سيتعطل، بل متى سيحدث ذلك، وما إذا كنت ستكون مستعداً.",
+      "zh": "问题不在于您的 IPC 是否会故障——而是在于何时故障，以及您是否已做好准备。",
+      "en": "The question is not if your IPC will fail — it's when, and whether you will be ready.",
+      "ru": "Вопрос не в том, выйдет ли ваш IPC из строя, а в том, когда это произойдет и будете ли вы к этому готовы."
     }
   }
 }
