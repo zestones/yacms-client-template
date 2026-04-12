@@ -70,7 +70,8 @@
       "de": "Dienstleistungen",
       "ar": "الخدمات",
       "ru": "Услуги",
-      "zh": "服务"
+      "zh": "服务",
+      "it": "Servizi"
     },
     "data.linkGroups[@Cyj4kl].title": {
       "source": "Company",
@@ -78,7 +79,8 @@
       "de": "Unternehmen",
       "ar": "الشركة",
       "ru": "Компания",
-      "zh": "公司"
+      "zh": "公司",
+      "it": "Azienda"
     },
     "data.linkGroups[@mtbadr].title": {
       "source": "Resources",
@@ -86,7 +88,8 @@
       "de": "Ressourcen",
       "ar": "المصادر",
       "ru": "Ресурсы",
-      "zh": "资源"
+      "zh": "资源",
+      "it": "Risorse"
     },
     "data.linkGroups[@PjSVoM].links[@KpeVeL].text": {
       "source": "Consulting",
@@ -94,7 +97,8 @@
       "de": "Beratung",
       "ar": "الاستشارات",
       "ru": "Консалтинг",
-      "zh": "咨询"
+      "zh": "咨询",
+      "it": "Consulenza"
     },
     "data.linkGroups[@PjSVoM].links[@m3DvAK].text": {
       "source": "Development",
@@ -102,7 +106,8 @@
       "de": "Entwicklung",
       "ar": "التطوير",
       "ru": "Разработка",
-      "zh": "开发"
+      "zh": "开发",
+      "it": "Sviluppo"
     },
     "data.linkGroups[@PjSVoM].links[@Xj8bC1].text": {
       "source": "Design",
@@ -110,7 +115,8 @@
       "de": "Design",
       "ar": "التصميم",
       "ru": "Дизайн",
-      "zh": "设计"
+      "zh": "设计",
+      "it": "Design"
     },
     "data.linkGroups[@PjSVoM].links[@YAWVLL].text": {
       "source": "Support",
@@ -118,7 +124,8 @@
       "de": "Support",
       "ar": "الدعم",
       "ru": "Поддержка",
-      "zh": "支持"
+      "zh": "支持",
+      "it": "Supporto"
     },
     "data.linkGroups[@Cyj4kl].links[@ImUrs5].text": {
       "source": "About Us",
@@ -126,7 +133,8 @@
       "de": "Über uns",
       "ar": "من نحن",
       "ru": "О нас",
-      "zh": "关于我们"
+      "zh": "关于我们",
+      "it": "Chi Siamo"
     },
     "data.linkGroups[@Cyj4kl].links[@dQo6zL].text": {
       "source": "Our Work",
@@ -134,7 +142,8 @@
       "de": "Unsere Arbeit",
       "ar": "أعمالنا",
       "ru": "Наши работы",
-      "zh": "我们的作品"
+      "zh": "我们的作品",
+      "it": "I Nostri Lavori"
     },
     "data.linkGroups[@Cyj4kl].links[@M5W6XQ].text": {
       "source": "Testimonials",
@@ -142,7 +151,8 @@
       "de": "Kundenstimmen",
       "ar": "آراء العملاء",
       "ru": "Отзывы",
-      "zh": "客户评价"
+      "zh": "客户评价",
+      "it": "Testimonianze"
     },
     "data.linkGroups[@mtbadr].links[@GI68Hh].text": {
       "source": "Blog",
@@ -150,7 +160,8 @@
       "de": "Blog",
       "ar": "المدونة",
       "ru": "Блог",
-      "zh": "博客"
+      "zh": "博客",
+      "it": "Blog"
     },
     "data.linkGroups[@mtbadr].links[@kOVizi].text": {
       "source": "FAQ",
@@ -158,7 +169,8 @@
       "de": "FAQ",
       "ar": "الأسئلة الشائعة",
       "ru": "FAQ",
-      "zh": "常见问题"
+      "zh": "常见问题",
+      "it": "FAQ"
     },
     "data.linkGroups[@mtbadr].links[@uxe48l].text": {
       "source": "Contact",
@@ -166,7 +178,8 @@
       "de": "Kontakt",
       "ar": "اتصل بنا",
       "ru": "Контакты",
-      "zh": "联系我们"
+      "zh": "联系我们",
+      "it": "Contatti"
     },
     "data.linkGroups[@PjSVoM].links[@KpeVeL].href": {
       "source": "/service/consulting",
@@ -174,7 +187,8 @@
       "de": "/service/consulting",
       "ar": "/service/consulting",
       "ru": "/service/consulting",
-      "zh": "/service/consulting"
+      "zh": "/service/consulting",
+      "it": "/service/consulting"
     },
     "data.linkGroups[@PjSVoM].links[@m3DvAK].href": {
       "source": "/service/development",
@@ -182,7 +196,8 @@
       "de": "/service/development",
       "ar": "/service/development",
       "ru": "/service/development",
-      "zh": "/service/development"
+      "zh": "/service/development",
+      "it": "/service/development"
     },
     "data.linkGroups[@PjSVoM].links[@Xj8bC1].href": {
       "source": "/service/design",
@@ -190,7 +205,8 @@
       "de": "/service/design",
       "ar": "/service/design",
       "ru": "/service/design",
-      "zh": "/service/design"
+      "zh": "/service/design",
+      "it": "/service/design"
     },
     "data.linkGroups[@PjSVoM].links[@YAWVLL].href": {
       "source": "/service/support",
@@ -198,7 +214,8 @@
       "de": "/service/support",
       "ar": "/service/support",
       "ru": "/service/support",
-      "zh": "/service/support"
+      "zh": "/service/support",
+      "it": "/service/support"
     },
     "data.linkGroups[@Cyj4kl].links[@ImUrs5].href": {
       "source": "/about",
@@ -206,7 +223,8 @@
       "de": "/about",
       "ar": "/about",
       "ru": "/about",
-      "zh": "/about"
+      "zh": "/about",
+      "it": "/about"
     },
     "data.linkGroups[@Cyj4kl].links[@dQo6zL].href": {
       "source": "/portfolio",
@@ -214,7 +232,8 @@
       "de": "/portfolio",
       "ar": "/portfolio",
       "ru": "/portfolio",
-      "zh": "/portfolio"
+      "zh": "/portfolio",
+      "it": "/portfolio"
     },
     "data.linkGroups[@Cyj4kl].links[@M5W6XQ].href": {
       "source": "/testimonials",
@@ -222,7 +241,8 @@
       "de": "/testimonials",
       "ar": "/testimonials",
       "ru": "/testimonials",
-      "zh": "/testimonials"
+      "zh": "/testimonials",
+      "it": "/testimonials"
     },
     "data.linkGroups[@mtbadr].links[@GI68Hh].href": {
       "source": "/blog",
@@ -230,7 +250,8 @@
       "de": "/blog",
       "ar": "/blog",
       "ru": "/blog",
-      "zh": "/blog"
+      "zh": "/blog",
+      "it": "/blog"
     },
     "data.linkGroups[@mtbadr].links[@kOVizi].href": {
       "source": "/faq",
@@ -238,7 +259,8 @@
       "de": "/faq",
       "ar": "/faq",
       "ru": "/faq",
-      "zh": "/faq"
+      "zh": "/faq",
+      "it": "/faq"
     },
     "data.linkGroups[@mtbadr].links[@uxe48l].href": {
       "source": "/contact",
@@ -246,7 +268,8 @@
       "de": "/contact",
       "ar": "/contact",
       "ru": "/contact",
-      "zh": "/contact"
+      "zh": "/contact",
+      "it": "/contact"
     },
     "data.legal.links[@nwvjCF].text": {
       "source": "Legal Notice",
@@ -254,7 +277,8 @@
       "de": "Impressum",
       "ar": "إشعار قانوني",
       "ru": "Правовая информация",
-      "zh": "法律声明"
+      "zh": "法律声明",
+      "it": "Note Legali"
     },
     "data.legal.links[@daKRJe].text": {
       "source": "Privacy Policy",
@@ -262,7 +286,8 @@
       "de": "Datenschutzerklärung",
       "ar": "سياسة الخصوصية",
       "ru": "Политика конфиденциальности",
-      "zh": "隐私政策"
+      "zh": "隐私政策",
+      "it": "Informativa sulla Privacy"
     },
     "data.legal.links[@k52wCG].text": {
       "source": "Terms of Service",
@@ -270,7 +295,8 @@
       "de": "Nutzungsbedingungen",
       "ar": "شروط الخدمة",
       "ru": "Условия использования",
-      "zh": "服务条款"
+      "zh": "服务条款",
+      "it": "Termini di Servizio"
     },
     "data.legal.links[@nwvjCF].href": {
       "source": "/legal",
@@ -278,7 +304,8 @@
       "de": "/legal",
       "ar": "/legal",
       "ru": "/legal",
-      "zh": "/legal"
+      "zh": "/legal",
+      "it": "/legal"
     },
     "data.legal.links[@daKRJe].href": {
       "source": "/privacy",
@@ -286,7 +313,8 @@
       "de": "/privacy",
       "ar": "/privacy",
       "ru": "/privacy",
-      "zh": "/privacy"
+      "zh": "/privacy",
+      "it": "/privacy"
     },
     "data.legal.links[@k52wCG].href": {
       "source": "/terms",
@@ -294,7 +322,8 @@
       "de": "/terms",
       "ar": "/terms",
       "ru": "/terms",
-      "zh": "/terms"
+      "zh": "/terms",
+      "it": "/terms"
     },
     "data.certifications[@EHgSM7].alt": {
       "source": "Certification 1",
@@ -302,7 +331,8 @@
       "de": "Zertifizierung 1",
       "ar": "الشهادة 1",
       "ru": "Сертификат 1",
-      "zh": "认证 1"
+      "zh": "认证 1",
+      "it": "Certificazione 1"
     },
     "data.certifications[@aoPN4k].alt": {
       "source": "Certification 2",
@@ -310,7 +340,8 @@
       "de": "Zertifizierung 2",
       "ar": "الشهادة 2",
       "ru": "Сертификат 2",
-      "zh": "认证 2"
+      "zh": "认证 2",
+      "it": "Certificazione 2"
     }
   }
 }
