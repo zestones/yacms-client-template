@@ -6,131 +6,152 @@
       "it": "YourBrand",
       "en": "YourBrand",
       "de": "YourBrand",
-      "ar": "YourBrand"
+      "ar": "YourBrand",
+      "ru": "YourBrand"
     },
     "data.logo.href": {
       "source": "/",
       "it": "/",
       "en": "/",
       "de": "/",
-      "ar": "/"
+      "ar": "/",
+      "ru": "/"
     },
     "data.logo.image": {
       "source": "/logos/logo.png",
       "it": "/logos/logo.png",
       "en": "/logos/logo.png",
       "de": "/logos/logo.png",
-      "ar": "/logos/logo.png"
+      "ar": "/logos/logo.png",
+      "ru": "/logos/logo.png"
     },
     "data.cta.text": {
       "source": "Get Started",
       "it": "Inizia ora",
       "en": "Get Started",
       "de": "Jetzt loslegen",
-      "ar": "ابدأ الآن"
+      "ar": "ابدأ الآن",
+      "ru": "Начать"
     },
     "data.cta.href": {
       "source": "#contact",
       "it": "#contact",
       "en": "#contact",
       "de": "#contact",
-      "ar": "#contact"
+      "ar": "#contact",
+      "ru": "#contact"
     },
     "data.links[@2jEoj7].label": {
       "source": "Home",
       "en": "Home",
       "de": "Startseite",
-      "ar": "الرئيسية"
+      "ar": "الرئيسية",
+      "ru": "Главная"
     },
     "data.links[@YTDCLe].label": {
       "source": "Services",
       "en": "Services",
       "de": "Leistungen",
-      "ar": "الخدمات"
+      "ar": "الخدمات",
+      "ru": "Услуги"
     },
     "data.links[@ORjBjf].label": {
       "source": "About",
       "en": "About",
       "de": "Über uns",
-      "ar": "من نحن"
+      "ar": "من نحن",
+      "ru": "О нас"
     },
     "data.links[@ht4GrW].label": {
       "source": "Portfolio",
       "en": "Portfolio",
       "de": "Portfolio",
-      "ar": "أعمالنا"
+      "ar": "أعمالنا",
+      "ru": "Портфолио"
     },
     "data.links[@cf8tIX].label": {
       "source": "Contact",
       "en": "Contact",
       "de": "Kontakt",
-      "ar": "اتصل بنا"
+      "ar": "اتصل بنا",
+      "ru": "Контакты"
     },
     "data.links[@2jEoj7].href": {
       "source": "/",
       "en": "/",
       "de": "/",
-      "ar": "/"
+      "ar": "/",
+      "ru": "/"
     },
     "data.links[@YTDCLe].href": {
       "source": "#services",
       "en": "#services",
       "de": "#services",
-      "ar": "#services"
+      "ar": "#services",
+      "ru": "#services"
     },
     "data.links[@ORjBjf].href": {
       "source": "/about",
       "en": "/about",
       "de": "/about",
-      "ar": "/about"
+      "ar": "/about",
+      "ru": "/about"
     },
     "data.links[@ht4GrW].href": {
       "source": "/portfolio",
       "en": "/portfolio",
       "de": "/portfolio",
-      "ar": "/portfolio"
+      "ar": "/portfolio",
+      "ru": "/portfolio"
     },
     "data.links[@cf8tIX].href": {
       "source": "#contact",
       "en": "#contact",
       "de": "#contact",
-      "ar": "#contact"
+      "ar": "#contact",
+      "ru": "#contact"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].label": {
       "source": "Service One",
       "en": "Service One",
       "de": "Leistung Eins",
-      "ar": "الخدمة الأولى"
+      "ar": "الخدمة الأولى",
+      "ru": "Услуга 1"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].label": {
       "source": "Service Two",
       "en": "Service Two",
       "de": "Leistung Zwei",
-      "ar": "الخدمة الثانية"
+      "ar": "الخدمة الثانية",
+      "ru": "Услуга 2"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].label": {
       "source": "Service Three",
       "en": "Service Three",
       "de": "Leistung Drei",
-      "ar": "الخدمة الثالثة"
+      "ar": "الخدمة الثالثة",
+      "ru": "Услуга 3"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].href": {
       "source": "/service/service-one",
       "en": "/service/service-one",
       "de": "/service/service-one",
-      "ar": "/service/service-one"
+      "ar": "/service/service-one",
+      "ru": "/service/service-one"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].href": {
       "source": "/service/service-two",
       "en": "/service/service-two",
       "de": "/service/service-two",
-      "ar": "/service/service-two"
+      "ar": "/service/service-two",
+      "ru": "/service/service-two"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].href": {
       "source": "/service/service-three",
       "en": "/service/service-three",
       "de": "/service/service-three",
-      "ar": "/service/service-three"
+      "ar": "/service/service-three",
+      "ru": "/service/service-three"
     }
   }
 }

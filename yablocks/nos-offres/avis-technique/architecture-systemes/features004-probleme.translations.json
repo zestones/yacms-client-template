@@ -5,55 +5,64 @@
       "source": "Une mauvaise architecture ne coûte rien à l'heure où on la choisit — elle coûte tout quand on ne peut plus la changer.",
       "en": "A bad architecture costs nothing at the time it's chosen — it costs everything when it can no longer be changed.",
       "de": "Eine schlechte Architektur kostet in dem Moment, in dem man sie wählt, nichts — sie kostet alles, wenn man sie nicht mehr ändern kann.",
-      "ar": "البنية التحتية السيئة لا تكلف شيئاً في لحظة اختيارها — بل تكلف كل شيء عندما يصبح من المستحيل تغييرها."
+      "ar": "البنية التحتية السيئة لا تكلف شيئاً في لحظة اختيارها — بل تكلف كل شيء عندما يصبح من المستحيل تغييرها.",
+      "ru": "Плохая архитектура ничего не стоит в момент выбора — она стоит всего, когда её больше нельзя изменить."
     },
     "data.closing": {
       "source": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer.",
       "en": "A carefully chosen architecture means 10 years of maintenance without surprises — and an internal team capable of evolving it.",
       "de": "Eine sorgfältig gewählte Architektur bedeutet 10 Jahre Wartung ohne Überraschungen — und ein internes Team, das in der Lage ist, sie weiterzuentwickeln.",
-      "ar": "البنية التحتية التي يتم اختيارها بعناية تعني 10 سنوات من الصيانة دون مفاجآت — وفريق داخلي قادر على تطويرها."
+      "ar": "البنية التحتية التي يتم اختيارها بعناية تعني 10 سنوات من الصيانة دون مفاجآت — وفريق داخلي قادر على تطويرها.",
+      "ru": "Тщательно продуманная архитектура — это 10 лет обслуживания без сюрпризов и внутренняя команда, способная развивать её дальше."
     },
     "data.badges[@jBHTyq].alt": {
       "source": "Hermès — Architecture systèmes industriels, Paris",
       "en": "Hermès — Industrial systems architecture, Paris",
       "de": "Hermès — Industrielle Systemarchitektur, Paris",
-      "ar": "Hermès — هندسة الأنظمة الصناعية، باريس"
+      "ar": "Hermès — هندسة الأنظمة الصناعية، باريس",
+      "ru": "Hermès — Архитектура промышленных систем, Париж"
     },
     "data.badges[@H7HbQZ].alt": {
       "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé",
       "en": "Amazon — WCS/WMS mechanized warehouse automation",
       "de": "Amazon — WCS/WMS Automatisierung mechanisierter Lager",
-      "ar": "Amazon — أتمتة WCS/WMS للمستودعات الميكانيكية"
+      "ar": "Amazon — أتمتة WCS/WMS للمستودعات الميكانيكية",
+      "ru": "Amazon — WCS/WMS автоматизация механизированного склада"
     },
     "data.badges[@aybNWj].alt": {
       "source": "Thalys — Supervision réseau, télémétrie IoT",
       "en": "Thalys — Network supervision, IoT telemetry",
       "de": "Thalys — Netzwerküberwachung, IoT-Telemetrie",
-      "ar": "Thalys — مراقبة الشبكة، القياس عن بعد عبر IoT"
+      "ar": "Thalys — مراقبة الشبكة، القياس عن بعد عبر IoT",
+      "ru": "Thalys — Диспетчеризация сети, IoT-телеметрия"
     },
     "data.paragraphs[@pfPCEX].text": {
       "source": "Choisir une plateforme par habitude ou parce qu'un commercial s'est montré convaincant. Ne pas anticiper les besoins d'interconnexion entre les systèmes OT et IT. Dimensionner un réseau sans penser à la croissance et à la redondance. Ces décisions paraissent anodines en début de projet. Leur impact se mesure en années, pas en semaines.",
       "en": "Choosing a platform out of habit or because a salesperson was convincing. Failing to anticipate interconnection needs between OT and IT systems. Sizing a network without considering growth and redundancy. These decisions seem trivial at the start of a project. Their impact is measured in years, not weeks.",
       "de": "Eine Plattform aus Gewohnheit oder weil ein Vertriebsmitarbeiter überzeugend war, zu wählen. Die Vernetzungsbedarfe zwischen OT- und IT-Systemen nicht vorauszusehen. Ein Netzwerk zu dimensionieren, ohne an Wachstum und Redundanz zu denken. Diese Entscheidungen erscheinen zu Beginn eines Projekts unbedeutend. Ihre Auswirkungen bemessen sich in Jahren, nicht in Wochen.",
-      "ar": "اختيار منصة بناءً على العادة أو لأن مندوب المبيعات كان مقنعاً. عدم توقع احتياجات الربط بين أنظمة OT و IT. تصميم شبكة دون التفكير في النمو والتكرار. تبدو هذه القرارات تافهة في بداية المشروع، لكن تأثيرها يُقاس بالسنوات لا بالأسابيع."
+      "ar": "اختيار منصة بناءً على العادة أو لأن مندوب المبيعات كان مقنعاً. عدم توقع احتياجات الربط بين أنظمة OT و IT. تصميم شبكة دون التفكير في النمو والتكرار. تبدو هذه القرارات تافهة في بداية المشروع، لكن تأثيرها يُقاس بالسنوات لا بالأسابيع.",
+      "ru": "Выбор платформы по привычке или потому что менеджер по продажам был убедителен. Отсутствие прогнозирования потребностей в межсистемном взаимодействии между OT и IT. Проектирование сети без учета роста и резервирования. Эти решения кажутся незначительными в начале проекта. Их влияние измеряется годами, а не неделями."
     },
     "data.paragraphs[@suwvlf].text": {
       "source": "En aval, la facture s'alourdit : serveurs SCADA surdimensionnés ou sous-dimensionnés, réseaux industriels impossibles à sécuriser, équipements incompatibles entre eux, dépendance totale à un unique fabricant pour les mises à jour, les licences et le support.",
       "en": "Downstream, the costs mount: oversized or undersized SCADA servers, industrial networks that are impossible to secure, incompatible equipment, and total dependence on a single manufacturer for updates, licenses, and support.",
       "de": "Im weiteren Verlauf steigen die Kosten: über- oder unterdimensionierte SCADA-Server, industrielle Netzwerke, die sich nicht absichern lassen, inkompatible Geräte, totale Abhängigkeit von einem einzigen Hersteller für Updates, Lizenzen und Support.",
-      "ar": "وفيما بعد، تزداد التكاليف: خوادم SCADA ذات أحجام غير مناسبة (سواء كانت أكبر أو أصغر من اللازم)، شبكات صناعية يستحيل تأمينها، معدات غير متوافقة فيما بينها، واعتماد كلي على مصنع واحد للتحديثات والتراخيص والدعم."
+      "ar": "وفيما بعد، تزداد التكاليف: خوادم SCADA ذات أحجام غير مناسبة (سواء كانت أكبر أو أصغر من اللازم)، شبكات صناعية يستحيل تأمينها، معدات غير متوافقة فيما بينها، واعتماد كلي على مصنع واحد للتحديثات والتراخيص والدعم.",
+      "ru": "В итоге счет становится всё выше: переразмеренные или недоразмеренные серверы SCADA, промышленные сети, которые невозможно обезопасить, несовместимое между собой оборудование, полная зависимость от одного производителя в вопросах обновлений, лицензий и поддержки."
     },
     "data.paragraphs[@1ErBrU].text": {
       "source": "Une architecture bien définie répond à des questions précises : quels équipements, quels protocoles, quelle topologie réseau, quels niveaux de redondance, quelle séparation OT/IT, quelle stratégie de cybersécurité. Elle est documentée, justifiée — et défendable devant un client, un auditeur ou une équipe maintenance.",
       "en": "A well-defined architecture answers specific questions: which equipment, which protocols, which network topology, what levels of redundancy, what OT/IT separation, and what cybersecurity strategy. It is documented, justified—and defensible before a client, an auditor, or a maintenance team.",
       "de": "Eine gut definierte Architektur beantwortet präzise Fragen: welche Geräte, welche Protokolle, welche Netzwerktopologie, welche Redundanzebenen, welche OT/IT-Trennung, welche Cybersicherheitsstrategie. Sie ist dokumentiert, begründet — und gegenüber einem Kunden, einem Auditor oder einem Wartungsteam vertretbar.",
-      "ar": "تستجيب البنية التحتية المحددة جيداً لأسئلة دقيقة: ما هي المعدات، ما هي البروتوكولات، ما هي طبولوجيا الشبكة، ما هي مستويات التكرار، كيف يتم الفصل بين OT و IT، وما هي استراتيجية الأمن السيبراني. تكون هذه البنية موثقة ومبررة — وقابلة للدفاع عنها أمام العميل أو المدقق أو فريق الصيانة."
+      "ar": "تستجيب البنية التحتية المحددة جيداً لأسئلة دقيقة: ما هي المعدات، ما هي البروتوكولات، ما هي طبولوجيا الشبكة، ما هي مستويات التكرار، كيف يتم الفصل بين OT و IT، وما هي استراتيجية الأمن السيبراني. تكون هذه البنية موثقة ومبررة — وقابلة للدفاع عنها أمام العميل أو المدقق أو فريق الصيانة.",
+      "ru": "Четко определенная архитектура отвечает на конкретные вопросы: какое оборудование, какие протоколы, какая топология сети, какие уровни резервирования, какое разделение OT/IT, какая стратегия кибербезопасности. Она документирована, обоснована и может быть защищена перед клиентом, аудитором или командой технического обслуживания."
     },
     "data.paragraphs[@lhc1ZK].text": {
       "source": "AUTEM intervient en amont : avant les appels d'offres, avant les choix structurants. En tant qu'expert indépendant, sans affiliation à aucun constructeur, notre seul objectif est de vous proposer l'architecture qui répond à vos contraintes techniques, budgétaires et opérationnelles à long terme.",
       "en": "AUTEM intervenes upstream: before tenders, before structural choices. As an independent expert, with no affiliation to any manufacturer, our sole objective is to propose the architecture that meets your technical, budgetary, and operational constraints in the long term.",
       "de": "AUTEM setzt bereits im Vorfeld an: vor den Ausschreibungen, vor den strukturellen Entscheidungen. Als unabhängiger Experte ohne Bindung an Hersteller ist es unser einziges Ziel, Ihnen die Architektur vorzuschlagen, die Ihren technischen, budgetären und betrieblichen Anforderungen langfristig gerecht wird.",
-      "ar": "تتدخل AUTEM في المراحل الأولية: قبل طلبات العروض، وقبل اتخاذ القرارات الهيكلية. وبصفتنا خبراء مستقلين، دون أي ارتباط بأي مصنع، هدفنا الوحيد هو اقتراح البنية التحتية التي تلبي قيودكم التقنية والميزانية والتشغيلية على المدى الطويل."
+      "ar": "تتدخل AUTEM في المراحل الأولية: قبل طلبات العروض، وقبل اتخاذ القرارات الهيكلية. وبصفتنا خبراء مستقلين، دون أي ارتباط بأي مصنع، هدفنا الوحيد هو اقتراح البنية التحتية التي تلبي قيودكم التقنية والميزانية والتشغيلية على المدى الطويل.",
+      "ru": "AUTEM вмешивается на раннем этапе: до тендеров, до принятия структурных решений. Как независимый эксперт, не связанный ни с одним производителем, наша единственная цель — предложить вам архитектуру, которая отвечает вашим техническим, бюджетным и операционным ограничениям в долгосрочной перспективе."
     }
   }
 }
