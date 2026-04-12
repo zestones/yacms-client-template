@@ -20,6 +20,10 @@
         "icon": "shield",
         "text": "HubSpot Diamond Partner",
         "_tid": "IRskBv"
+      },
+      {
+        "icon": "align-end-horizontal",
+        "text": "hello World"
       }
     ],
     "cta": {
