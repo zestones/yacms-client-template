@@ -32,7 +32,8 @@
     },
     "data.benefits[@qx0uRr].text": {
       "source": "hello World",
-      "ar": "hello World"
+      "ar": "hello World",
+      "en": "hello World"
     }
   }
 }
