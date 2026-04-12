@@ -5,25 +5,34 @@
       "source": "Prêt à libérer votre potentiel de croissance ?",
       "de": "Bereit, Ihr Wachstumspotenzial voll auszuschöpfen?",
       "it": "Pronto a liberare il tuo potenziale di crescita?",
-      "en": "Ready to unlock your growth potential?"
+      "en": "Ready to unlock your growth potential?",
+      "ar": "هل أنت مستعد لإطلاق إمكانات النمو لديك؟"
     },
     "data.cta.text": {
       "source": "Prendre RDV",
       "de": "Termin vereinbaren",
       "it": "Prenota un appuntamento",
-      "en": "Book a Meeting"
+      "en": "Book a Meeting",
+      "ar": "حجز موعد"
     },
     "data.benefits[@3rlmAi].text": {
       "source": "Approche ROIste",
-      "en": "ROI-driven approach"
+      "en": "ROI-driven approach",
+      "ar": "نهج يركز على العائد على الاستثمار (ROI)"
     },
     "data.benefits[@g179EW].text": {
       "source": "+200 clients industriels accompagnés",
-      "en": "+200 industrial clients supported"
+      "en": "+200 industrial clients supported",
+      "ar": "دعم أكثر من 200 عميل صناعي"
     },
     "data.benefits[@IRskBv].text": {
       "source": "HubSpot Diamond Partner",
-      "en": "HubSpot Diamond Partner"
+      "en": "HubSpot Diamond Partner",
+      "ar": "شريك HubSpot الماسي"
+    },
+    "data.benefits[@qx0uRr].text": {
+      "source": "hello World",
+      "ar": "hello World"
     }
   }
 }
