@@ -4,57 +4,68 @@
     "data.overtitle": {
       "source": "POURQUOI AUTEM",
       "en": "WHY AUTEM",
-      "de": "WARUM AUTEM"
+      "de": "WARUM AUTEM",
+      "ar": "لماذا AUTEM"
     },
     "data.title": {
       "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
       "en": "Independent, multi-brand, field-proven expert — not a generalist consultancy.",
-      "de": "Unabhängiger, herstellerübergreifender Praxisexperte – kein allgemeines Planungsbüro."
+      "de": "Unabhängiger, herstellerübergreifender Praxisexperte – kein allgemeines Planungsbüro.",
+      "ar": "خبير مستقل، متعدد العلامات التجارية، ميداني — وليس مجرد مكتب دراسات عام."
     },
     "data.conclusion": {
       "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
       "en": "We have no interest in steering you toward one supplier over another. Our only metric is your operational autonomy over the next 5 to 10 years.",
-      "de": "Wir haben kein Interesse daran, Sie zu einem bestimmten Lieferanten zu steuern. Unsere einzige Kennzahl ist Ihre operative Autonomie in 5 und 10 Jahren."
+      "de": "Wir haben kein Interesse daran, Sie zu einem bestimmten Lieferanten zu steuern. Unsere einzige Kennzahl ist Ihre operative Autonomie in 5 und 10 Jahren.",
+      "ar": "ليس لدينا أي مصلحة في توجيهكم نحو مورد دون آخر. مقياسنا الوحيد هو استقلاليتكم التشغيلية على مدى 5 و10 سنوات."
     },
     "data.image.alt": {
       "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
       "en": "AUTEM Expert — industrial control system architecture",
-      "de": "AUTEM-Experte – Architektur industrieller Steuerungs- und Leitsysteme"
+      "de": "AUTEM-Experte – Architektur industrieller Steuerungs- und Leitsysteme",
+      "ar": "خبير AUTEM — هندسة أنظمة التحكم والقيادة الصناعية"
     },
     "data.paragraphs[@mFiBX2].text": {
       "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",
       "en": "Poor industrial architectures are often designed by stakeholders who no longer set foot on the ground. AUTEM has commissioned systems for Hermès, Amazon, Thalys, and ArcelorMittal. Our specifications are built on the experience of what actually works—not on theoretical preferences.",
-      "de": "Schlechte Industriearchitekturen werden oft von Akteuren konzipiert, die kaum noch den Fuß auf die Produktionsfläche setzen. AUTEM hat Systeme bei Hermès, Amazon, Thalys und ArcelorMittal in Betrieb genommen. Unsere Spezifikationen basieren auf der Erfahrung dessen, was in der Praxis funktioniert – nicht auf theoretischen Präferenzen."
+      "de": "Schlechte Industriearchitekturen werden oft von Akteuren konzipiert, die kaum noch den Fuß auf die Produktionsfläche setzen. AUTEM hat Systeme bei Hermès, Amazon, Thalys und ArcelorMittal in Betrieb genommen. Unsere Spezifikationen basieren auf der Erfahrung dessen, was in der Praxis funktioniert – nicht auf theoretischen Präferenzen.",
+      "ar": "غالبًا ما يتم تصميم البنى الصناعية السيئة من قبل جهات لم تعد تطأ أقدامها الميدان. لقد قامت AUTEM بتشغيل أنظمة لدى Hermès وAmazon وThalys وArcelorMittal. مواصفاتنا مبنية على خبرة ما ينجح فعليًا — وليس على تفضيلات نظرية."
     },
     "data.highlights[@b7U3Ue].text": {
       "source": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations",
       "en": "Vendor-independent (Siemens, Rockwell, Schneider, Beckhoff)—no conflict of interest in recommendations",
-      "de": "Unabhängig von jedem Hersteller (Siemens, Rockwell, Schneider, Beckhoff) – keine Interessenkonflikte bei den Empfehlungen"
+      "de": "Unabhängig von jedem Hersteller (Siemens, Rockwell, Schneider, Beckhoff) – keine Interessenkonflikte bei den Empfehlungen",
+      "ar": "مستقل عن أي مصنع (Siemens, Rockwell, Schneider, Beckhoff) — لا يوجد تضارب في المصالح في التوصيات"
     },
     "data.highlights[@udGjhQ].text": {
       "source": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système",
       "en": "Dual OT+IT expertise: PLCs, industrial networks, supervision, cybersecurity, and system integration",
-      "de": "Doppelkompetenz OT+IT: SPS, industrielle Netzwerke, Leitsysteme, Cybersicherheit und Systemintegration"
+      "de": "Doppelkompetenz OT+IT: SPS, industrielle Netzwerke, Leitsysteme, Cybersicherheit und Systemintegration",
+      "ar": "كفاءة مزدوجة في OT+IT: أجهزة التحكم المنطقية المبرمجة، الشبكات الصناعية، الإشراف، الأمن السيبراني وتكامل الأنظمة"
     },
     "data.highlights[@y8RnWP].text": {
       "source": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales",
       "en": "Multi-sector field experience: luxury, logistics, mobility, chemicals, metallurgy, special machinery",
-      "de": "Praxiserfahrung in verschiedenen Sektoren: Luxusgüter, Logistik, Mobilität, Chemie, Metallurgie, Sondermaschinenbau"
+      "de": "Praxiserfahrung in verschiedenen Sektoren: Luxusgüter, Logistik, Mobilität, Chemie, Metallurgie, Sondermaschinenbau",
+      "ar": "خبرة ميدانية في قطاعات متعددة: الفخامة، اللوجستيات، التنقل، الكيماويات، المعادن، والآلات الخاصة"
     },
     "data.highlights[@JEGEJJ].text": {
       "source": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511",
       "en": "Mastery of industrial standards: ISA-88, ISA-95, IEC 62443 (OT cybersecurity), IEC 61511",
-      "de": "Beherrschung industrieller Normen: ISA-88, ISA-95, IEC 62443 (OT-Cybersicherheit), IEC 61511"
+      "de": "Beherrschung industrieller Normen: ISA-88, ISA-95, IEC 62443 (OT-Cybersicherheit), IEC 61511",
+      "ar": "إتقان المعايير الصناعية: ISA-88, ISA-95, IEC 62443 (الأمن السيبراني لـ OT), IEC 61511"
     },
     "data.highlights[@9ffFlM].text": {
       "source": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres",
       "en": "Directly usable deliverables: specifications, architecture diagrams, tender-ready technical specifications",
-      "de": "Direkt nutzbare Ergebnisse: Spezifikationen, Architekturdiagramme, Lastenhefte bereit für die Ausschreibung"
+      "de": "Direkt nutzbare Ergebnisse: Spezifikationen, Architekturdiagramme, Lastenhefte bereit für die Ausschreibung",
+      "ar": "مخرجات قابلة للاستخدام مباشرة: مواصفات، مخططات معمارية، ودفاتر شروط جاهزة للمناقصات"
     },
     "data.highlights[@aPhM5n].text": {
       "source": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final",
       "en": "Support available through to validation: review of supplier bids, assistance in final selection",
-      "de": "Begleitung bis zur Validierung: Prüfung von Lieferantenangeboten, Unterstützung bei der finalen Auswahl"
+      "de": "Begleitung bis zur Validierung: Prüfung von Lieferantenangeboten, Unterstützung bei der finalen Auswahl",
+      "ar": "إمكانية المرافقة حتى مرحلة الاعتماد: مراجعة عروض الموردين والمساعدة في الاختيار النهائي"
     }
   }
 }

@@ -4,27 +4,32 @@
     "data.title": {
       "source": "Vous définissez l'architecture de votre prochain système de production ?",
       "en": "Are you defining the architecture for your next production system?",
-      "de": "Planen Sie die Architektur Ihres nächsten Produktionssystems?"
+      "de": "Planen Sie die Architektur Ihres nächsten Produktionssystems?",
+      "ar": "هل تقوم بتحديد بنية نظام الإنتاج القادم الخاص بك؟"
     },
     "data.cta.text": {
       "source": "Demander un avis d'architecture",
       "en": "Request an architecture review",
-      "de": "Architekturberatung anfragen"
+      "de": "Architekturberatung anfragen",
+      "ar": "طلب استشارة حول البنية التحتية"
     },
     "data.benefits[@6YHe5A].text": {
       "source": "Expert indépendant — aucun lien commercial avec les constructeurs",
       "en": "Independent expert — no commercial ties to manufacturers",
-      "de": "Unabhängiger Experte — keine kommerziellen Bindungen an Hersteller"
+      "de": "Unabhängiger Experte — keine kommerziellen Bindungen an Hersteller",
+      "ar": "خبير مستقل — لا توجد روابط تجارية مع الشركات المصنعة"
     },
     "data.benefits[@mUpD9m].text": {
       "source": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
       "en": "Deliverable specifications and requirements, ready for tender",
-      "de": "Lieferbare Spezifikationen und Lastenhefte, bereit für die Ausschreibung"
+      "de": "Lieferbare Spezifikationen und Lastenhefte, bereit für die Ausschreibung",
+      "ar": "مواصفات ودفاتر شروط قابلة للتسليم، جاهزة لطلبات العروض"
     },
     "data.benefits[@Q80QQA].text": {
       "source": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
       "en": "Multi-brand, multi-sector — Siemens, Rockwell, Schneider, Beckhoff, Wago",
-      "de": "Marken- und branchenübergreifend — Siemens, Rockwell, Schneider, Beckhoff, Wago"
+      "de": "Marken- und branchenübergreifend — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "ar": "متعدد العلامات التجارية، متعدد القطاعات — Siemens، Rockwell، Schneider، Beckhoff، Wago"
     }
   }
 }

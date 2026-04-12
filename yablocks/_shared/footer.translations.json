@@ -5,198 +5,236 @@
       "source": "YourBrand Logo",
       "it": "Logo di YourBrand",
       "en": "YourBrand Logo",
-      "de": "YourBrand Logo"
+      "de": "YourBrand Logo",
+      "ar": "شعار YourBrand"
     },
     "data.brand.tagline": {
       "source": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
       "it": "Servizi professionali e soluzioni innovative. Scelti da aziende di tutto il mondo da oltre un decennio.",
       "en": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
-      "de": "Professionelle Dienstleistungen und innovative Lösungen. Seit über einem Jahrzehnt weltweit von Unternehmen geschätzt."
+      "de": "Professionelle Dienstleistungen und innovative Lösungen. Seit über einem Jahrzehnt weltweit von Unternehmen geschätzt.",
+      "ar": "خدمات احترافية وحلول مبتكرة. محل ثقة الشركات في جميع أنحاء العالم لأكثر من عقد من الزمان."
     },
     "data.contact.address": {
       "source": "123 Main Street\nYour City, ST 12345",
       "it": "123 Main Street\nYour City, ST 12345",
       "en": "123 Main Street\nYour City, ST 12345",
-      "de": "123 Main Street\nYour City, ST 12345"
+      "de": "123 Main Street\nYour City, ST 12345",
+      "ar": "123 شارع الرئيسي\nمدينتك، ST 12345"
     },
     "data.contact.phone": {
       "source": "(555) 123-4567",
       "it": "(555) 123-4567",
       "en": "(555) 123-4567",
-      "de": "(555) 123-4567"
+      "de": "(555) 123-4567",
+      "ar": "(555) 123-4567"
     },
     "data.contact.email": {
       "source": "contact@yourbusiness.com",
       "it": "contact@yourbusiness.com",
       "en": "contact@yourbusiness.com",
-      "de": "contact@yourbusiness.com"
+      "de": "contact@yourbusiness.com",
+      "ar": "contact@yourbusiness.com"
     },
     "data.contact.hours": {
       "source": "Mon-Fri: 9am-5pm\nSat: 10am-2pm",
       "it": "Lun-Ven: 9:00-17:00\nSab: 10:00-14:00",
       "en": "Mon-Fri: 9am-5pm\nSat: 10am-2pm",
-      "de": "Mo-Fr: 9:00-17:00 Uhr\nSa: 10:00-14:00 Uhr"
+      "de": "Mo-Fr: 9:00-17:00 Uhr\nSa: 10:00-14:00 Uhr",
+      "ar": "من الاثنين إلى الجمعة: 9 صباحاً - 5 مساءً\nالسبت: 10 صباحاً - 2 مساءً"
     },
     "data.legal.copyright": {
       "source": "All rights reserved.",
       "it": "Tutti i diritti riservati.",
       "en": "All rights reserved.",
-      "de": "Alle Rechte vorbehalten."
+      "de": "Alle Rechte vorbehalten.",
+      "ar": "جميع الحقوق محفوظة."
     },
     "data.linkGroups[@PjSVoM].title": {
       "source": "Services",
       "en": "Services",
-      "de": "Dienstleistungen"
+      "de": "Dienstleistungen",
+      "ar": "الخدمات"
     },
     "data.linkGroups[@Cyj4kl].title": {
       "source": "Company",
       "en": "Company",
-      "de": "Unternehmen"
+      "de": "Unternehmen",
+      "ar": "الشركة"
     },
     "data.linkGroups[@mtbadr].title": {
       "source": "Resources",
       "en": "Resources",
-      "de": "Ressourcen"
+      "de": "Ressourcen",
+      "ar": "المصادر"
     },
     "data.linkGroups[@PjSVoM].links[@KpeVeL].text": {
       "source": "Consulting",
       "en": "Consulting",
-      "de": "Beratung"
+      "de": "Beratung",
+      "ar": "الاستشارات"
     },
     "data.linkGroups[@PjSVoM].links[@m3DvAK].text": {
       "source": "Development",
       "en": "Development",
-      "de": "Entwicklung"
+      "de": "Entwicklung",
+      "ar": "التطوير"
     },
     "data.linkGroups[@PjSVoM].links[@Xj8bC1].text": {
       "source": "Design",
       "en": "Design",
-      "de": "Design"
+      "de": "Design",
+      "ar": "التصميم"
     },
     "data.linkGroups[@PjSVoM].links[@YAWVLL].text": {
       "source": "Support",
       "en": "Support",
-      "de": "Support"
+      "de": "Support",
+      "ar": "الدعم"
     },
     "data.linkGroups[@Cyj4kl].links[@ImUrs5].text": {
       "source": "About Us",
       "en": "About Us",
-      "de": "Über uns"
+      "de": "Über uns",
+      "ar": "من نحن"
     },
     "data.linkGroups[@Cyj4kl].links[@dQo6zL].text": {
       "source": "Our Work",
       "en": "Our Work",
-      "de": "Unsere Arbeit"
+      "de": "Unsere Arbeit",
+      "ar": "أعمالنا"
     },
     "data.linkGroups[@Cyj4kl].links[@M5W6XQ].text": {
       "source": "Testimonials",
       "en": "Testimonials",
-      "de": "Kundenstimmen"
+      "de": "Kundenstimmen",
+      "ar": "آراء العملاء"
     },
     "data.linkGroups[@mtbadr].links[@GI68Hh].text": {
       "source": "Blog",
       "en": "Blog",
-      "de": "Blog"
+      "de": "Blog",
+      "ar": "المدونة"
     },
     "data.linkGroups[@mtbadr].links[@kOVizi].text": {
       "source": "FAQ",
       "en": "FAQ",
-      "de": "FAQ"
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة"
     },
     "data.linkGroups[@mtbadr].links[@uxe48l].text": {
       "source": "Contact",
       "en": "Contact",
-      "de": "Kontakt"
+      "de": "Kontakt",
+      "ar": "اتصل بنا"
     },
     "data.linkGroups[@PjSVoM].links[@KpeVeL].href": {
       "source": "/service/consulting",
       "en": "/service/consulting",
-      "de": "/service/consulting"
+      "de": "/service/consulting",
+      "ar": "/service/consulting"
     },
     "data.linkGroups[@PjSVoM].links[@m3DvAK].href": {
       "source": "/service/development",
       "en": "/service/development",
-      "de": "/service/development"
+      "de": "/service/development",
+      "ar": "/service/development"
     },
     "data.linkGroups[@PjSVoM].links[@Xj8bC1].href": {
       "source": "/service/design",
       "en": "/service/design",
-      "de": "/service/design"
+      "de": "/service/design",
+      "ar": "/service/design"
     },
     "data.linkGroups[@PjSVoM].links[@YAWVLL].href": {
       "source": "/service/support",
       "en": "/service/support",
-      "de": "/service/support"
+      "de": "/service/support",
+      "ar": "/service/support"
     },
     "data.linkGroups[@Cyj4kl].links[@ImUrs5].href": {
       "source": "/about",
       "en": "/about",
-      "de": "/about"
+      "de": "/about",
+      "ar": "/about"
     },
     "data.linkGroups[@Cyj4kl].links[@dQo6zL].href": {
       "source": "/portfolio",
       "en": "/portfolio",
-      "de": "/portfolio"
+      "de": "/portfolio",
+      "ar": "/portfolio"
     },
     "data.linkGroups[@Cyj4kl].links[@M5W6XQ].href": {
       "source": "/testimonials",
       "en": "/testimonials",
-      "de": "/testimonials"
+      "de": "/testimonials",
+      "ar": "/testimonials"
     },
     "data.linkGroups[@mtbadr].links[@GI68Hh].href": {
       "source": "/blog",
       "en": "/blog",
-      "de": "/blog"
+      "de": "/blog",
+      "ar": "/blog"
     },
     "data.linkGroups[@mtbadr].links[@kOVizi].href": {
       "source": "/faq",
       "en": "/faq",
-      "de": "/faq"
+      "de": "/faq",
+      "ar": "/faq"
     },
     "data.linkGroups[@mtbadr].links[@uxe48l].href": {
       "source": "/contact",
       "en": "/contact",
-      "de": "/contact"
+      "de": "/contact",
+      "ar": "/contact"
     },
     "data.legal.links[@nwvjCF].text": {
       "source": "Legal Notice",
       "en": "Legal Notice",
-      "de": "Impressum"
+      "de": "Impressum",
+      "ar": "إشعار قانوني"
     },
     "data.legal.links[@daKRJe].text": {
       "source": "Privacy Policy",
       "en": "Privacy Policy",
-      "de": "Datenschutzerklärung"
+      "de": "Datenschutzerklärung",
+      "ar": "سياسة الخصوصية"
     },
     "data.legal.links[@k52wCG].text": {
       "source": "Terms of Service",
       "en": "Terms of Service",
-      "de": "Nutzungsbedingungen"
+      "de": "Nutzungsbedingungen",
+      "ar": "شروط الخدمة"
     },
     "data.legal.links[@nwvjCF].href": {
       "source": "/legal",
       "en": "/legal",
-      "de": "/legal"
+      "de": "/legal",
+      "ar": "/legal"
     },
     "data.legal.links[@daKRJe].href": {
       "source": "/privacy",
       "en": "/privacy",
-      "de": "/privacy"
+      "de": "/privacy",
+      "ar": "/privacy"
     },
     "data.legal.links[@k52wCG].href": {
       "source": "/terms",
       "en": "/terms",
-      "de": "/terms"
+      "de": "/terms",
+      "ar": "/terms"
     },
     "data.certifications[@EHgSM7].alt": {
       "source": "Certification 1",
       "en": "Certification 1",
-      "de": "Zertifizierung 1"
+      "de": "Zertifizierung 1",
+      "ar": "الشهادة 1"
     },
     "data.certifications[@aoPN4k].alt": {
       "source": "Certification 2",
       "en": "Certification 2",
-      "de": "Zertifizierung 2"
+      "de": "Zertifizierung 2",
+      "ar": "الشهادة 2"
     }
   }
 }

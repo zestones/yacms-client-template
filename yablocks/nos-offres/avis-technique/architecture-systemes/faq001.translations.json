@@ -4,62 +4,74 @@
     "data.sectionLabel": {
       "source": "FAQ",
       "en": "FAQ",
-      "de": "FAQ"
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة"
     },
     "data.title": {
       "source": "Questions fréquentes sur la définition d'architecture de systèmes industriels",
       "en": "Frequently Asked Questions about industrial systems architecture definition",
-      "de": "Häufig gestellte Fragen zur Definition der industriellen Systemarchitektur"
+      "de": "Häufig gestellte Fragen zur Definition der industriellen Systemarchitektur",
+      "ar": "أسئلة شائعة حول تعريف بنية الأنظمة الصناعية"
     },
     "data.items[@OqFEYN].question": {
       "source": "À quel moment faire appel à un expert en architecture ?",
       "en": "When should you call upon an architecture expert?",
-      "de": "Wann sollte man einen Architektur-Experten hinzuziehen?"
+      "de": "Wann sollte man einen Architektur-Experten hinzuziehen?",
+      "ar": "متى يجب الاستعانة بخبير في هندسة البنية التحتية؟"
     },
     "data.items[@hkYUgb].question": {
       "source": "Quelle différence entre architecture OT et architecture IT ?",
       "en": "What is the difference between OT architecture and IT architecture?",
-      "de": "Was ist der Unterschied zwischen OT-Architektur und IT-Architektur?"
+      "de": "Was ist der Unterschied zwischen OT-Architektur und IT-Architektur?",
+      "ar": "ما الفرق بين بنية OT وبنية IT؟"
     },
     "data.items[@VT7jZ3].question": {
       "source": "Travaillez-vous avec toutes les marques d'automates ?",
       "en": "Do you work with all PLC brands?",
-      "de": "Arbeiten Sie mit allen SPS-Marken?"
+      "de": "Arbeiten Sie mit allen SPS-Marken?",
+      "ar": "هل تعملون مع جميع العلامات التجارية لأجهزة التحكم المنطقي المبرمج (PLC)؟"
     },
     "data.items[@bzbFsQ].question": {
       "source": "Prenez-vous en compte la cybersécurité dans les architectures ?",
       "en": "Do you take cybersecurity into account in the architectures?",
-      "de": "Berücksichtigen Sie die Cybersicherheit in den Architekturen?"
+      "de": "Berücksichtigen Sie die Cybersicherheit in den Architekturen?",
+      "ar": "هل تأخذون الأمن السيبراني في الاعتبار عند تصميم البنيات؟"
     },
     "data.items[@Bp6seW].question": {
       "source": "Pouvez-vous valider l'architecture proposée par un intégrateur ?",
       "en": "Can you validate the architecture proposed by an integrator?",
-      "de": "Können Sie die von einem Systemintegrator vorgeschlagene Architektur validieren?"
+      "de": "Können Sie die von einem Systemintegrator vorgeschlagene Architektur validieren?",
+      "ar": "هل يمكنك التحقق من صحة البنية المقترحة من قبل شركة دمج الأنظمة؟"
     },
     "data.items[@OqFEYN].answer": {
       "source": "Le plus tôt possible : avant de choisir un fournisseur, avant de lancer un appel d'offres, et surtout avant de signer avec un intégrateur. Une prestation d'architecture en amont coûte une fraction du prix d'un mauvais choix à corriger 3 ans plus tard. Nous intervenons aussi en cours de projet pour auditer une architecture existante et identifier les risques.",
       "en": "As early as possible: before choosing a supplier, before launching a call for tenders, and above all, before signing with an integrator. An upstream architecture service costs a fraction of the price of a wrong choice to be corrected 3 years later. We also intervene during the project to audit an existing architecture and identify risks.",
-      "de": "So früh wie möglich: bevor Sie einen Lieferanten wählen, bevor Sie eine Ausschreibung starten und vor allem, bevor Sie einen Vertrag mit einem Systemintegrator unterzeichnen. Eine Architekturleistung im Vorfeld kostet nur einen Bruchteil dessen, was die Korrektur einer Fehlentscheidung drei Jahre später kosten würde. Wir unterstützen Sie auch während eines laufenden Projekts, um eine bestehende Architektur zu prüfen und Risiken zu identifizieren."
+      "de": "So früh wie möglich: bevor Sie einen Lieferanten wählen, bevor Sie eine Ausschreibung starten und vor allem, bevor Sie einen Vertrag mit einem Systemintegrator unterzeichnen. Eine Architekturleistung im Vorfeld kostet nur einen Bruchteil dessen, was die Korrektur einer Fehlentscheidung drei Jahre später kosten würde. Wir unterstützen Sie auch während eines laufenden Projekts, um eine bestehende Architektur zu prüfen und Risiken zu identifizieren.",
+      "ar": "في أقرب وقت ممكن: قبل اختيار المورد، وقبل إطلاق مناقصة، وخاصة قبل التوقيع مع شركة دمج الأنظمة. إن تكلفة خدمة تصميم البنية في المراحل الأولية تمثل جزءاً بسيطاً من تكلفة تصحيح خيار خاطئ بعد 3 سنوات. كما نتدخل أيضاً أثناء المشروع لتدقيق بنية قائمة وتحديد المخاطر."
     },
     "data.items[@hkYUgb].answer": {
       "source": "L'architecture OT (Operational Technology) concerne les systèmes de contrôle-commande : automates, supervision SCADA, réseaux Profinet/Ethernet IP, capteurs. L'IT (Information Technology) couvre les systèmes d'information : ERP, MES, serveurs, infrastructure réseau bureautique. L'enjeu est leur convergence : faire communiquer les deux mondes avec les bons protocoles (OPC-UA, REST) sans compromettre la sécurité des systèmes de production.",
       "en": "OT (Operational Technology) architecture concerns control systems: PLCs, SCADA supervision, Profinet/Ethernet IP networks, sensors. IT (Information Technology) covers information systems: ERP, MES, servers, office network infrastructure. The challenge is their convergence: making the two worlds communicate using the correct protocols (OPC-UA, REST) without compromising the security of production systems.",
-      "de": "Die OT-Architektur (Operational Technology) betrifft die Steuerungs- und Leitsysteme: SPS, SCADA-Überwachung, Profinet/Ethernet IP-Netzwerke, Sensoren. Die IT (Information Technology) umfasst die Informationssysteme: ERP, MES, Server, Büro-Netzwerkinfrastruktur. Die Herausforderung liegt in ihrer Konvergenz: beide Welten mit den richtigen Protokollen (OPC-UA, REST) zu vernetzen, ohne die Sicherheit der Produktionssysteme zu gefährden."
+      "de": "Die OT-Architektur (Operational Technology) betrifft die Steuerungs- und Leitsysteme: SPS, SCADA-Überwachung, Profinet/Ethernet IP-Netzwerke, Sensoren. Die IT (Information Technology) umfasst die Informationssysteme: ERP, MES, Server, Büro-Netzwerkinfrastruktur. Die Herausforderung liegt in ihrer Konvergenz: beide Welten mit den richtigen Protokollen (OPC-UA, REST) zu vernetzen, ohne die Sicherheit der Produktionssysteme zu gefährden.",
+      "ar": "تتعلق بنية OT (التكنولوجيا التشغيلية) بأنظمة التحكم والقيادة: أجهزة التحكم المنطقي المبرمج، أنظمة الإشراف SCADA، شبكات Profinet/Ethernet IP، والمستشعرات. أما IT (تكنولوجيا المعلومات) فتغطي أنظمة المعلومات: ERP، MES، الخوادم، والبنية التحتية لشبكات المكاتب. يكمن التحدي في تقاربهما: جعل العالمين يتواصلان باستخدام البروتوكولات الصحيحة (OPC-UA, REST) دون المساس بأمن أنظمة الإنتاج."
     },
     "data.items[@VT7jZ3].answer": {
       "source": "Oui. Nous maîtrisons Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff et Eaton. Nous n'avons aucun partenariat commercial avec ces fabricants — notre recommandation est uniquement guidée par vos contraintes techniques et opérationnelles.",
       "en": "Yes. We are proficient in Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff, and Eaton. We have no commercial partnership with these manufacturers — our recommendation is solely guided by your technical and operational constraints.",
-      "de": "Ja. Wir beherrschen Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff und Eaton. Wir haben keine kommerziellen Partnerschaften mit diesen Herstellern – unsere Empfehlungen basieren ausschließlich auf Ihren technischen und betrieblichen Anforderungen."
+      "de": "Ja. Wir beherrschen Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff und Eaton. Wir haben keine kommerziellen Partnerschaften mit diesen Herstellern – unsere Empfehlungen basieren ausschließlich auf Ihren technischen und betrieblichen Anforderungen.",
+      "ar": "نعم. نحن نتقن التعامل مع Siemens (S7-1500, TIA Portal)، Rockwell/Allen-Bradley (Studio 5000)، Schneider Electric (EcoStruxure)، Wago، Beckhoff و Eaton. ليس لدينا أي شراكة تجارية مع هؤلاء المصنعين — توصياتنا تسترشد فقط بقيودكم التقنية والتشغيلية."
     },
     "data.items[@bzbFsQ].answer": {
       "source": "Systématiquement. La cybersécurité OT n'est plus optionnelle. Nous intégrons les bonnes pratiques de la norme IEC 62443 dans chaque architecture : segmentation réseau (DMZ entre OT et IT), contrôle des accès distants, politique de patch management, et identification des composants sensibles. Nous pouvons également réaliser un audit de la maturité cybersécurité de vos systèmes existants.",
       "en": "Systematically. OT cybersecurity is no longer optional. We integrate the best practices of the IEC 62443 standard into every architecture: network segmentation (DMZ between OT and IT), remote access control, patch management policy, and identification of sensitive components. We can also perform a cybersecurity maturity audit of your existing systems.",
-      "de": "Systematisch. OT-Cybersicherheit ist nicht mehr optional. Wir integrieren die Best Practices der Norm IEC 62443 in jede Architektur: Netzwerksegmentierung (DMZ zwischen OT und IT), Fernzugriffssteuerung, Patch-Management-Richtlinien und die Identifizierung kritischer Komponenten. Wir können zudem ein Audit zur Cybersicherheits-Reife Ihrer bestehenden Systeme durchführen."
+      "de": "Systematisch. OT-Cybersicherheit ist nicht mehr optional. Wir integrieren die Best Practices der Norm IEC 62443 in jede Architektur: Netzwerksegmentierung (DMZ zwischen OT und IT), Fernzugriffssteuerung, Patch-Management-Richtlinien und die Identifizierung kritischer Komponenten. Wir können zudem ein Audit zur Cybersicherheits-Reife Ihrer bestehenden Systeme durchführen.",
+      "ar": "بشكل منهجي. لم يعد الأمن السيبراني لـ OT اختيارياً. نحن ندمج أفضل الممارسات لمعيار IEC 62443 في كل بنية: تقسيم الشبكة (DMZ بين OT و IT)، التحكم في الوصول عن بعد، سياسة إدارة التصحيحات (patch management)، وتحديد المكونات الحساسة. يمكننا أيضاً إجراء تدقيق لنضج الأمن السيبراني لأنظمتكم الحالية."
     },
     "data.items[@Bp6seW].answer": {
       "source": "Oui. C'est une mission fréquente : un intégrateur vous a remis une proposition d'architecture et vous souhaitez un avis indépendant avant de signer. Nous analysons la proposition, identifions les risques (techniques, contractuels, maintenabilité), et vous remettons un rapport d'analyse avec recommandations.",
       "en": "Yes. This is a frequent mission: an integrator has provided you with an architecture proposal and you want an independent opinion before signing. We analyze the proposal, identify risks (technical, contractual, maintainability), and provide you with an analysis report with recommendations.",
-      "de": "Ja. Dies ist ein häufiger Auftrag: Ein Systemintegrator hat Ihnen einen Architekturvorschlag unterbreitet und Sie wünschen sich eine unabhängige Meinung, bevor Sie unterschreiben. Wir analysieren den Vorschlag, identifizieren die Risiken (technisch, vertraglich, Wartbarkeit) und erstellen Ihnen einen Analysebericht mit Empfehlungen."
+      "de": "Ja. Dies ist ein häufiger Auftrag: Ein Systemintegrator hat Ihnen einen Architekturvorschlag unterbreitet und Sie wünschen sich eine unabhängige Meinung, bevor Sie unterschreiben. Wir analysieren den Vorschlag, identifizieren die Risiken (technisch, vertraglich, Wartbarkeit) und erstellen Ihnen einen Analysebericht mit Empfehlungen.",
+      "ar": "نعم. هذه مهمة شائعة: عندما تقدم لكم شركة دمج أنظمة مقترحاً للبنية وترغبون في الحصول على رأي مستقل قبل التوقيع. نقوم بتحليل المقترح، وتحديد المخاطر (التقنية، التعاقدية، وقابلية الصيانة)، ونقدم لكم تقرير تحليل يتضمن التوصيات."
     }
   }
 }

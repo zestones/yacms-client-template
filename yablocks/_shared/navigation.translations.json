@@ -5,111 +5,132 @@
       "source": "YourBrand",
       "it": "YourBrand",
       "en": "YourBrand",
-      "de": "YourBrand"
+      "de": "YourBrand",
+      "ar": "YourBrand"
     },
     "data.logo.href": {
       "source": "/",
       "it": "/",
       "en": "/",
-      "de": "/"
+      "de": "/",
+      "ar": "/"
     },
     "data.logo.image": {
       "source": "/logos/logo.png",
       "it": "/logos/logo.png",
       "en": "/logos/logo.png",
-      "de": "/logos/logo.png"
+      "de": "/logos/logo.png",
+      "ar": "/logos/logo.png"
     },
     "data.cta.text": {
       "source": "Get Started",
       "it": "Inizia ora",
       "en": "Get Started",
-      "de": "Jetzt loslegen"
+      "de": "Jetzt loslegen",
+      "ar": "ابدأ الآن"
     },
     "data.cta.href": {
       "source": "#contact",
       "it": "#contact",
       "en": "#contact",
-      "de": "#contact"
+      "de": "#contact",
+      "ar": "#contact"
     },
     "data.links[@2jEoj7].label": {
       "source": "Home",
       "en": "Home",
-      "de": "Startseite"
+      "de": "Startseite",
+      "ar": "الرئيسية"
     },
     "data.links[@YTDCLe].label": {
       "source": "Services",
       "en": "Services",
-      "de": "Leistungen"
+      "de": "Leistungen",
+      "ar": "الخدمات"
     },
     "data.links[@ORjBjf].label": {
       "source": "About",
       "en": "About",
-      "de": "Über uns"
+      "de": "Über uns",
+      "ar": "من نحن"
     },
     "data.links[@ht4GrW].label": {
       "source": "Portfolio",
       "en": "Portfolio",
-      "de": "Portfolio"
+      "de": "Portfolio",
+      "ar": "أعمالنا"
     },
     "data.links[@cf8tIX].label": {
       "source": "Contact",
       "en": "Contact",
-      "de": "Kontakt"
+      "de": "Kontakt",
+      "ar": "اتصل بنا"
     },
     "data.links[@2jEoj7].href": {
       "source": "/",
       "en": "/",
-      "de": "/"
+      "de": "/",
+      "ar": "/"
     },
     "data.links[@YTDCLe].href": {
       "source": "#services",
       "en": "#services",
-      "de": "#services"
+      "de": "#services",
+      "ar": "#services"
     },
     "data.links[@ORjBjf].href": {
       "source": "/about",
       "en": "/about",
-      "de": "/about"
+      "de": "/about",
+      "ar": "/about"
     },
     "data.links[@ht4GrW].href": {
       "source": "/portfolio",
       "en": "/portfolio",
-      "de": "/portfolio"
+      "de": "/portfolio",
+      "ar": "/portfolio"
     },
     "data.links[@cf8tIX].href": {
       "source": "#contact",
       "en": "#contact",
-      "de": "#contact"
+      "de": "#contact",
+      "ar": "#contact"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].label": {
       "source": "Service One",
       "en": "Service One",
-      "de": "Leistung Eins"
+      "de": "Leistung Eins",
+      "ar": "الخدمة الأولى"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].label": {
       "source": "Service Two",
       "en": "Service Two",
-      "de": "Leistung Zwei"
+      "de": "Leistung Zwei",
+      "ar": "الخدمة الثانية"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].label": {
       "source": "Service Three",
       "en": "Service Three",
-      "de": "Leistung Drei"
+      "de": "Leistung Drei",
+      "ar": "الخدمة الثالثة"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].href": {
       "source": "/service/service-one",
       "en": "/service/service-one",
-      "de": "/service/service-one"
+      "de": "/service/service-one",
+      "ar": "/service/service-one"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].href": {
       "source": "/service/service-two",
       "en": "/service/service-two",
-      "de": "/service/service-two"
+      "de": "/service/service-two",
+      "ar": "/service/service-two"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].href": {
       "source": "/service/service-three",
       "en": "/service/service-three",
-      "de": "/service/service-three"
+      "de": "/service/service-three",
+      "ar": "/service/service-three"
     }
   }
 }

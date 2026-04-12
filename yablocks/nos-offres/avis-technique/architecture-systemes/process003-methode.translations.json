@@ -4,62 +4,74 @@
     "data.overtitle": {
       "source": "NOTRE MÉTHODE",
       "en": "OUR METHOD",
-      "de": "UNSERE METHODE"
+      "de": "UNSERE METHODE",
+      "ar": "منهجيتنا"
     },
     "data.title": {
       "source": "De la compréhension du besoin à la spécification livrée : 5 étapes",
       "en": "From understanding the need to delivered specifications: 5 steps",
-      "de": "Vom Bedarfsverständnis bis zur gelieferten Spezifikation: 5 Schritte"
+      "de": "Vom Bedarfsverständnis bis zur gelieferten Spezifikation: 5 Schritte",
+      "ar": "من فهم الاحتياجات إلى تسليم المواصفات: 5 خطوات"
     },
     "data.steps[@MDHSh3].title": {
       "source": "Cadrage & compréhension du besoin",
       "en": "Scoping & Requirement Understanding",
-      "de": "Rahmenfestlegung & Bedarfsverständnis"
+      "de": "Rahmenfestlegung & Bedarfsverständnis",
+      "ar": "التأطير وفهم الاحتياجات"
     },
     "data.steps[@8OsBzY].title": {
       "source": "Analyse fonctionnelle et organique",
       "en": "Functional and Organic Analysis",
-      "de": "Funktionale und organische Analyse"
+      "de": "Funktionale und organische Analyse",
+      "ar": "التحليل الوظيفي والعضوي"
     },
     "data.steps[@ogHtoH].title": {
       "source": "Spécification d'architecture",
       "en": "Architecture Specification",
-      "de": "Architekturspezifikation"
+      "de": "Architekturspezifikation",
+      "ar": "تحديد مواصفات البنية التحتية"
     },
     "data.steps[@yxFBQl].title": {
       "source": "Revue critique & validation",
       "en": "Critical Review & Validation",
-      "de": "Kritische Prüfung & Validierung"
+      "de": "Kritische Prüfung & Validierung",
+      "ar": "المراجعة النقدية والاعتماد"
     },
     "data.steps[@LFVt9H].title": {
       "source": "Accompagnement à la consultation",
       "en": "Consultation Support",
-      "de": "Unterstützung bei der Ausschreibung"
+      "de": "Unterstützung bei der Ausschreibung",
+      "ar": "المرافقة في مرحلة الاستشارة"
     },
     "data.steps[@MDHSh3].description": {
       "source": "Entretiens avec vos équipes pour capturer les enjeux opérationnels, les contraintes de maintenabilité, les exigences de disponibilité et les standards internes. Identification des systèmes existants et des interfaces à conserver ou migrer.",
       "en": "Interviews with your teams to capture operational challenges, maintainability constraints, availability requirements, and internal standards. Identification of existing systems and interfaces to be retained or migrated.",
-      "de": "Interviews mit Ihren Teams, um betriebliche Herausforderungen, Wartbarkeitseinschränkungen, Verfügbarkeitsanforderungen und interne Standards zu erfassen. Identifizierung bestehender Systeme sowie zu behaltender oder zu migrierender Schnittstellen."
+      "de": "Interviews mit Ihren Teams, um betriebliche Herausforderungen, Wartbarkeitseinschränkungen, Verfügbarkeitsanforderungen und interne Standards zu erfassen. Identifizierung bestehender Systeme sowie zu behaltender oder zu migrierender Schnittstellen.",
+      "ar": "إجراء مقابلات مع فرقكم لتحديد التحديات التشغيلية، وقيود القابلية للصيانة، ومتطلبات التوفر، والمعايير الداخلية. تحديد الأنظمة الحالية والواجهات التي يجب الحفاظ عليها أو ترحيلها."
     },
     "data.steps[@8OsBzY].description": {
       "source": "Décomposition des fonctions en briques élémentaires : modes de marche, transitions, E/S, interfaces opérateurs, alarmes, communications. Identification des exigences de performance (temps de cycle, temps de réponse, disponibilité cible).",
       "en": "Decomposition of functions into elementary building blocks: operating modes, transitions, I/O, operator interfaces, alarms, communications. Identification of performance requirements (cycle time, response time, target availability).",
-      "de": "Zerlegung der Funktionen in elementare Bausteine: Betriebsmodi, Übergänge, E/A, Bedienerschnittstellen, Alarme, Kommunikation. Identifizierung von Leistungsanforderungen (Zykluszeit, Antwortzeit, Zielverfügbarkeit)."
+      "de": "Zerlegung der Funktionen in elementare Bausteine: Betriebsmodi, Übergänge, E/A, Bedienerschnittstellen, Alarme, Kommunikation. Identifizierung von Leistungsanforderungen (Zykluszeit, Antwortzeit, Zielverfügbarkeit).",
+      "ar": "تفكيك الوظائف إلى لبنات أساسية: أوضاع التشغيل، الانتقالات، المدخلات والمخرجات، واجهات المشغلين، الإنذارات، والاتصالات. تحديد متطلبات الأداء (زمن الدورة، زمن الاستجابة، التوفر المستهدف)."
     },
     "data.steps[@ogHtoH].description": {
       "source": "Définition de la topologie réseau (segmentation OT/IT, VLAN, DMZ), du choix des équipements (automates, IPC, serveurs SCADA), des protocoles de communication (OPC-UA, Profinet, Ethernet/IP) et de la stratégie de redondance.",
       "en": "Definition of network topology (OT/IT segmentation, VLAN, DMZ), equipment selection (PLCs, IPCs, SCADA servers), communication protocols (OPC-UA, Profinet, Ethernet/IP), and redundancy strategy.",
-      "de": "Definition der Netzwerktopologie (OT/IT-Segmentierung, VLAN, DMZ), Auswahl der Hardware (SPS, IPC, SCADA-Server), Kommunikationsprotokolle (OPC-UA, Profinet, Ethernet/IP) und Redundanzstrategie."
+      "de": "Definition der Netzwerktopologie (OT/IT-Segmentierung, VLAN, DMZ), Auswahl der Hardware (SPS, IPC, SCADA-Server), Kommunikationsprotokolle (OPC-UA, Profinet, Ethernet/IP) und Redundanzstrategie.",
+      "ar": "تحديد طوبولوجيا الشبكة (تقسيم OT/IT، VLAN، DMZ)، واختيار المعدات (أجهزة التحكم المنطقية المبرمجة، IPC، خوادم SCADA)، وبروتوكولات الاتصال (OPC-UA، Profinet، Ethernet/IP) واستراتيجية التكرار."
     },
     "data.steps[@yxFBQl].description": {
       "source": "Présentation de l'architecture devant vos équipes techniques, réponse aux questions de maintenabilité et de cybersécurité, intégration des retours, validation formelle du document de spécification.",
       "en": "Presentation of the architecture to your technical teams, addressing maintainability and cybersecurity questions, integrating feedback, and formal validation of the specification document.",
-      "de": "Präsentation der Architektur vor Ihren technischen Teams, Beantwortung von Fragen zur Wartbarkeit und Cybersicherheit, Integration des Feedbacks, formale Validierung des Spezifikationsdokuments."
+      "de": "Präsentation der Architektur vor Ihren technischen Teams, Beantwortung von Fragen zur Wartbarkeit und Cybersicherheit, Integration des Feedbacks, formale Validierung des Spezifikationsdokuments.",
+      "ar": "عرض البنية التحتية أمام فرقكم الفنية، والإجابة على الأسئلة المتعلقة بالقابلية للصيانة والأمن السيبراني، ودمج الملاحظات، والاعتماد الرسمي لوثيقة المواصفات."
     },
     "data.steps[@LFVt9H].description": {
       "source": "Si nécessaire, assistance à la rédaction du cahier des charges pour appel d'offres, analyse comparative des réponses fournisseurs, recommandations objectives sur le choix final.",
       "en": "If necessary, assistance in drafting the tender specifications, comparative analysis of supplier responses, and objective recommendations for the final selection.",
-      "de": "Bei Bedarf Unterstützung bei der Erstellung des Lastenhefts für die Ausschreibung, vergleichende Analyse der Anbieterantworten, objektive Empfehlungen für die endgültige Auswahl."
+      "de": "Bei Bedarf Unterstützung bei der Erstellung des Lastenhefts für die Ausschreibung, vergleichende Analyse der Anbieterantworten, objektive Empfehlungen für die endgültige Auswahl.",
+      "ar": "عند الضرورة، المساعدة في صياغة دفتر الشروط للمناقصات، والتحليل المقارن لعروض الموردين، وتقديم توصيات موضوعية بشأن الاختيار النهائي."
     }
   }
 }
