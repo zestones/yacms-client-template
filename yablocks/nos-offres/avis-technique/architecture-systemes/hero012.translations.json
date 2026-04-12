@@ -13,7 +13,7 @@
     },
     "data.subtitle": {
       "source": "Vous devez choisir et structurer l'architecture de votre prochain système de production ? AUTEM construit des architectures d'automatisme indépendantes de tout constructeur — souveraines, scalables et documentées de bout en bout.",
-      "en": "Do you need to choose and structure the architecture of your next production system? AUTEM builds vendor-independent automation architectures — sovereign, scalable, and documented from end to end.",
+      "en": "Do you need to choose and structure the architecture for your next production system? AUTEM designs vendor-independent automation architectures — sovereign, scalable, and documented end-to-end.",
       "de": "Müssen Sie die Architektur Ihres nächsten Produktionssystems wählen und strukturieren? AUTEM erstellt herstellerunabhängige Automatisierungsarchitekturen – souverän, skalierbar und durchgehend dokumentiert."
     },
     "data.backgroundImage.alt": {
