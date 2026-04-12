@@ -7,7 +7,8 @@
       "ru": "Веб-студия",
       "ar": "استوديو ويب",
       "de": "Webstudio",
-      "it": "Studio Web"
+      "it": "Studio Web",
+      "zh": "网页设计工作室"
     },
     "data.title": {
       "source": "Yacms",
@@ -15,7 +16,8 @@
       "ru": "Yacms",
       "ar": "Yacms",
       "de": "Yacms",
-      "it": "Yacms"
+      "it": "Yacms",
+      "zh": "Yacms"
     },
     "data.titleHighlight": {
       "source": "Prêt en 2",
@@ -23,7 +25,8 @@
       "ru": "Готов за 2",
       "ar": "جاهز في 2",
       "de": "Fertig in 2",
-      "it": "Pronto in 2"
+      "it": "Pronto in 2",
+      "zh": "2天即可完成"
     },
     "data.subtitle": {
       "source": "Sites vitrine rapide",
@@ -31,7 +34,8 @@
       "ru": "Быстрые сайты-визитки",
       "ar": "مواقع عرض سريعة",
       "de": "Schnelle Unternehmenswebsites",
-      "it": "Siti vetrina rapidi"
+      "it": "Siti vetrina rapidi",
+      "zh": "快速构建企业展示网站"
     },
     "data.cta.primary.text": {
       "source": "Demandez un devis",
@@ -39,7 +43,8 @@
       "ru": "Запросить смету",
       "ar": "اطلب عرض سعر",
       "de": "Angebot anfordern",
-      "it": "Richiedi un preventivo"
+      "it": "Richiedi un preventivo",
+      "zh": "申请报价"
     },
     "data.cta.secondary.text": {
       "source": "Voir nos réalisations",
@@ -47,7 +52,8 @@
       "ru": "Посмотреть наши работы",
       "ar": "شاهد أعمالنا",
       "de": "Unsere Projekte ansehen",
-      "it": "Guarda i nostri lavori"
+      "it": "Guarda i nostri lavori",
+      "zh": "查看我们的作品"
     },
     "data.mockupImage.alt": {
       "source": "",
@@ -55,13 +61,15 @@
       "ru": "",
       "ar": "",
       "de": "",
-      "it": ""
+      "it": "",
+      "zh": ""
     },
     "data.trustBadges[@24BKq9].text": {
       "source": "",
       "en": "",
       "ar": "",
-      "ru": ""
+      "ru": "",
+      "zh": ""
     }
   }
 }

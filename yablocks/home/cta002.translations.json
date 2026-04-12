@@ -7,7 +7,8 @@
       "it": "Pronto a liberare il tuo potenziale di crescita?",
       "en": "Ready to unlock your growth potential?",
       "ar": "هل أنت مستعد لإطلاق إمكانات النمو لديك؟",
-      "ru": "Готовы раскрыть свой потенциал роста?"
+      "ru": "Готовы раскрыть свой потенциал роста?",
+      "zh": "准备好释放您的增长潜力了吗？"
     },
     "data.cta.text": {
       "source": "Prendre RDV",
@@ -15,31 +16,36 @@
       "it": "Prenota un appuntamento",
       "en": "Book a Meeting",
       "ar": "حجز موعد",
-      "ru": "Записаться на встречу"
+      "ru": "Записаться на встречу",
+      "zh": "预约会议"
     },
     "data.benefits[@3rlmAi].text": {
       "source": "Approche ROIste",
       "en": "ROI-driven approach",
       "ar": "نهج يركز على العائد على الاستثمار (ROI)",
-      "ru": "ROI-ориентированный подход"
+      "ru": "ROI-ориентированный подход",
+      "zh": "注重投资回报率 (ROI) 的方法"
     },
     "data.benefits[@g179EW].text": {
       "source": "+200 clients industriels accompagnés",
       "en": "+200 industrial clients supported",
       "ar": "دعم أكثر من 200 عميل صناعي",
-      "ru": "Более 200 промышленных клиентов"
+      "ru": "Более 200 промышленных клиентов",
+      "zh": "已助力 200 多家工业客户"
     },
     "data.benefits[@IRskBv].text": {
       "source": "HubSpot Diamond Partner",
       "en": "HubSpot Diamond Partner",
       "ar": "شريك HubSpot الماسي",
-      "ru": "HubSpot Diamond Partner"
+      "ru": "HubSpot Diamond Partner",
+      "zh": "HubSpot 钻石合作伙伴"
     },
     "data.benefits[@qx0uRr].text": {
       "source": "hello World",
       "ar": "hello World",
       "en": "hello World",
-      "ru": "hello World"
+      "ru": "hello World",
+      "zh": "hello World"
     }
   }
 }
