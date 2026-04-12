@@ -24,28 +24,32 @@
       "en": "ROI-driven approach",
       "ar": "نهج يركز على العائد على الاستثمار (ROI)",
       "ru": "ROI-ориентированный подход",
-      "zh": "注重投资回报率 (ROI) 的方法"
+      "zh": "注重投资回报率 (ROI) 的方法",
+      "de": "ROI-orientierter Ansatz"
     },
     "data.benefits[@g179EW].text": {
       "source": "+200 clients industriels accompagnés",
       "en": "+200 industrial clients supported",
       "ar": "دعم أكثر من 200 عميل صناعي",
       "ru": "Более 200 промышленных клиентов",
-      "zh": "已助力 200 多家工业客户"
+      "zh": "已助力 200 多家工业客户",
+      "de": "+200 unterstützte Industriekunden"
     },
     "data.benefits[@IRskBv].text": {
       "source": "HubSpot Diamond Partner",
       "en": "HubSpot Diamond Partner",
       "ar": "شريك HubSpot الماسي",
       "ru": "HubSpot Diamond Partner",
-      "zh": "HubSpot 钻石合作伙伴"
+      "zh": "HubSpot 钻石合作伙伴",
+      "de": "HubSpot Diamond Partner"
     },
     "data.benefits[@qx0uRr].text": {
       "source": "hello World",
       "ar": "hello World",
       "en": "hello World",
       "ru": "hello World",
-      "zh": "hello World"
+      "zh": "hello World",
+      "de": "hello World"
     }
   }
 }
