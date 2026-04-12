@@ -29,7 +29,7 @@ export default defineConfig({
     fallback: 'default',
     translation: {
       adapter: 'gemini',
-      model: 'gemma-3-12b-it',
+      model: 'gemma-3-27b-it',
     },
   },
 });
