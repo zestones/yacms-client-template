@@ -3,47 +3,58 @@
   "fields": {
     "data.overtitle": {
       "source": "POURQUOI AUTEM",
-      "en": "WHY AUTEM"
+      "en": "WHY AUTEM",
+      "de": "WARUM AUTEM"
     },
     "data.title": {
       "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
-      "en": "Independent, multi-brand, field-proven expert — not a generalist consultancy."
+      "en": "Independent, multi-brand, field-proven expert — not a generalist consultancy.",
+      "de": "Unabhängiger, herstellerübergreifender Praxisexperte – kein allgemeines Planungsbüro."
     },
     "data.conclusion": {
       "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
-      "en": "We have no interest in steering you toward one supplier over another. Our only metric is your operational autonomy over the next 5 to 10 years."
+      "en": "We have no interest in steering you toward one supplier over another. Our only metric is your operational autonomy over the next 5 to 10 years.",
+      "de": "Wir haben kein Interesse daran, Sie zu einem bestimmten Lieferanten zu steuern. Unsere einzige Kennzahl ist Ihre operative Autonomie in 5 und 10 Jahren."
     },
     "data.image.alt": {
       "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
-      "en": "AUTEM Expert — industrial control system architecture"
+      "en": "AUTEM Expert — industrial control system architecture",
+      "de": "AUTEM-Experte – Architektur industrieller Steuerungs- und Leitsysteme"
     },
     "data.paragraphs[@mFiBX2].text": {
       "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",
-      "en": "Poor industrial architectures are often designed by stakeholders who no longer set foot on the ground. AUTEM has commissioned systems for Hermès, Amazon, Thalys, and ArcelorMittal. Our specifications are built on the experience of what actually works—not on theoretical preferences."
+      "en": "Poor industrial architectures are often designed by stakeholders who no longer set foot on the ground. AUTEM has commissioned systems for Hermès, Amazon, Thalys, and ArcelorMittal. Our specifications are built on the experience of what actually works—not on theoretical preferences.",
+      "de": "Schlechte Industriearchitekturen werden oft von Akteuren konzipiert, die kaum noch den Fuß auf die Produktionsfläche setzen. AUTEM hat Systeme bei Hermès, Amazon, Thalys und ArcelorMittal in Betrieb genommen. Unsere Spezifikationen basieren auf der Erfahrung dessen, was in der Praxis funktioniert – nicht auf theoretischen Präferenzen."
     },
     "data.highlights[@b7U3Ue].text": {
       "source": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations",
-      "en": "Vendor-independent (Siemens, Rockwell, Schneider, Beckhoff)—no conflict of interest in recommendations"
+      "en": "Vendor-independent (Siemens, Rockwell, Schneider, Beckhoff)—no conflict of interest in recommendations",
+      "de": "Unabhängig von jedem Hersteller (Siemens, Rockwell, Schneider, Beckhoff) – keine Interessenkonflikte bei den Empfehlungen"
     },
     "data.highlights[@udGjhQ].text": {
       "source": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système",
-      "en": "Dual OT+IT expertise: PLCs, industrial networks, supervision, cybersecurity, and system integration"
+      "en": "Dual OT+IT expertise: PLCs, industrial networks, supervision, cybersecurity, and system integration",
+      "de": "Doppelkompetenz OT+IT: SPS, industrielle Netzwerke, Leitsysteme, Cybersicherheit und Systemintegration"
     },
     "data.highlights[@y8RnWP].text": {
       "source": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales",
-      "en": "Multi-sector field experience: luxury, logistics, mobility, chemicals, metallurgy, special machinery"
+      "en": "Multi-sector field experience: luxury, logistics, mobility, chemicals, metallurgy, special machinery",
+      "de": "Praxiserfahrung in verschiedenen Sektoren: Luxusgüter, Logistik, Mobilität, Chemie, Metallurgie, Sondermaschinenbau"
     },
     "data.highlights[@JEGEJJ].text": {
       "source": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511",
-      "en": "Mastery of industrial standards: ISA-88, ISA-95, IEC 62443 (OT cybersecurity), IEC 61511"
+      "en": "Mastery of industrial standards: ISA-88, ISA-95, IEC 62443 (OT cybersecurity), IEC 61511",
+      "de": "Beherrschung industrieller Normen: ISA-88, ISA-95, IEC 62443 (OT-Cybersicherheit), IEC 61511"
     },
     "data.highlights[@9ffFlM].text": {
       "source": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres",
-      "en": "Directly usable deliverables: specifications, architecture diagrams, tender-ready technical specifications"
+      "en": "Directly usable deliverables: specifications, architecture diagrams, tender-ready technical specifications",
+      "de": "Direkt nutzbare Ergebnisse: Spezifikationen, Architekturdiagramme, Lastenhefte bereit für die Ausschreibung"
     },
     "data.highlights[@aPhM5n].text": {
       "source": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final",
-      "en": "Support available through to validation: review of supplier bids, assistance in final selection"
+      "en": "Support available through to validation: review of supplier bids, assistance in final selection",
+      "de": "Begleitung bis zur Validierung: Prüfung von Lieferantenangeboten, Unterstützung bei der finalen Auswahl"
     }
   }
 }

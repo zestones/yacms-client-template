@@ -3,47 +3,58 @@
   "fields": {
     "data.overtitle": {
       "source": "ARCHITECTURE DE SYSTÈMES",
-      "en": "SYSTEMS ARCHITECTURE"
+      "en": "SYSTEMS ARCHITECTURE",
+      "de": "SYSTEMARCHITEKTUR"
     },
     "data.title": {
       "source": "Du cahier des charges à la spécification d'architecture : périmètre et livrables",
-      "en": "From requirements to architecture specification: scope and deliverables"
+      "en": "From requirements to architecture specification: scope and deliverables",
+      "de": "Vom Lastenheft zur Architekturspezifikation: Umfang und Ergebnisse"
     },
     "data.conclusion": {
       "source": "Résultat : un document de référence qui engage les bons choix dès le départ, permet d'objectiver les comparaisons entre solutions et protège vos équipes contre la dépendance fournisseur.",
-      "en": "Result: a reference document that ensures the right choices are made from the start, enables objective comparisons between solutions, and protects your teams from vendor lock-in."
+      "en": "Result: a reference document that ensures the right choices are made from the start, enables objective comparisons between solutions, and protects your teams from vendor lock-in.",
+      "de": "Ergebnis: Ein Referenzdokument, das von Beginn an die richtigen Entscheidungen sicherstellt, objektive Vergleiche zwischen Lösungen ermöglicht und Ihre Teams vor der Abhängigkeit von einzelnen Lieferanten schützt."
     },
     "data.image.alt": {
       "source": "Architecture systèmes de contrôle-commande — spécification technique AUTEM",
-      "en": "Control-command systems architecture — AUTEM technical specification"
+      "en": "Control-command systems architecture — AUTEM technical specification",
+      "de": "Architektur von Steuerungs- und Leitsystemen – technische Spezifikation von AUTEM"
     },
     "data.paragraphs[@Nqw0xc].text": {
       "source": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée.",
-      "en": "Defining the architecture of an industrial control system means making a series of structural choices: which PLCs, which supervision system, which industrial network, which communication protocols, and how to integrate with IT systems (ERP, MES). AUTEM formalizes these choices in a complete and documented architecture specification."
+      "en": "Defining the architecture of an industrial control system means making a series of structural choices: which PLCs, which supervision system, which industrial network, which communication protocols, and how to integrate with IT systems (ERP, MES). AUTEM formalizes these choices in a complete and documented architecture specification.",
+      "de": "Die Definition der Architektur eines industriellen Steuerungs- und Leitsystems bedeutet, eine Reihe von strukturellen Entscheidungen zu treffen: welche SPS, welche Visualisierung, welches Industrienetzwerk, welche Kommunikationsprotokolle, welche Integration in IT-Systeme (ERP, MES). AUTEM formalisiert diese Entscheidungen in einer vollständigen und dokumentierten Architekturspezifikation."
     },
     "data.highlights[@CNqQA5].text": {
       "source": "Analyse fonctionnelle et organique : décomposition des fonctions, identification des interfaces, inventaire des entrées-sorties",
-      "en": "Functional and organic analysis: decomposition of functions, identification of interfaces, inventory of inputs-outputs"
+      "en": "Functional and organic analysis: decomposition of functions, identification of interfaces, inventory of inputs-outputs",
+      "de": "Funktionale und organische Analyse: Funktionszerlegung, Identifizierung von Schnittstellen, Inventar der Ein- und Ausgänge"
     },
     "data.highlights[@Q0uYL2].text": {
       "source": "Spécification matérielle multimarque : automates, IHM, serveurs SCADA, équipements réseau — sans lien commercial avec aucun fabricant",
-      "en": "Multi-brand hardware specification: PLCs, HMIs, SCADA servers, network equipment — with no commercial ties to any manufacturer"
+      "en": "Multi-brand hardware specification: PLCs, HMIs, SCADA servers, network equipment — with no commercial ties to any manufacturer",
+      "de": "Markenunabhängige Hardwarespezifikation: SPS, HMI, SCADA-Server, Netzwerkkomponenten – ohne kommerzielle Bindung an einen Hersteller"
     },
     "data.highlights[@vfQQev].text": {
       "source": "Cartographie réseau OT : Profinet, Ethernet/IP, OPC-UA, segmentation VLAN, séparation DMZ",
-      "en": "OT network mapping: Profinet, Ethernet/IP, OPC-UA, VLAN segmentation, DMZ separation"
+      "en": "OT network mapping: Profinet, Ethernet/IP, OPC-UA, VLAN segmentation, DMZ separation",
+      "de": "OT-Netzwerkmapping: Profinet, Ethernet/IP, OPC-UA, VLAN-Segmentierung, DMZ-Trennung"
     },
     "data.highlights[@8x6WbJ].text": {
       "source": "Intégration OT/IT : définition des flux de données entre automates, SCADA, MES et ERP",
-      "en": "OT/IT integration: definition of data flows between PLCs, SCADA, MES, and ERP"
+      "en": "OT/IT integration: definition of data flows between PLCs, SCADA, MES, and ERP",
+      "de": "OT/IT-Integration: Definition der Datenflüsse zwischen SPS, SCADA, MES und ERP"
     },
     "data.highlights[@YFajBi].text": {
       "source": "Plan de redondance et de continuité : niveaux de redondance, stratégie de sauvegarde et reprise",
-      "en": "Redundancy and continuity plan: redundancy levels, backup and recovery strategy"
+      "en": "Redundancy and continuity plan: redundancy levels, backup and recovery strategy",
+      "de": "Redundanz- und Kontinuitätsplan: Redundanzebenen, Backup- und Recovery-Strategie"
     },
     "data.highlights[@gSP24S].text": {
       "source": "Cahier des charges technique livrable : document de spécification utilisable directement pour un appel d'offres ou une consultation fournisseur",
-      "en": "Deliverable technical specifications: a specification document that can be used directly for a call for tenders or supplier consultation"
+      "en": "Deliverable technical specifications: a specification document that can be used directly for a call for tenders or supplier consultation",
+      "de": "Auslieferbares technisches Lastenheft: Spezifikationsdokument, das direkt für eine Ausschreibung oder eine Lieferantenanfrage verwendet werden kann"
     }
   }
 }

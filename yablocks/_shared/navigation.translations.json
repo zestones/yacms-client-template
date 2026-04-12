@@ -4,91 +4,112 @@
     "data.logo.text": {
       "source": "YourBrand",
       "it": "YourBrand",
-      "en": "YourBrand"
+      "en": "YourBrand",
+      "de": "YourBrand"
     },
     "data.logo.href": {
       "source": "/",
       "it": "/",
-      "en": "/"
+      "en": "/",
+      "de": "/"
     },
     "data.logo.image": {
       "source": "/logos/logo.png",
       "it": "/logos/logo.png",
-      "en": "/logos/logo.png"
+      "en": "/logos/logo.png",
+      "de": "/logos/logo.png"
     },
     "data.cta.text": {
       "source": "Get Started",
       "it": "Inizia ora",
-      "en": "Get Started"
+      "en": "Get Started",
+      "de": "Jetzt loslegen"
     },
     "data.cta.href": {
       "source": "#contact",
       "it": "#contact",
-      "en": "#contact"
+      "en": "#contact",
+      "de": "#contact"
     },
     "data.links[@2jEoj7].label": {
       "source": "Home",
-      "en": "Home"
+      "en": "Home",
+      "de": "Startseite"
     },
     "data.links[@YTDCLe].label": {
       "source": "Services",
-      "en": "Services"
+      "en": "Services",
+      "de": "Leistungen"
     },
     "data.links[@ORjBjf].label": {
       "source": "About",
-      "en": "About"
+      "en": "About",
+      "de": "Über uns"
     },
     "data.links[@ht4GrW].label": {
       "source": "Portfolio",
-      "en": "Portfolio"
+      "en": "Portfolio",
+      "de": "Portfolio"
     },
     "data.links[@cf8tIX].label": {
       "source": "Contact",
-      "en": "Contact"
+      "en": "Contact",
+      "de": "Kontakt"
     },
     "data.links[@2jEoj7].href": {
       "source": "/",
-      "en": "/"
+      "en": "/",
+      "de": "/"
     },
     "data.links[@YTDCLe].href": {
       "source": "#services",
-      "en": "#services"
+      "en": "#services",
+      "de": "#services"
     },
     "data.links[@ORjBjf].href": {
       "source": "/about",
-      "en": "/about"
+      "en": "/about",
+      "de": "/about"
     },
     "data.links[@ht4GrW].href": {
       "source": "/portfolio",
-      "en": "/portfolio"
+      "en": "/portfolio",
+      "de": "/portfolio"
     },
     "data.links[@cf8tIX].href": {
       "source": "#contact",
-      "en": "#contact"
+      "en": "#contact",
+      "de": "#contact"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].label": {
       "source": "Service One",
-      "en": "Service One"
+      "en": "Service One",
+      "de": "Leistung Eins"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].label": {
       "source": "Service Two",
-      "en": "Service Two"
+      "en": "Service Two",
+      "de": "Leistung Zwei"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].label": {
       "source": "Service Three",
-      "en": "Service Three"
+      "en": "Service Three",
+      "de": "Leistung Drei"
     },
     "data.links[@YTDCLe].dropdown[@PvmXXc].href": {
       "source": "/service/service-one",
-      "en": "/service/service-one"
+      "en": "/service/service-one",
+      "de": "/service/service-one"
     },
     "data.links[@YTDCLe].dropdown[@L4hFql].href": {
       "source": "/service/service-two",
-      "en": "/service/service-two"
+      "en": "/service/service-two",
+      "de": "/service/service-two"
     },
     "data.links[@YTDCLe].dropdown[@gBY3WC].href": {
       "source": "/service/service-three",
-      "en": "/service/service-three"
+      "en": "/service/service-three",
+      "de": "/service/service-three"
     }
   }
 }
