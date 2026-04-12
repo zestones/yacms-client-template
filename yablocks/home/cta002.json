@@ -8,15 +8,22 @@
     "benefits": [
       {
         "icon": "bar-chart",
-        "text": "Approche ROIste"
+        "text": "Approche ROIste",
+        "_tid": "3rlmAi"
       },
       {
         "icon": "users",
-        "text": "+200 clients industriels accompagnés"
+        "text": "+200 clients industriels accompagnés",
+        "_tid": "g179EW"
       },
       {
         "icon": "shield",
-        "text": "HubSpot Diamond Partner"
+        "text": "HubSpot Diamond Partner",
+        "_tid": "IRskBv"
+      },
+      {
+        "icon": "alarm-clock-minus",
+        "text": "je suis fatigué"
       }
     ],
     "cta": {
