@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Nous migrons tous les logiciels de supervision industriels",
+      "it": "Migriamo tutti i software di supervisione industriale"
+    },
+    "data.subtitle": {
+      "source": "De la plateforme obsolète jusqu'à Ignition — sans perdre votre projet",
+      "it": "Dalla piattaforma obsoleta a Ignition — senza perdere il vostro progetto"
+    },
+    "data.logos[@ccWoNO].alt": {
+      "source": "Siemens WinCC & SIMATIC IPC",
+      "it": "Siemens WinCC & SIMATIC IPC"
+    },
+    "data.logos[@4XS0Gi].alt": {
+      "source": "Ignition SCADA — Inductive Automation",
+      "it": "Ignition SCADA — Inductive Automation"
+    },
+    "data.logos[@S3LWuH].alt": {
+      "source": "AVEVA / Wonderware — InduSoft, System Platform",
+      "it": "AVEVA / Wonderware — InduSoft, System Platform"
+    },
+    "data.logos[@N0MzYT].alt": {
+      "source": "Rockwell — FactoryTalk View",
+      "it": "Rockwell — FactoryTalk View"
+    }
+  }
+}

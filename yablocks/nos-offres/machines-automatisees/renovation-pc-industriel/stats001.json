@@ -1,30 +1,34 @@
 {
-    "meta": {
-        "component": "blocks/social-proof/stats/Stats001",
-        "section": "offre/machines-automatisees/renovation-pc-industriel/stats001"
-    },
-    "data": {
-        "stats": [
-            {
-                "value": "10",
-                "label": "Années d'expérience en migration de systèmes industriels",
-                "suffix": "+"
-            },
-            {
-                "value": "6",
-                "label": "Plateformes logicielles de supervision maîtrisées",
-                "suffix": "+"
-            },
-            {
-                "value": "100",
-                "label": "Des projets IHM/SCADA migrés sans perte de données",
-                "suffix": "%"
-            },
-            {
-                "value": "15",
-                "label": "Ans de durée de vie supplémentaire après migration",
-                "suffix": "+"
-            }
-        ]
-    }
+  "meta": {
+    "component": "blocks/social-proof/stats/Stats001",
+    "section": "offre/machines-automatisees/renovation-pc-industriel/stats001"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "10",
+        "label": "Années d'expérience en migration de systèmes industriels",
+        "suffix": "+",
+        "_tid": "3xecc5"
+      },
+      {
+        "value": "6",
+        "label": "Plateformes logicielles de supervision maîtrisées",
+        "suffix": "+",
+        "_tid": "7dSeXi"
+      },
+      {
+        "value": "100",
+        "label": "Des projets IHM/SCADA migrés sans perte de données",
+        "suffix": "%",
+        "_tid": "RzoM6h"
+      },
+      {
+        "value": "15",
+        "label": "Ans de durée de vie supplémentaire après migration",
+        "suffix": "+",
+        "_tid": "QHniSQ"
+      }
+    ]
+  }
 }

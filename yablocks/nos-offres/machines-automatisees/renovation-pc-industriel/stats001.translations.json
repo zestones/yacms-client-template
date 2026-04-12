@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@3xecc5].value": {
+      "source": "10",
+      "it": "10"
+    },
+    "data.stats[@7dSeXi].value": {
+      "source": "6",
+      "it": "6"
+    },
+    "data.stats[@RzoM6h].value": {
+      "source": "100",
+      "it": "100"
+    },
+    "data.stats[@QHniSQ].value": {
+      "source": "15",
+      "it": "15"
+    },
+    "data.stats[@3xecc5].label": {
+      "source": "Années d'expérience en migration de systèmes industriels",
+      "it": "Anni di esperienza nella migrazione di sistemi industriali"
+    },
+    "data.stats[@7dSeXi].label": {
+      "source": "Plateformes logicielles de supervision maîtrisées",
+      "it": "Piattaforme software di supervisione padroneggiate"
+    },
+    "data.stats[@RzoM6h].label": {
+      "source": "Des projets IHM/SCADA migrés sans perte de données",
+      "it": "Progetti HMI/SCADA migrati senza perdita di dati"
+    },
+    "data.stats[@QHniSQ].label": {
+      "source": "Ans de durée de vie supplémentaire après migration",
+      "it": "Anni di vita utile aggiuntiva dopo la migrazione"
+    },
+    "data.stats[@3xecc5].suffix": {
+      "source": "+",
+      "it": "+"
+    },
+    "data.stats[@7dSeXi].suffix": {
+      "source": "+",
+      "it": "+"
+    },
+    "data.stats[@RzoM6h].suffix": {
+      "source": "%",
+      "it": "%"
+    },
+    "data.stats[@QHniSQ].suffix": {
+      "source": "+",
+      "it": "+"
+    }
+  }
+}

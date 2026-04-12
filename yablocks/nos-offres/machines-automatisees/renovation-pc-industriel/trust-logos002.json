@@ -1,28 +1,32 @@
 {
-    "meta": {
-        "component": "blocks/social-proof/trust/TrustLogos002",
-        "section": "offre/machines-automatisees/renovation-pc-industriel/trust-logos002"
-    },
-    "data": {
-        "title": "Nous migrons tous les logiciels de supervision industriels",
-        "subtitle": "De la plateforme obsolète jusqu'à Ignition — sans perdre votre projet",
-        "logos": [
-            {
-                "src": "/logos/siemens.png",
-                "alt": "Siemens WinCC & SIMATIC IPC"
-            },
-            {
-                "src": "/logos/ignition.png",
-                "alt": "Ignition SCADA — Inductive Automation"
-            },
-            {
-                "src": "/logos/wonderware.png",
-                "alt": "AVEVA / Wonderware — InduSoft, System Platform"
-            },
-            {
-                "src": "/logos/rockwell.png",
-                "alt": "Rockwell — FactoryTalk View"
-            }
-        ]
-    }
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos002",
+    "section": "offre/machines-automatisees/renovation-pc-industriel/trust-logos002"
+  },
+  "data": {
+    "title": "Nous migrons tous les logiciels de supervision industriels",
+    "subtitle": "De la plateforme obsolète jusqu'à Ignition — sans perdre votre projet",
+    "logos": [
+      {
+        "src": "/logos/siemens.png",
+        "alt": "Siemens WinCC & SIMATIC IPC",
+        "_tid": "ccWoNO"
+      },
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Ignition SCADA — Inductive Automation",
+        "_tid": "4XS0Gi"
+      },
+      {
+        "src": "/logos/wonderware.png",
+        "alt": "AVEVA / Wonderware — InduSoft, System Platform",
+        "_tid": "S3LWuH"
+      },
+      {
+        "src": "/logos/rockwell.png",
+        "alt": "Rockwell — FactoryTalk View",
+        "_tid": "N0MzYT"
+      }
+    ]
+  }
 }

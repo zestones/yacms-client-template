@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badges[@ZaeRP3].alt": {
+      "source": "Siemens IPC & WinCC",
+      "it": "Siemens IPC & WinCC"
+    },
+    "data.badges[@2COQlM].alt": {
+      "source": "Siemens WinCC — supervision",
+      "it": "Siemens WinCC — supervision"
+    },
+    "data.badges[@CSioSS].alt": {
+      "source": "Ignition SCADA — Inductive Automation",
+      "it": "setName SCADA — Inductive Automation"
+    },
+    "data.headline": {
+      "source": "Un PC industriel hors support n'est pas un risque — c'est une bombe à retardement.",
+      "it": "Un PC industriale fuori supporto non è un rischio: è una bomba a orologeria."
+    },
+    "data.paragraphs[@Vir4HJ].text": {
+      "source": "Windows XP, Windows 7, Windows Embedded CE : des millions de PC industriels tournent encore sur des systèmes d'exploitation abandonnés par Microsoft. Aucun correctif de sécurité, aucun patch, aucune mise à jour. Et pourtant, ces machines continuent de piloter des lignes de production entières.",
+      "it": "Windows XP, Windows 7, Windows Embedded CE: milioni di PC industriali girano ancora su sistemi operativi abbandonati da Microsoft. Nessun fix di sicurezza, nessuna patch, nessun aggiornamento. Eppure, queste macchine continuano a gestire intere linee di produzione."
+    },
+    "data.paragraphs[@DzjOZs].text": {
+      "source": "Le vrai problème n'est pas l'OS : c'est le logiciel dessus. WinCC V6/V7, InduSoft, FactoryTalk View Machine Edition en version ancienne — des applications critiques dont les licences sont expirées, dont les fournisseurs ont parfois arrêté le support, et qui ne peuvent plus être réinstallées si le disque lâche.",
+      "it": "Il vero problema non è l'OS: è il software installato. WinCC V6/V7, InduSoft, FactoryTalk View Machine Edition in versioni datate — applicazioni critiche le cui licenze sono scadute, i cui fornitori a volte hanno interrotto il supporto e che non possono più essere reinstallate se il disco si guasta."
+    },
+    "data.paragraphs[@uF1oe2].text": {
+      "source": "Quand le disque dur lâche, quand la carte mère grille, quand la RAM se déprogramme — la ligne s'arrête. Il n'existe plus aucun PC compatible pour faire tourner le projet existant. On appelle ça une panne non planifiée. Dans les faits, c'est une crise.",
+      "it": "Quando l'hard disk si rompe, quando la scheda madre brucia, quando la RAM si guasta — la linea si ferma. Non esiste più alcun PC compatibile per far girare il progetto esistente. Questo viene chiamato guasto non pianificato. In realtà, è una crisi."
+    },
+    "data.paragraphs[@ldcPEJ].text": {
+      "source": "AUTEM intervient en amont pour migrer votre IPC vers du matériel récent et votre logiciel vers une version supportée ou une nouvelle plateforme — en conservant vos projets et en formant vos équipes.",
+      "it": "AUTEM interviene preventivamente per migrare il vostro IPC verso hardware recente e il vostro software verso una versione supportata o una nuova piattaforma — mantenendo i vostri progetti e formando i vostri team."
+    },
+    "data.closing": {
+      "source": "La question n'est pas si votre IPC va tomber — c'est quand, et si vous serez prêt.",
+      "it": "La questione non è se il vostro IPC si guasterà — è quando, e se sarete pronti."
+    }
+  }
+}
