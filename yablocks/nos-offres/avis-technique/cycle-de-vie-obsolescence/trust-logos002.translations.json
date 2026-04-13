@@ -21,23 +21,28 @@
     },
     "data.logos[@bKPfPh].alt": {
       "source": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC",
-      "de": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC"
+      "de": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC",
+      "ar": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC"
     },
     "data.logos[@nwx0Le].alt": {
       "source": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000",
-      "de": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000"
+      "de": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000",
+      "ar": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000"
     },
     "data.logos[@BOtRgb].alt": {
       "source": "Schneider Electric — TSX, Quantum, M340, EcoStruxure",
-      "de": "Schneider Electric — TSX, Quantum, M340, EcoStruxure"
+      "de": "Schneider Electric — TSX, Quantum, M340, EcoStruxure",
+      "ar": "Schneider Electric — TSX, Quantum, M340, EcoStruxure"
     },
     "data.logos[@4yotOv].alt": {
       "source": "Eaton — XSoft-CoDeSys, Easy Series",
-      "de": "Eaton — XSoft-CoDeSys, Easy Series"
+      "de": "Eaton — XSoft-CoDeSys, Easy Series",
+      "ar": "Eaton — XSoft-CoDeSys, Easy Series"
     },
     "data.logos[@uisPb7].alt": {
       "source": "AVEVA Wonderware — anciennes versions et migration",
-      "de": "AVEVA Wonderware — alte Versionen und Migration"
+      "de": "AVEVA Wonderware — alte Versionen und Migration",
+      "ar": "AVEVA Wonderware — الإصدارات القديمة والترحيل"
     }
   }
 }

@@ -21,51 +21,63 @@
     },
     "data.steps[@y4DovU].title": {
       "source": "Expression du besoin & cadrage",
-      "de": "Bedarfsanalyse & Rahmensetzung"
+      "de": "Bedarfsanalyse & Rahmensetzung",
+      "ar": "تحديد الاحتياجات والتأطير"
     },
     "data.steps[@hYDoDP].title": {
       "source": "Rédaction du cahier des charges",
-      "de": "Erstellung des Lastenhefts"
+      "de": "Erstellung des Lastenhefts",
+      "ar": "صياغة دفتر الشروط"
     },
     "data.steps[@JDDnT4].title": {
       "source": "Sélection de l'intégrateur",
-      "de": "Auswahl des Integrators"
+      "de": "Auswahl des Integrators",
+      "ar": "اختيار الشركة المنفذة"
     },
     "data.steps[@evZeAd].title": {
       "source": "Suivi de conception & revues",
-      "de": "Konzeptionsbegleitung & Reviews"
+      "de": "Konzeptionsbegleitung & Reviews",
+      "ar": "متابعة التصميم والمراجعات"
     },
     "data.steps[@kTIKbN].title": {
       "source": "FAT & SAT — tests d'acceptation",
-      "de": "FAT & SAT — Abnahmetests"
+      "de": "FAT & SAT — Abnahmetests",
+      "ar": "اختبارات القبول FAT و SAT"
     },
     "data.steps[@iRs8Ca].title": {
       "source": "Réception & documentation finale",
-      "de": "Abnahme & finale Dokumentation"
+      "de": "Abnahme & finale Dokumentation",
+      "ar": "الاستلام والتوثيق النهائي"
     },
     "data.steps[@y4DovU].description": {
       "source": "Interviews des équipes terrain, opérateurs, maintenance et direction pour capturer les enjeux réels — pas seulement les exigences formelles. Rédaction d'un document de cadrage partagé comme base du projet.",
-      "de": "Interviews mit Teams vor Ort, Bedienern, Instandhaltung und Geschäftsführung, um die realen Herausforderungen zu erfassen — nicht nur die formalen Anforderungen. Erstellung eines gemeinsamen Rahmendokuments als Projektbasis."
+      "de": "Interviews mit Teams vor Ort, Bedienern, Instandhaltung und Geschäftsführung, um die realen Herausforderungen zu erfassen — nicht nur die formalen Anforderungen. Erstellung eines gemeinsamen Rahmendokuments als Projektbasis.",
+      "ar": "إجراء مقابلات مع الفرق الميدانية والمشغلين وفرق الصيانة والإدارة لرصد التحديات الحقيقية، وليس فقط المتطلبات الرسمية. صياغة وثيقة تأطير مشتركة لتكون أساساً للمشروع."
     },
     "data.steps[@hYDoDP].description": {
       "source": "Formalisation des exigences fonctionnelles, techniques, de performance, de cybersécurité et de maintenabilité. Structure adaptée à un appel d'offres ou une consultation directe intégrateur.",
-      "de": "Formalisierung der funktionalen, technischen, Performance-, Cybersicherheits- und Wartbarkeitsanforderungen. Struktur, die für eine Ausschreibung oder eine direkte Anfrage an den Integrator geeignet ist."
+      "de": "Formalisierung der funktionalen, technischen, Performance-, Cybersicherheits- und Wartbarkeitsanforderungen. Struktur, die für eine Ausschreibung oder eine direkte Anfrage an den Integrator geeignet ist.",
+      "ar": "صياغة المتطلبات الوظيفية والتقنية ومتطلبات الأداء والأمن السيبراني وقابلية الصيانة. هيكلة تتناسب مع طلب عروض أو استشارة مباشرة للشركة المنفذة."
     },
     "data.steps[@JDDnT4].description": {
       "source": "Analyse comparative des offres reçues : évaluation technique, cohérence avec les specs, expérience du candidat, qualité documentaire proposée, risques projet. Synthèse et recommandation objective.",
-      "de": "Vergleichende Analyse der eingegangenen Angebote: technische Bewertung, Konsistenz mit den Spezifikationen, Erfahrung des Bewerbers, Qualität der vorgeschlagenen Dokumentation, Projektrisiken. Zusammenfassung und objektive Empfehlung."
+      "de": "Vergleichende Analyse der eingegangenen Angebote: technische Bewertung, Konsistenz mit den Spezifikationen, Erfahrung des Bewerbers, Qualität der vorgeschlagenen Dokumentation, Projektrisiken. Zusammenfassung und objektive Empfehlung.",
+      "ar": "تحليل مقارن للعروض المستلمة: التقييم التقني، ومدى التوافق مع المواصفات، وخبرة المتقدم، وجودة التوثيق المقترح، ومخاطر المشروع. تقديم ملخص وتوصية موضوعية."
     },
     "data.steps[@evZeAd].description": {
       "source": "Participation aux revues de conception, validation des plans électriques et des choix d'architecture, gestion des demandes de modification, traçabilité des décisions techniques tout au long du projet.",
-      "de": "Teilnahme an Konzeptionsreviews, Validierung von Elektroplänen und Architekturentscheidungen, Verwaltung von Änderungsanfragen, Rückverfolgbarkeit technischer Entscheidungen während des gesamten Projekts."
+      "de": "Teilnahme an Konzeptionsreviews, Validierung von Elektroplänen und Architekturentscheidungen, Verwaltung von Änderungsanfragen, Rückverfolgbarkeit technischer Entscheidungen während des gesamten Projekts.",
+      "ar": "المشاركة في مراجعات التصميم، والمصادقة على المخططات الكهربائية وخيارات البنية التحتية، وإدارة طلبات التعديل، وتتبع القرارات التقنية طوال فترة المشروع."
     },
     "data.steps[@kTIKbN].description": {
       "source": "Préparation des protocoles de tests (FAT en atelier intégrateur, SAT sur site client), conduite des recettes, gestion des réserves et validation formelle de la mise en service.",
-      "de": "Erstellung von Testprotokollen (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort), Durchführung der Abnahmen, Verwaltung von Mängellisten und formelle Validierung der Inbetriebnahme."
+      "de": "Erstellung von Testprotokollen (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort), Durchführung der Abnahmen, Verwaltung von Mängellisten und formelle Validierung der Inbetriebnahme.",
+      "ar": "إعداد بروتوكولات الاختبار (FAT في ورشة المنفذ، SAT في موقع العميل)، وإجراء عمليات الاستلام، وإدارة الملاحظات والمصادقة الرسمية على التشغيل."
     },
     "data.steps[@iRs8Ca].description": {
       "source": "Constitution du Dossier des Ouvrages Exécutés (DOE), vérification de la complétude documentaire (manuels, programmes commentés, schémas as-built), formation des équipes internes.",
-      "de": "Erstellung der Projektabschlussdokumentation (DOE), Überprüfung der Dokumentationsvollständigkeit (Handbücher, kommentierte Programme, As-Built-Pläne), Schulung der internen Teams."
+      "de": "Erstellung der Projektabschlussdokumentation (DOE), Überprüfung der Dokumentationsvollständigkeit (Handbücher, kommentierte Programme, As-Built-Pläne), Schulung der internen Teams.",
+      "ar": "إعداد ملف الأعمال المنفذة (DOE)، والتحقق من اكتمال التوثيق (الأدلة، البرامج المشروحة، المخططات النهائية as-built)، وتدريب الفرق الداخلية."
     }
   }
 }

@@ -3,51 +3,63 @@
   "fields": {
     "data.stats[@ZO1s27].value": {
       "source": "10",
-      "de": "10"
+      "de": "10",
+      "ar": "10"
     },
     "data.stats[@DN82Yd].value": {
       "source": "15",
-      "de": "15"
+      "de": "15",
+      "ar": "15"
     },
     "data.stats[@GnSI2Z].value": {
       "source": "6",
-      "de": "6"
+      "de": "6",
+      "ar": "6"
     },
     "data.stats[@ZClveO].value": {
       "source": "100",
-      "de": "100"
+      "de": "100",
+      "ar": "100"
     },
     "data.stats[@ZO1s27].label": {
       "source": "Années d'expérience en pilotage et assistance technique de projets industriels",
-      "de": "Jahre Erfahrung in der Leitung und technischen Unterstützung von Industrieprojekten"
+      "de": "Jahre Erfahrung in der Leitung und technischen Unterstützung von Industrieprojekten",
+      "ar": "سنوات من الخبرة في قيادة والدعم التقني للمشاريع الصناعية"
     },
     "data.stats[@DN82Yd].label": {
       "source": "Projets accompagnés en France et à l'international comme représentant technique client",
-      "de": "Begleitete Projekte in Frankreich und international als technischer Kundenvertreter"
+      "de": "Begleitete Projekte in Frankreich und international als technischer Kundenvertreter",
+      "ar": "مشروع تم مرافقتهم في فرنسا ودولياً كممثل تقني للعميل"
     },
     "data.stats[@GnSI2Z].label": {
       "source": "Secteurs couverts pour des missions d'AMOA : logistique, luxe, mobilité, chimie, agroalimentaire, métallurgie",
-      "de": "Abgedeckte Sektoren für AMOA-Aufträge: Logistik, Luxus, Mobilität, Chemie, Lebensmittelindustrie, Metallurgie"
+      "de": "Abgedeckte Sektoren für AMOA-Aufträge: Logistik, Luxus, Mobilität, Chemie, Lebensmittelindustrie, Metallurgie",
+      "ar": "قطاعات مغطاة في مهام AMOA: اللوجستيات، الفخامة، التنقل، الكيمياء، الصناعات الغذائية، المعادن"
     },
     "data.stats[@ZClveO].label": {
       "source": "Des projets livrés avec FAT et SAT documentés, dossier de fin d'affaire complet",
-      "de": "Projekte mit dokumentierten FAT und SAT sowie vollständiger Projektabschlussdokumentation übergeben"
+      "de": "Projekte mit dokumentierten FAT und SAT sowie vollständiger Projektabschlussdokumentation übergeben",
+      "ar": "مشاريع تم تسليمها مع توثيق FAT و SAT وملف ختامي كامل"
     },
     "data.stats[@ZO1s27].suffix": {
       "source": "+",
-      "de": "+"
+      "de": "+",
+      "ar": "++"
     },
     "data.stats[@DN82Yd].suffix": {
       "source": "+",
-      "de": "+"
+      "de": "+",
+      "ar": "++"
     },
     "data.stats[@GnSI2Z].suffix": {
       "source": "+",
-      "de": "+"
+      "de": "+",
+      "ar": "++"
     },
     "data.stats[@ZClveO].suffix": {
       "source": "%",
-      "de": "%"
+      "de": "%",
+      "ar": "%"
     }
   }
 }

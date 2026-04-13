@@ -39,31 +39,38 @@
     },
     "data.paragraphs[@fwgGmi].text": {
       "source": "L'assistance à maîtrise d'ouvrage (AMOA) technique en automatisme couvre tout le cycle d'un projet industriel du côté du client : de la définition des besoins jusqu'à la réception du système. AUTEM joue le rôle de traducteur entre vos enjeux opérationnels et les exigences techniques des intégrateurs.",
-      "de": "Die technische Projektbegleitung (AMOA) in der Automatisierung deckt den gesamten Zyklus eines Industrieprojekts auf Kundenseite ab: von der Bedarfsdefinition bis zur Systemabnahme. AUTEM fungiert als Übersetzer zwischen Ihren betrieblichen Herausforderungen und den technischen Anforderungen der Integratoren."
+      "de": "Die technische Projektbegleitung (AMOA) in der Automatisierung deckt den gesamten Zyklus eines Industrieprojekts auf Kundenseite ab: von der Bedarfsdefinition bis zur Systemabnahme. AUTEM fungiert als Übersetzer zwischen Ihren betrieblichen Herausforderungen und den technischen Anforderungen der Integratoren.",
+      "ar": "تغطي المساعدة التقنية لصاحب المشروع (AMOA) في مجال الأتمتة الدورة الكاملة للمشروع الصناعي من جانب العميل: بدءاً من تحديد الاحتياجات وصولاً إلى استلام النظام. تلعب AUTEM دور المترجم بين تحدياتكم التشغيلية والمتطلبات التقنية للمتكاملين."
     },
     "data.highlights[@ygrekM].text": {
       "source": "Rédaction du cahier des charges technique et fonctionnel pour appels d'offres",
-      "de": "Erstellung des technischen und funktionalen Lastenhefts für Ausschreibungen"
+      "de": "Erstellung des technischen und funktionalen Lastenhefts für Ausschreibungen",
+      "ar": "صياغة دفتر الشروط التقني والوظيفي لطلبات العروض"
     },
     "data.highlights[@dTaD74].text": {
       "source": "Analyse comparative des offres intégrateurs et recommandations objectives",
-      "de": "Vergleichende Analyse der Integratoren-Angebote und objektive Empfehlungen"
+      "de": "Vergleichende Analyse der Integratoren-Angebote und objektive Empfehlungen",
+      "ar": "التحليل المقارن لعروض المتكاملين وتقديم توصيات موضوعية"
     },
     "data.highlights[@jAjT9a].text": {
       "source": "Suivi de conception : revues techniques, validation des plans, commentaires documentaires",
-      "de": "Konzeptionsbegleitung: technische Reviews, Validierung von Plänen, Dokumentationskommentare"
+      "de": "Konzeptionsbegleitung: technische Reviews, Validierung von Plänen, Dokumentationskommentare",
+      "ar": "متابعة التصميم: المراجعات التقنية، المصادقة على المخططات، والملاحظات التوثيقية"
     },
     "data.highlights[@qdS5xB].text": {
       "source": "Préparation et conduite des tests d'acceptation (FAT en atelier intégrateur, SAT sur site client)",
-      "de": "Vorbereitung und Durchführung von Abnahmetests (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort)"
+      "de": "Vorbereitung und Durchführung von Abnahmetests (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort)",
+      "ar": "إعداد وإجراء اختبارات القبول (FAT في ورشة المتكامل، SAT في موقع العميل)"
     },
     "data.highlights[@Is3UMW].text": {
       "source": "Réception technique et constitution du dossier de fin d'affaire (DOE, manuels, programmes)",
-      "de": "Technische Abnahme und Erstellung der Projektabschlussdokumentation (DOE, Handbücher, Programme)"
+      "de": "Technische Abnahme und Erstellung der Projektabschlussdokumentation (DOE, Handbücher, Programme)",
+      "ar": "الاستلام التقني وإعداد ملف نهاية المشروع (DOE، الأدلة، البرامج)"
     },
     "data.highlights[@bebf1L].text": {
       "source": "Coordination entre les expertises : automaticien, électricien, informatique industrielle, process",
-      "de": "Koordination zwischen den Fachbereichen: Automatisierung, Elektrik, industrielle Informatik, Prozess"
+      "de": "Koordination zwischen den Fachbereichen: Automatisierung, Elektrik, industrielle Informatik, Prozess",
+      "ar": "التنسيق بين الخبرات المختلفة: مهندس الأتمتة، الكهربائي، المعلوماتية الصناعية، والعمليات"
     }
   }
 }

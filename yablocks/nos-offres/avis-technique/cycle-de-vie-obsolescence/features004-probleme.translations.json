@@ -21,31 +21,38 @@
     },
     "data.badges[@OXDdAR].alt": {
       "source": "Siemens — S7-300, S7-400, fin de support 2023",
-      "de": "Siemens — S7-300, S7-400, Supportende 2023"
+      "de": "Siemens — S7-300, S7-400, Supportende 2023",
+      "ar": "سيمنز — S7-300، S7-400، نهاية الدعم 2023"
     },
     "data.badges[@yzulw3].alt": {
       "source": "Rockwell Allen-Bradley — PLC5, SLC500, fin de vie",
-      "de": "Rockwell Allen-Bradley — PLC5, SLC500, End-of-Life"
+      "de": "Rockwell Allen-Bradley — PLC5, SLC500, End-of-Life",
+      "ar": "روكويل ألن برادلي — PLC5، SLC500، نهاية العمر الافتراضي"
     },
     "data.badges[@amhgjh].alt": {
       "source": "Schneider Electric — TSX, Quantum, Modicon fin de support",
-      "de": "Schneider Electric — TSX, Quantum, Modicon Supportende"
+      "de": "Schneider Electric — TSX, Quantum, Modicon Supportende",
+      "ar": "شنايدر إلكتريك — TSX، Quantum، Modicon نهاية الدعم"
     },
     "data.paragraphs[@SFSSdw].text": {
       "source": "Un automate S7-300 en fin de support depuis 2023, une carte électronique introuvable chez tous les distributeurs, un PC industriel sous Windows XP sans solution de remplacement identifiée — les signaux d'alerte sont là. La vraie question n'est pas si la panne arrivera, mais quand. Et si votre équipe aura le matériel et le plan pour y répondre en quelques heures plutôt qu'en quelques semaines.",
-      "de": "Eine S7-300 SPS, deren Support seit 2023 eingestellt wurde, eine elektronische Baugruppe, die bei keinem Händler mehr zu finden ist, ein Industrie-PC unter Windows XP ohne identifizierte Ersatzlösung — die Warnsignale sind deutlich. Die eigentliche Frage ist nicht, ob der Ausfall passieren wird, sondern wann. Und ob Ihr Team über die Hardware und den Plan verfügt, um innerhalb weniger Stunden statt mehrerer Wochen darauf zu reagieren."
+      "de": "Eine S7-300 SPS, deren Support seit 2023 eingestellt wurde, eine elektronische Baugruppe, die bei keinem Händler mehr zu finden ist, ein Industrie-PC unter Windows XP ohne identifizierte Ersatzlösung — die Warnsignale sind deutlich. Die eigentliche Frage ist nicht, ob der Ausfall passieren wird, sondern wann. Und ob Ihr Team über die Hardware und den Plan verfügt, um innerhalb weniger Stunden statt mehrerer Wochen darauf zu reagieren.",
+      "ar": "جهاز تحكم منطقي مبرمج S7-300 انتهى دعمه منذ عام 2023، لوحة إلكترونية غير متوفرة لدى جميع الموزعين، كمبيوتر صناعي يعمل بنظام Windows XP دون وجود حل بديل محدد — كل هذه إشارات تحذيرية. السؤال الحقيقي ليس ما إذا كان العطل سيحدث، بل متى سيحدث. وهل سيكون لدى فريقك المعدات والخطة اللازمة للاستجابة في غضون ساعات بدلاً من أسابيع."
     },
     "data.paragraphs[@rsddH4].text": {
       "source": "La gestion de l'obsolescence est souvent différée. L'atelier tourne, les budgets sont sous pression, et changer un équipement qui fonctionne semble injustifiable. Jusqu'au jour où le fournisseur annonce 8 semaines de délai sur une carte de rechange, ou pire — l'arrêt définitif de la pièce. À ce moment, toute urgence a un coût : arrêt de ligne, stock de sécurité épuisé, production dégradée.",
-      "de": "Das Obsoleszenzmanagement wird oft aufgeschoben. Die Werkstatt läuft, die Budgets stehen unter Druck, und der Austausch einer funktionierenden Anlage scheint nicht zu rechtfertigen. Bis zu dem Tag, an dem der Lieferant eine Lieferzeit von 8 Wochen für eine Ersatzkarte ankündigt oder, schlimmer noch, die endgültige Einstellung des Teils. In diesem Moment hat jeder Notfall seinen Preis: Bandstillstand, erschöpfte Sicherheitsbestände, beeinträchtigte Produktion."
+      "de": "Das Obsoleszenzmanagement wird oft aufgeschoben. Die Werkstatt läuft, die Budgets stehen unter Druck, und der Austausch einer funktionierenden Anlage scheint nicht zu rechtfertigen. Bis zu dem Tag, an dem der Lieferant eine Lieferzeit von 8 Wochen für eine Ersatzkarte ankündigt oder, schlimmer noch, die endgültige Einstellung des Teils. In diesem Moment hat jeder Notfall seinen Preis: Bandstillstand, erschöpfte Sicherheitsbestände, beeinträchtigte Produktion.",
+      "ar": "غالبًا ما يتم تأجيل إدارة التقادم. فالمصنع يعمل، والميزانيات تحت الضغط، ويبدو تغيير معدات تعمل بالفعل أمرًا غير مبرر. حتى يأتي اليوم الذي يعلن فيه المورد عن مهلة 8 أسابيع للحصول على لوحة بديلة، أو الأسوأ من ذلك — التوقف النهائي لإنتاج القطعة. في تلك اللحظة، تصبح لكل حالة طوارئ تكلفة: توقف خط الإنتاج، نفاد مخزون الأمان، وتدهور الإنتاجية."
     },
     "data.paragraphs[@ejHOu0].text": {
       "source": "Une cartographie d'obsolescence structurée permet d'objectiver la situation : quels équipements sont en fin de support ? Quels fabricants ont annoncé des dates d'arrêt ? Quels composants n'ont plus de stock ? Quelle est la criticité de chaque équipement sur la continuité de production ? Avec ces données, les décisions d'investissement deviennent traçables et défendables en CODIR.",
-      "de": "Eine strukturierte Obsoleszenz-Kartierung ermöglicht es, die Situation objektiv zu bewerten: Welche Anlagen haben keinen Support mehr? Welche Hersteller haben Enddaten angekündigt? Welche Komponenten sind nicht mehr vorrätig? Wie kritisch ist jede Anlage für die Produktionskontinuität? Mit diesen Daten werden Investitionsentscheidungen nachvollziehbar und gegenüber der Geschäftsführung vertretbar."
+      "de": "Eine strukturierte Obsoleszenz-Kartierung ermöglicht es, die Situation objektiv zu bewerten: Welche Anlagen haben keinen Support mehr? Welche Hersteller haben Enddaten angekündigt? Welche Komponenten sind nicht mehr vorrätig? Wie kritisch ist jede Anlage für die Produktionskontinuität? Mit diesen Daten werden Investitionsentscheidungen nachvollziehbar und gegenüber der Geschäftsführung vertretbar.",
+      "ar": "تسمح عملية رسم خرائط التقادم المنظمة بموضوعية الموقف: ما هي المعدات التي انتهى دعمها؟ أي الشركات المصنعة أعلنت عن تواريخ التوقف؟ ما هي المكونات التي لم يعد لها مخزون؟ ما مدى أهمية كل معدة لاستمرارية الإنتاج؟ وبناءً على هذه البيانات، تصبح قرارات الاستثمار قابلة للتتبع ومبررة أمام لجنة الإدارة."
     },
     "data.paragraphs[@PPaOt8].text": {
       "source": "AUTEM réalise ces audits et établit les plans de renouvellement associés — en tenant compte de vos contraintes budgétaires, de votre calendrier de maintenance et des opportunités de modernisation que représente chaque remplacement.",
-      "de": "AUTEM führt diese Audits durch und erstellt die zugehörigen Erneuerungspläne — unter Berücksichtigung Ihrer Budgetbeschränkungen, Ihres Wartungskalenders und der Modernisierungsmöglichkeiten, die jeder Austausch bietet."
+      "de": "AUTEM führt diese Audits durch und erstellt die zugehörigen Erneuerungspläne — unter Berücksichtigung Ihrer Budgetbeschränkungen, Ihres Wartungskalenders und der Modernisierungsmöglichkeiten, die jeder Austausch bietet.",
+      "ar": "تقوم AUTEM بإجراء هذه التدقيقات ووضع خطط التجديد المرتبطة بها — مع مراعاة قيود ميزانيتكم، وجدول الصيانة الخاص بكم، وفرص التحديث التي يمثلها كل استبدال."
     }
   }
 }

@@ -39,31 +39,38 @@
     },
     "data.paragraphs[@m5hKtq].text": {
       "source": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps.",
-      "de": "Das Obsoleszenz-Audit besteht darin, den Zustand Ihres Industrieparks (SPS, IPC, Software, elektronische Baugruppen, Frequenzumrichter) im Hinblick auf den Lebenszyklus des Herstellers präzise zu erfassen — und daraus einen priorisierten, budgetierten und zeitlich gestaffelten Erneuerungsplan abzuleiten."
+      "de": "Das Obsoleszenz-Audit besteht darin, den Zustand Ihres Industrieparks (SPS, IPC, Software, elektronische Baugruppen, Frequenzumrichter) im Hinblick auf den Lebenszyklus des Herstellers präzise zu erfassen — und daraus einen priorisierten, budgetierten und zeitlich gestaffelten Erneuerungsplan abzuleiten.",
+      "ar": "يتمثل تدقيق التقادم في أخذ لقطة دقيقة لحالة مجموعة معداتكم الصناعية (أجهزة التحكم المنطقية المبرمجة، أجهزة الكمبيوتر الصناعية IPC، البرمجيات، اللوحات الإلكترونية، ومغيرات السرعة) فيما يتعلق بدورة حياة الناشر — ومن ثم استنتاج خطة تجديد ذات أولويات، وميزانية محددة، ومجدولة زمنياً."
     },
     "data.highlights[@vAcYBn].text": {
       "source": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur",
-      "de": "Vollständige Inventarisierung des Parks aus SPS, IPC, SCADA und Software: Versionen, Inbetriebnahmedaten, Supportstatus des Herstellers"
+      "de": "Vollständige Inventarisierung des Parks aus SPS, IPC, SCADA und Software: Versionen, Inbetriebnahmedaten, Supportstatus des Herstellers",
+      "ar": "جرد شامل لمجموعة أجهزة التحكم المنطقية المبرمجة، وأجهزة IPC، وأنظمة SCADA والبرمجيات: الإصدارات، تواريخ التشغيل، وحالة دعم الناشر"
     },
     "data.highlights[@ySbo4D].text": {
       "source": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance",
-      "de": "Kritikalitäts-Kartierung: Auswirkungen jeder Anlage auf die Produktionskontinuität im Falle eines Ausfalls"
+      "de": "Kritikalitäts-Kartierung: Auswirkungen jeder Anlage auf die Produktionskontinuität im Falle eines Ausfalls",
+      "ar": "رسم خرائط الأهمية: تأثير كل معدة على استمرارية الإنتاج في حالة حدوث عطل"
     },
     "data.highlights[@8SyZ1x].text": {
       "source": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible",
-      "de": "Identifizierung von Anlagen mit Supportende, End-of-Life oder ohne verfügbare Ersatzteile"
+      "de": "Identifizierung von Anlagen mit Supportende, End-of-Life oder ohne verfügbare Ersatzteile",
+      "ar": "تحديد المعدات التي انتهى دعمها، أو انتهى عمرها الافتراضي، أو التي لا تتوفر لها قطع غيار"
     },
     "data.highlights[@igAwTb].text": {
       "source": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées",
-      "de": "Mehrjähriger Erneuerungsplan: Priorisierung, geschätzte Kosten, empfohlene Interventionsfenster"
+      "de": "Mehrjähriger Erneuerungsplan: Priorisierung, geschätzte Kosten, empfohlene Interventionsfenster",
+      "ar": "خطة تجديد متعددة السنوات: تحديد الأولويات، التكلفة التقديرية، ونوافذ التدخل الموصى بها"
     },
     "data.highlights[@gzg9pF].text": {
       "source": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie",
-      "de": "Identifizierung von Modernisierungsmöglichkeiten: zu ersetzende Anlagen, die OPC-UA-Konnektivität, MES oder Telemetrie integrieren können"
+      "de": "Identifizierung von Modernisierungsmöglichkeiten: zu ersetzende Anlagen, die OPC-UA-Konnektivität, MES oder Telemetrie integrieren können",
+      "ar": "تحديد فرص التحديث: المعدات التي سيتم استبدالها والتي يمكن أن تدمج اتصال OPC-UA أو MES أو القياس عن بعد"
     },
     "data.highlights[@1nnpMZ].text": {
       "source": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance",
-      "de": "Auswertungsbericht: teilbares Dokument für die Geschäftsführung, das Konstruktionsbüro und die Wartungsleiter"
+      "de": "Auswertungsbericht: teilbares Dokument für die Geschäftsführung, das Konstruktionsbüro und die Wartungsleiter",
+      "ar": "تقرير تسليم: وثيقة قابلة للمشاركة مع الإدارة، ومكتب الدراسات، ومسؤولي الصيانة"
     }
   }
 }

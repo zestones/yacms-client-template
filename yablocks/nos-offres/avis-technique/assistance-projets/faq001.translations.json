@@ -21,43 +21,53 @@
     },
     "data.items[@Mi0Uyz].question": {
       "source": "Quelle différence entre un AMOA et un chef de projet intégrateur ?",
-      "de": "Was ist der Unterschied zwischen einem AMOA und einem Projektleiter des Integrators?"
+      "de": "Was ist der Unterschied zwischen einem AMOA und einem Projektleiter des Integrators?",
+      "ar": "ما الفرق بين مساعد إدارة المشروع (AMOA) ومدير مشروع التكامل؟"
     },
     "data.items[@5R6GD4].question": {
       "source": "À quelle phase du projet intervenez-vous ?",
-      "de": "In welcher Projektphase greifen Sie ein?"
+      "de": "In welcher Projektphase greifen Sie ein?",
+      "ar": "في أي مرحلة من المشروع تتدخلون؟"
     },
     "data.items[@NJ3kya].question": {
       "source": "Mon projet est déjà en cours avec un intégrateur — pouvez-vous quand même intervenir ?",
-      "de": "Mein Projekt läuft bereits mit einem Integrator – können Sie trotzdem unterstützen?"
+      "de": "Mein Projekt läuft bereits mit einem Integrator – können Sie trotzdem unterstützen?",
+      "ar": "مشروعي قيد التنفيذ بالفعل مع شركة تكامل — هل لا يزال بإمكانكم التدخل؟"
     },
     "data.items[@FXUCGY].question": {
       "source": "Combien coûte une prestation d'AMOA ?",
-      "de": "Wie viel kostet eine AMOA-Leistung?"
+      "de": "Wie viel kostet eine AMOA-Leistung?",
+      "ar": "كم تبلغ تكلفة خدمات مساعد إدارة المشروع (AMOA)؟"
     },
     "data.items[@15eBke].question": {
       "source": "Travaillez-vous sur des projets hors France ?",
-      "de": "Arbeiten Sie auch an Projekten außerhalb Frankreichs?"
+      "de": "Arbeiten Sie auch an Projekten außerhalb Frankreichs?",
+      "ar": "هل تعملون على مشاريع خارج فرنسا؟"
     },
     "data.items[@Mi0Uyz].answer": {
       "source": "Le chef de projet intégrateur représente l'entreprise qui réalise les travaux — son objectif est de livrer dans les délais et marges. L'AMOA (Assistance à Maîtrise d'Ouvrage) représente le client : son rôle est de s'assurer que ce qui est livré correspond bien aux besoins initiaux, dans les règles de l'art, avec la documentation requise. AUTEM joue ce second rôle — indépendant de tout prestataire.",
-      "de": "Der Projektleiter des Integrators vertritt das Unternehmen, das die Arbeiten ausführt – sein Ziel ist die Lieferung innerhalb der Fristen und Margen. Der AMOA (Assistance à Maîtrise d'Ouvrage / Projektunterstützung) vertritt den Kunden: Seine Rolle ist es, sicherzustellen, dass das gelieferte Produkt den ursprünglichen Anforderungen entspricht, nach den anerkannten Regeln der Technik erstellt wurde und die erforderliche Dokumentation vorliegt. AUTEM übernimmt diese zweite Rolle – unabhängig von jedem Dienstleister."
+      "de": "Der Projektleiter des Integrators vertritt das Unternehmen, das die Arbeiten ausführt – sein Ziel ist die Lieferung innerhalb der Fristen und Margen. Der AMOA (Assistance à Maîtrise d'Ouvrage / Projektunterstützung) vertritt den Kunden: Seine Rolle ist es, sicherzustellen, dass das gelieferte Produkt den ursprünglichen Anforderungen entspricht, nach den anerkannten Regeln der Technik erstellt wurde und die erforderliche Dokumentation vorliegt. AUTEM übernimmt diese zweite Rolle – unabhängig von jedem Dienstleister.",
+      "ar": "يمثل مدير مشروع التكامل الشركة التي تنفذ الأعمال — وهدفه هو التسليم في المواعيد المحددة وضمن هوامش الربح. أما مساعد إدارة المشروع (AMOA) فيمثل العميل: ودوره هو التأكد من أن ما يتم تسليمه يتوافق تماماً مع الاحتياجات الأولية، وفقاً لأصول المهنة، ومع التوثيق المطلوب. تلعب AUTEM هذا الدور الثاني — بشكل مستقل عن أي مزود خدمة."
     },
     "data.items[@5R6GD4].answer": {
       "source": "Idéalement dès l'expression du besoin, pour structurer les spécifications avant tout engagement avec un intégrateur. Mais nous pouvons aussi intervenir en cours de projet pour reprendre la gestion technique d'un projet qui s'emballe, ou en fin de projet pour préparer les tests de réception et garantir la qualité de la documentation finale.",
-      "de": "Idealerweise bereits bei der Bedarfsanalyse, um die Spezifikationen zu strukturieren, bevor eine Verpflichtung mit einem Integrator eingegangen wird. Wir können jedoch auch mitten im Projekt eingreifen, um die technische Leitung eines aus dem Ruder gelaufenen Projekts zu übernehmen, oder am Projektende, um die Abnahmetests vorzubereiten und die Qualität der finalen Dokumentation zu gewährleisten."
+      "de": "Idealerweise bereits bei der Bedarfsanalyse, um die Spezifikationen zu strukturieren, bevor eine Verpflichtung mit einem Integrator eingegangen wird. Wir können jedoch auch mitten im Projekt eingreifen, um die technische Leitung eines aus dem Ruder gelaufenen Projekts zu übernehmen, oder am Projektende, um die Abnahmetests vorzubereiten und die Qualität der finalen Dokumentation zu gewährleisten.",
+      "ar": "من الناحية المثالية، نبدأ منذ مرحلة تحديد الاحتياجات، لهيكلة المواصفات قبل أي التزام مع شركة تكامل. ولكن يمكننا أيضاً التدخل أثناء سير المشروع لاستعادة الإدارة الفنية لمشروع بدأ يخرج عن السيطرة، أو في نهاية المشروع لإعداد اختبارات الاستلام وضمان جودة التوثيق النهائي."
     },
     "data.items[@NJ3kya].answer": {
       "source": "Oui. C'est une situation fréquente. Nous pouvons faire un état des lieux technique du projet, identifier les écarts par rapport aux spécifications initiales, et proposer un plan d'action pour cadrer la suite — sans mettre en péril la relation avec l'intégrateur. Notre approche est factuelle et constructive.",
-      "de": "Ja. Das ist eine häufige Situation. Wir können eine technische Bestandsaufnahme des Projekts durchführen, Abweichungen von den ursprünglichen Spezifikationen identifizieren und einen Aktionsplan für das weitere Vorgehen vorschlagen – ohne die Beziehung zum Integrator zu gefährden. Unser Ansatz ist sachlich und konstruktiv."
+      "de": "Ja. Das ist eine häufige Situation. Wir können eine technische Bestandsaufnahme des Projekts durchführen, Abweichungen von den ursprünglichen Spezifikationen identifizieren und einen Aktionsplan für das weitere Vorgehen vorschlagen – ohne die Beziehung zum Integrator zu gefährden. Unser Ansatz ist sachlich und konstruktiv.",
+      "ar": "نعم، هذا موقف شائع. يمكننا إجراء تقييم فني لحالة المشروع، وتحديد الفجوات مقارنة بالمواصفات الأولية، واقتراح خطة عمل لتأطير الخطوات التالية — دون تعريض العلاقة مع شركة التكامل للخطر. نهجنا واقعي وبناء."
     },
     "data.items[@FXUCGY].answer": {
       "source": "Cela dépend du périmètre et de la phase où nous intervenons. Une assistance complète de l'expression du besoin à la réception représente typiquement 5 à 15% du montant de réalisation. Une intervention ciblée (rédaction de cahier des charges, conduite de FAT/SAT) est facturée à la mission sur devis. Contactez-nous avec les éléments de votre projet pour un chiffrage rapide.",
-      "de": "Das hängt vom Umfang und der Phase ab, in der wir eingreifen. Eine vollständige Unterstützung von der Bedarfsanalyse bis zur Abnahme macht typischerweise 5 bis 15 % der Umsetzungskosten aus. Eine gezielte Intervention (Erstellung des Lastenhefts, Durchführung von FAT/SAT) wird auf Projektbasis per Angebot abgerechnet. Kontaktieren Sie uns mit Ihren Projektdetails für eine schnelle Kostenschätzung."
+      "de": "Das hängt vom Umfang und der Phase ab, in der wir eingreifen. Eine vollständige Unterstützung von der Bedarfsanalyse bis zur Abnahme macht typischerweise 5 bis 15 % der Umsetzungskosten aus. Eine gezielte Intervention (Erstellung des Lastenhefts, Durchführung von FAT/SAT) wird auf Projektbasis per Angebot abgerechnet. Kontaktieren Sie uns mit Ihren Projektdetails für eine schnelle Kostenschätzung.",
+      "ar": "يعتمد ذلك على النطاق والمرحلة التي نتدخل فيها. عادة ما تمثل المساعدة الكاملة من تحديد الاحتياجات إلى الاستلام ما بين 5 إلى 15% من قيمة التنفيذ. أما التدخلات المحددة (كتابة دفتر الشروط، إدارة اختبارات FAT/SAT) فيتم فوترتها بناءً على المهمة وفقاً لعرض سعر. تواصلوا معنا بتفاصيل مشروعكم للحصول على تقدير سريع للتكلفة."
     },
     "data.items[@15eBke].answer": {
       "source": "Oui. Nous avons accompagné des projets en Belgique (Thalys, Bruxelles), au Canada (TM), en Israël (Wonderlogix), en Russie (Danone/CoVostok), au Luxembourg (ArcelorMittal) et au Maroc (St-Gobain). Nous intervenons en France, en Europe et à l'international, en français et en anglais.",
-      "de": "Ja. Wir haben Projekte in Belgien (Thalys, Brüssel), Kanada (TM), Israel (Wonderlogix), Russland (Danone/CoVostok), Luxemburg (ArcelorMittal) und Marokko (St-Gobain) begleitet. Wir sind in Frankreich, Europa und international auf Französisch und Englisch tätig."
+      "de": "Ja. Wir haben Projekte in Belgien (Thalys, Brüssel), Kanada (TM), Israel (Wonderlogix), Russland (Danone/CoVostok), Luxemburg (ArcelorMittal) und Marokko (St-Gobain) begleitet. Wir sind in Frankreich, Europa und international auf Französisch und Englisch tätig.",
+      "ar": "نعم. لقد دعمنا مشاريع في بلجيكا (Thalys, Bruxelles)، وكندا (TM)، وإسرائيل (Wonderlogix)، وروسيا (Danone/CoVostok)، ولوكسمبورغ (ArcelorMittal)، والمغرب (St-Gobain). نحن نعمل في فرنسا وأوروبا ودولياً، باللغتين الفرنسية والإنجليزية."
     }
   }
 }

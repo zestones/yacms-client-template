@@ -39,31 +39,38 @@
     },
     "data.paragraphs[@hwtkbf].text": {
       "source": "Un AMOA efficace est un expert qui comprend ce que l'intégrateur propose — pas quelqu'un qui pilote les délais sur un tableur. Chez AUTEM, nous avons programmé des automates Siemens et Rockwell, déployé des SCADA Ignition, mis en service des systèmes chez Amazon et Thalys. Nous savons ce qui est faisable, ce qui est risqué, et ce qui mérite d'être challengé.",
-      "de": "Ein effektiver AMOA ist ein Experte, der versteht, was der Integrator anbietet – nicht jemand, der Fristen in einer Tabellenkalkulation verwaltet. Bei AUTEM haben wir Siemens- und Rockwell-SPS programmiert, Ignition-SCADA-Systeme implementiert und Systeme bei Amazon und Thalys in Betrieb genommen. Wir wissen, was machbar ist, was riskant ist und was hinterfragt werden muss."
+      "de": "Ein effektiver AMOA ist ein Experte, der versteht, was der Integrator anbietet – nicht jemand, der Fristen in einer Tabellenkalkulation verwaltet. Bei AUTEM haben wir Siemens- und Rockwell-SPS programmiert, Ignition-SCADA-Systeme implementiert und Systeme bei Amazon und Thalys in Betrieb genommen. Wir wissen, was machbar ist, was riskant ist und was hinterfragt werden muss.",
+      "ar": "إن خبير AMOA الفعال هو خبير يفهم ما يقترحه المنفذ، وليس مجرد شخص يدير المواعيد النهائية عبر جدول بيانات. في AUTEM، قمنا ببرمجة أجهزة Siemens و Rockwell، ونشرنا أنظمة SCADA Ignition، وقمنا بتشغيل أنظمة لدى Amazon و Thalys. نحن نعرف ما هو ممكن، وما هو محفوف بالمخاطر، وما الذي يستحق المراجعة والتدقيق."
     },
     "data.highlights[@tcBGDq].text": {
       "source": "Expertise terrain en automatisme, SCADA, MES, IoT et réseaux industriels — nous challengeons les propositions techniques pour de vrai",
-      "de": "Praxiserfahrung in Automatisierung, SCADA, MES, IoT und industriellen Netzwerken – wir hinterfragen technische Vorschläge fundiert"
+      "de": "Praxiserfahrung in Automatisierung, SCADA, MES, IoT und industriellen Netzwerken – wir hinterfragen technische Vorschläge fundiert",
+      "ar": "خبرة ميدانية في الأتمتة، SCADA، MES، IoT والشبكات الصناعية — نحن نراجع المقترحات التقنية بشكل فعلي وعميق"
     },
     "data.highlights[@4fxdL5].text": {
       "source": "Indépendant de tout intégrateur — aucun conflit d'intérêt dans les recommandations",
-      "de": "Unabhängig von jedem Integrator – keine Interessenkonflikte bei den Empfehlungen"
+      "de": "Unabhängig von jedem Integrator – keine Interessenkonflikte bei den Empfehlungen",
+      "ar": "مستقلون عن أي شركة منفذة — لا يوجد تضارب في المصالح في التوصيات"
     },
     "data.highlights[@LqFwzj].text": {
       "source": "Méthode rigoureuse : jalons documentés, revues formelles, traçabilité des décisions sur tout le projet",
-      "de": "Strenge Methode: dokumentierte Meilensteine, formelle Reviews, Rückverfolgbarkeit von Entscheidungen über das gesamte Projekt"
+      "de": "Strenge Methode: dokumentierte Meilensteine, formelle Reviews, Rückverfolgbarkeit von Entscheidungen über das gesamte Projekt",
+      "ar": "منهجية صارمة: مراحل موثقة، مراجعات رسمية، وتتبع للقرارات طوال المشروع"
     },
     "data.highlights[@yWXBvT].text": {
       "source": "Rédaction des specs en langage opérationnel : vos équipes terrain comprennent le cahier des charges",
-      "de": "Erstellung von Spezifikationen in operativer Sprache: Ihre Teams vor Ort verstehen das Lastenheft"
+      "de": "Erstellung von Spezifikationen in operativer Sprache: Ihre Teams vor Ort verstehen das Lastenheft",
+      "ar": "صياغة المواصفات بلغة تشغيلية: فرقكم الميدانية ستفهم دفتر الشروط بوضوح"
     },
     "data.highlights[@NdmiIP].text": {
       "source": "Expérience internationale : France, Belgique (Thalys), Canada (TM), Luxembourg (ArcelorMittal), Israël (Wonderlogix)",
-      "de": "Internationale Erfahrung: Frankreich, Belgien (Thalys), Kanada (TM), Luxemburg (ArcelorMittal), Israel (Wonderlogix)"
+      "de": "Internationale Erfahrung: Frankreich, Belgien (Thalys), Kanada (TM), Luxemburg (ArcelorMittal), Israel (Wonderlogix)",
+      "ar": "خبرة دولية: فرنسا، بلجيكا (Thalys)، كندا (TM)، لوكسمبورغ (ArcelorMittal)، إسرائيل (Wonderlogix)"
     },
     "data.highlights[@EaezxT].text": {
       "source": "Transfert de compétences inclus : vos équipes repartent avec les clés pour faire évoluer le système",
-      "de": "Wissenstransfer inklusive: Ihre Teams erhalten das Know-how, um das System eigenständig weiterzuentwickeln"
+      "de": "Wissenstransfer inklusive: Ihre Teams erhalten das Know-how, um das System eigenständig weiterzuentwickeln",
+      "ar": "نقل المهارات متضمن: ستستلم فرقكم المفاتيح اللازمة لتطوير النظام مستقبلاً"
     }
   }
 }

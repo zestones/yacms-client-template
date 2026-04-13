@@ -21,15 +21,18 @@
     },
     "data.benefits[@ovPQ7L].text": {
       "source": "Expert indépendant — aucun intérêt commercial lié à votre choix d'intégrateur",
-      "de": "Unabhängiger Experte – keine kommerziellen Interessen in Bezug auf Ihre Wahl des Integrators"
+      "de": "Unabhängiger Experte – keine kommerziellen Interessen in Bezug auf Ihre Wahl des Integrators",
+      "ar": "خبير مستقل — لا توجد مصالح تجارية مرتبطة باختياركم لشركة التكامل"
     },
     "data.benefits[@wFdlML].text": {
       "source": "Spécifications, revues techniques, FAT/SAT — méthode complète du besoin à la réception",
-      "de": "Spezifikationen, technische Reviews, FAT/SAT – vollständige Methode vom Bedarf bis zur Abnahme"
+      "de": "Spezifikationen, technische Reviews, FAT/SAT – vollständige Methode vom Bedarf bis zur Abnahme",
+      "ar": "المواصفات، المراجعات الفنية، FAT/SAT — منهجية كاملة من تحديد الاحتياجات إلى الاستلام"
     },
     "data.benefits[@6DL5HJ].text": {
       "source": "Expérience internationale : France, Belgique, Canada, Luxembourg, Maroc, Israël",
-      "de": "Internationale Erfahrung: Frankreich, Belgien, Kanada, Luxemburg, Marokko, Israel"
+      "de": "Internationale Erfahrung: Frankreich, Belgien, Kanada, Luxemburg, Marokko, Israel",
+      "ar": "خبرة دولية: فرنسا، بلجيكا، كندا، لوكسمبورغ، المغرب، إسرائيل"
     }
   }
 }
