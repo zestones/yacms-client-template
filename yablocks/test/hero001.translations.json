@@ -1,0 +1,29 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.badge": {
+      "source": "Super site web",
+      "de": "Super Website"
+    },
+    "data.title": {
+      "source": "Nous vendons de tous ici",
+      "de": "Wir verkaufen hier alles"
+    },
+    "data.titleHighlight": {
+      "source": "",
+      "de": ""
+    },
+    "data.subtitle": {
+      "source": "",
+      "de": ""
+    },
+    "data.cta.primary.text": {
+      "source": "",
+      "de": ""
+    },
+    "data.trustBadges[@9hm77l].text": {
+      "source": "",
+      "de": ""
+    }
+  }
+}
