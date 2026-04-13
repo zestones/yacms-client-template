@@ -1,0 +1,12 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "Architecture Systèmes de Contrôle-Commande | AUTEM",
+      "de": "Architecture de Contrôle-Commande | AUTEM",
+      "de:manual": true,
+      "ru": "Systèmes de Contrôle-Commande | AUTEM",
+      "ru:manual": true
+    }
+  }
+}
