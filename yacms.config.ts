@@ -29,7 +29,7 @@ export default defineConfig({
     fallback: 'default',
     translation: {
       adapter: 'gemini',
-      model: 'gemini-2.5-flash-lite',
+      model: 'gemini-2.5-flash',
     },
   },
 });
