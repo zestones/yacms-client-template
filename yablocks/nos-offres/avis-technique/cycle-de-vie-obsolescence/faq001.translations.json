@@ -5,13 +5,15 @@
       "source": "FAQ",
       "de": "FAQ",
       "ar": "الأسئلة الشائعة",
-      "zh": "常见问题"
+      "zh": "常见问题",
+      "ru": "FAQ"
     },
     "data.title": {
       "source": "Questions fréquentes sur la gestion de l'obsolescence industrielle",
       "de": "Häufig gestellte Fragen zum Management industrieller Obsoleszenz",
       "ar": "أسئلة شائعة حول إدارة التقادم الصناعي",
-      "zh": "关于工业陈旧化管理的常见问题"
+      "zh": "关于工业陈旧化管理的常见问题",
+      "ru": "Часто задаваемые вопросы об управлении промышленным устареванием"
     }
   }
 }

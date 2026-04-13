@@ -5,13 +5,15 @@
       "source": "L'obsolescence ne vous prévient pas. Elle attend que votre production soit à l'arrêt pour se manifester.",
       "de": "Die Obsoleszenz warnt Sie nicht vor. Sie wartet, bis Ihre Produktion stillsteht, um sich zu bemerkbar zu machen.",
       "ar": "التقادم لا يحذرك. بل ينتظر حتى يتوقف إنتاجك ليظهر.",
-      "zh": "设备过时不会提前预警。它会在您的生产停滞时才显现。"
+      "zh": "设备过时不会提前预警。它会在您的生产停滞时才显现。",
+      "ru": "Устаревание не предупреждает заранее. Оно проявляется тогда, когда ваше производство останавливается."
     },
     "data.closing": {
       "source": "Un plan d'obsolescence construit cette année, c'est un budget cible sur 3 ans — et une direction qui pilote les investissements plutôt que de subir les pannes.",
       "de": "Ein dieses Jahr erstellter Obsoleszenzplan ist ein Zielbudget für 3 Jahre – und eine Geschäftsführung, die Investitionen steuert, aktive statt nur auf Ausfälle zu reagieren.",
       "ar": "إن وضع خطة للتقادم هذا العام يعني تحديد ميزانية مستهدفة لمدة 3 سنوات — وإدارة تقود الاستثمارات بدلاً من الخضوع للأعطال.",
-      "zh": "今年制定的过时管理计划意味着未来 3 年的预算目标——让管理层能够主导投资，而非被动应对故障。"
+      "zh": "今年制定的过时管理计划意味着未来 3 年的预算目标——让管理层能够主导投资，而非被动应对故障。",
+      "ru": "План по борьбе с устареванием, разработанный в этом году, — это целевой бюджет на 3 года и руководство, которое управляет инвестициями, а не просто реагирует на поломки."
     }
   }
 }

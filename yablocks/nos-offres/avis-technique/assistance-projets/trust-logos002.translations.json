@@ -5,13 +5,15 @@
       "source": "Ils nous ont confié l'assistance technique de leurs projets stratégiques",
       "de": "Sie haben uns die technische Unterstützung ihrer strategischen Projekte anvertraut",
       "ar": "لقد وضعوا ثقتهم بنا لتقديم الدعم الفني لمشاريعهم الاستراتيجية",
-      "zh": "他们将战略项目的技术协助委托给我们"
+      "zh": "他们将战略项目的技术协助委托给我们",
+      "ru": "Нам доверили техническое сопровождение их стратегических проектов"
     },
     "data.subtitle": {
       "source": "Indépendant, multimarque, expérience terrain — de la spec à la réception",
       "de": "Unabhängig, markenübergreifend, Praxiserfahrung — von der Spezifikation bis zur Abnahme",
       "ar": "مستقلون، متعددو العلامات التجارية، وخبرة ميدانية — من المواصفات إلى الاستلام",
-      "zh": "独立、多品牌、实战经验 — 从规格定义到验收"
+      "zh": "独立、多品牌、实战经验 — 从规格定义到验收",
+      "ru": "Независимость, мультибрендовость, практический опыт — от спецификации до приемки"
     }
   }
 }
