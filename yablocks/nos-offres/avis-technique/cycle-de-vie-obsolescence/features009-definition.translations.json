@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "CYCLE DE VIE & OBSOLESCENCE",
+      "de": "LEBENSZYKLUS & OBSOLESZENZ"
+    },
+    "data.title": {
+      "source": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
+      "de": "Obsoleszenz-Audit und Erneuerungsplan: Umfang und Ergebnisse"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",
+      "de": "Ergebnis: eine klare Sicht auf den bestehenden Anlagenpark, ein in Budgetbesprechungen vertretbarer Aktionsplan und ein Programm für die evolutionäre Wartung über 3 bis 5 Jahre."
+    },
+    "data.image.alt": {
+      "source": "Audit obsolescence équipements industriels — cartographie cycle de vie AUTEM",
+      "de": "Obsoleszenz-Audit industrieller Anlagen – Lebenszyklus-Kartierung AUTEM"
+    }
+  }
+}

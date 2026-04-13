@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSERE METHODE"
+    },
+    "data.title": {
+      "source": "De l'expression du besoin à la réception technique : 6 étapes",
+      "de": "Vom Bedarfsanalyse bis zur technischen Abnahme: 6 Schritte"
+    }
+  }
+}

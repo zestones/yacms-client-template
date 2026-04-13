@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vous avez un projet d'automatisme ou de digitalisation à piloter ?",
+      "de": "Haben Sie ein Automatisierungs- oder Digitalisierungsprojekt zu steuern?"
+    },
+    "data.cta.text": {
+      "source": "Discuter de votre projet",
+      "de": "Über Ihr Projekt sprechen"
+    }
+  }
+}

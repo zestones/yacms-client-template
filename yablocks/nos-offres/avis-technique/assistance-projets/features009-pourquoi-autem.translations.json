@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Un AMOA technique qui a lui-même intégré des systèmes — pas un chef de projet avec une checklist.",
+      "de": "Ein technisches AMOA, das selbst Systeme integriert hat — kein Projektleiter mit einer Checkliste."
+    },
+    "data.conclusion": {
+      "source": "Nos recommandations viennent de projets réels. Nous avons les mains sales — dans le bon sens.",
+      "de": "Unsere Empfehlungen basieren auf realen Projekten. Wir packen selbst mit an — im besten Sinne."
+    },
+    "data.image.alt": {
+      "source": "AUTEM AMOA — assistance projet automatisme industriel",
+      "de": "AUTEM AMOA — technische Unterstützung für industrielle Automatisierung"
+    }
+  }
+}

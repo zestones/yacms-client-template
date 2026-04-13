@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Ils nous ont confié l'assistance technique de leurs projets stratégiques",
+      "de": "Sie haben uns die technische Unterstützung ihrer strategischen Projekte anvertraut"
+    },
+    "data.subtitle": {
+      "source": "Indépendant, multimarque, expérience terrain — de la spec à la réception",
+      "de": "Unabhängig, markenübergreifend, Praxiserfahrung — von der Spezifikation bis zur Abnahme"
+    }
+  }
+}

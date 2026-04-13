@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "AVIS TECHNIQUE",
+      "de": "TECHNISCHE BERATUNG"
+    },
+    "data.title": {
+      "source": "Assistance à vos Projets Stratégiques d'Automatisme.",
+      "de": "Unterstützung bei Ihren strategischen Automatisierungsprojekten."
+    },
+    "data.subtitle": {
+      "source": "Vous pilotez un projet d'envergure et vous avez besoin d'un expert technique à vos côtés — pas d'un généraliste, mais d'un automaticien qui comprend vos enjeux de production et sait parler aux intégrateurs.",
+      "de": "Sie leiten ein Großprojekt und benötigen einen technischen Experten an Ihrer Seite – keinen Generalisten, sondern einen Automatisierungsspezialisten, der Ihre Produktionsanforderungen versteht und die Sprache der Systemintegratoren spricht."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Assistance projet stratégique automatisme industriel — AUTEM",
+      "de": "Unterstützung bei strategischen Projekten der industriellen Automatisierung — AUTEM"
+    }
+  }
+}

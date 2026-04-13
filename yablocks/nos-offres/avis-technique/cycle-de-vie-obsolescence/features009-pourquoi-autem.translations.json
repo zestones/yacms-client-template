@@ -1,0 +1,21 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "de": "WARUM AUTEM"
+    },
+    "data.title": {
+      "source": "Un expert qui connaît les équipements de l'intérieur — pas juste les références catalogue.",
+      "de": "Ein Experte, der die Anlagen von innen kennt — nicht nur die Katalogreferenzen."
+    },
+    "data.conclusion": {
+      "source": "Nos recommandations sont construites sur ce qu'on a vu tomber en panne, pas sur ce qu'un éditeur demande de vendre. L'objectif est votre continuité de production.",
+      "de": "Unsere Empfehlungen basieren auf dem, was wir in der Praxis als defekt erlebt haben, nicht auf dem, was ein Hersteller verkaufen möchte. Ziel ist Ihre Produktionskontinuität."
+    },
+    "data.image.alt": {
+      "source": "Expert AUTEM — audit obsolescence équipements industriels",
+      "de": "AUTEM-Experte — Obsoleszenz-Audit für Industrieanlagen"
+    }
+  }
+}

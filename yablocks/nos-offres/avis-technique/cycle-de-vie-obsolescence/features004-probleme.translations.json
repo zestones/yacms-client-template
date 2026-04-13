@@ -1,0 +1,13 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.headline": {
+      "source": "L'obsolescence ne vous prévient pas. Elle attend que votre production soit à l'arrêt pour se manifester.",
+      "de": "Die Obsoleszenz warnt Sie nicht vor. Sie wartet, bis Ihre Produktion stillsteht, um sich zu bemerkbar zu machen."
+    },
+    "data.closing": {
+      "source": "Un plan d'obsolescence construit cette année, c'est un budget cible sur 3 ans — et une direction qui pilote les investissements plutôt que de subir les pannes.",
+      "de": "Ein dieses Jahr erstellter Obsoleszenzplan ist ein Zielbudget für 3 Jahre – und eine Geschäftsführung, die Investitionen steuert, aktive statt nur auf Ausfälle zu reagieren."
+    }
+  }
+}
