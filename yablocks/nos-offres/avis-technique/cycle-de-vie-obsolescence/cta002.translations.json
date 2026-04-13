@@ -22,17 +22,20 @@
     "data.benefits[@q98U0T].text": {
       "source": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques",
       "de": "Vollständiges Obsoleszenz-Audit: SPS, IPC, SCADA, Software – alle Marken",
-      "ar": "تدقيق شامل للتقادم: أجهزة PLC، IPC، SCADA، والبرمجيات — لجميع العلامات التجارية"
+      "ar": "تدقيق شامل للتقادم: أجهزة PLC، IPC، SCADA، والبرمجيات — لجميع العلامات التجارية",
+      "zh": "全面的过时审计：PLC、IPC、SCADA、软件 —— 涵盖所有品牌"
     },
     "data.benefits[@0uHuaT].text": {
       "source": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention",
       "de": "Erneuerungsplan über 3 bis 5 Jahre: priorisiert, budgetiert, mit Interventionsfenstern",
-      "ar": "خطة تجديد من 3 إلى 5 سنوات: مرتبة حسب الأولويات، ومحددة الميزانية، مع تحديد نوافذ التدخل"
+      "ar": "خطة تجديد من 3 إلى 5 سنوات: مرتبة حسب الأولويات، ومحددة الميزانية، مع تحديد نوافذ التدخل",
+      "zh": "3 至 5 年更新计划：优先级排序、预算编制，并包含干预窗口"
     },
     "data.benefits[@p6Mppo].text": {
       "source": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées",
       "de": "Unabhängiger Experte – kein kommerzielles Interesse an den empfohlenen Marken",
-      "ar": "خبير مستقل — لا توجد مصالح تجارية مرتبطة بالعلامات التجارية الموصى بها"
+      "ar": "خبير مستقل — لا توجد مصالح تجارية مرتبطة بالعلامات التجارية الموصى بها",
+      "zh": "独立专家 —— 与推荐品牌无商业利益关联"
     }
   }
 }
