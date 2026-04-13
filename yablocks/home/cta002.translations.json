@@ -62,6 +62,10 @@
     "data.benefits[@tlfIcE].text": {
       "source": "approche personalisé",
       "de": "personalisierter Ansatz"
+    },
+    "data.benefits[@91bFhA].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
     }
   }
 }
