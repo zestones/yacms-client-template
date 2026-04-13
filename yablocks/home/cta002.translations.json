@@ -50,6 +50,10 @@
       "ru": "hello World",
       "zh": "hello World",
       "de": "hello World"
+    },
+    "data.benefits[@3wdaaW].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
     }
   }
 }
