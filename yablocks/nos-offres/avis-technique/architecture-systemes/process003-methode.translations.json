@@ -7,7 +7,8 @@
       "de": "UNSERE METHODE",
       "ar": "منهجيتنا",
       "ru": "НАШ МЕТОД",
-      "it": "IL NOSTRO METODO"
+      "it": "IL NOSTRO METODO",
+      "zh": "我们的方法"
     },
     "data.title": {
       "source": "De la compréhension du besoin à la spécification livrée : 5 étapes",
@@ -15,7 +16,8 @@
       "de": "Vom Bedarfsverständnis bis zur gelieferten Spezifikation: 5 Schritte",
       "ar": "من فهم الاحتياجات إلى تسليم المواصفات: 5 خطوات",
       "ru": "От понимания потребностей до готового технического задания: 5 этапов",
-      "it": "Dalla comprensione del bisogno alla specifica consegnata: 5 fasi"
+      "it": "Dalla comprensione del bisogno alla specifica consegnata: 5 fasi",
+      "zh": "从需求理解到交付规范：5 个步骤"
     },
     "data.steps[@MDHSh3].title": {
       "source": "Cadrage & compréhension du besoin",

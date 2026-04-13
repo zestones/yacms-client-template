@@ -7,7 +7,8 @@
       "de": "Sie haben uns die Planung oder Validierung ihrer Architekturen anvertraut",
       "ar": "لقد وثقوا بنا لتصميم أو التحقق من بنياتهم التحتية",
       "ru": "Нам доверили проектирование и валидацию их архитектур",
-      "it": "Ci hanno affidato la progettazione o la validazione delle loro architetture"
+      "it": "Ci hanno affidato la progettazione o la validazione delle loro architetture",
+      "zh": "他们委托我们进行架构设计或验证"
     },
     "data.subtitle": {
       "source": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
@@ -15,7 +16,8 @@
       "de": "Multi-Sektoren-Erfahrung, Herstellerunabhängigkeit, dokumentarische Strenge",
       "ar": "خبرة في قطاعات متعددة، استقلالية عن الموردين، ودقة في التوثيق",
       "ru": "Многоотраслевой опыт, независимость от производителей, строгое документирование",
-      "it": "Esperienza multi-settore, indipendenza dal produttore, rigore documentale"
+      "it": "Esperienza multi-settore, indipendenza dal produttore, rigore documentale",
+      "zh": "跨行业经验，厂商独立性，严谨的文档记录"
     },
     "data.logos[@Ir0Ocm].alt": {
       "source": "Hermès — Architecture systèmes de contrôle industriels, Paris",

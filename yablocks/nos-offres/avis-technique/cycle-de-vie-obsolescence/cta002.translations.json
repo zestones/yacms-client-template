@@ -4,12 +4,14 @@
     "data.title": {
       "source": "Vos équipements industriels ont plus de 10 ans et vous n'avez pas de plan d'obsolescence ?",
       "de": "Ihre Industrieanlagen sind älter als 10 Jahre und Sie haben keinen Obsoleszenzplan?",
-      "ar": "هل معداتك الصناعية عمرها أكثر من 10 سنوات وليس لديك خطة لمواجهة التقادم؟"
+      "ar": "هل معداتك الصناعية عمرها أكثر من 10 سنوات وليس لديك خطة لمواجهة التقادم؟",
+      "zh": "您的工业设备已使用超过 10 年，且尚未制定过时计划？"
     },
     "data.cta.text": {
       "source": "Lancer votre audit d'obsolescence",
       "de": "Starten Sie Ihr Obsoleszenz-Audit",
-      "ar": "ابدأ تدقيق التقادم الخاص بك"
+      "ar": "ابدأ تدقيق التقادم الخاص بك",
+      "zh": "启动您的过时审计"
     }
   }
 }

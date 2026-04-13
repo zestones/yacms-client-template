@@ -4,12 +4,14 @@
     "data.title": {
       "source": "Compatible avec tous les équipements — des générations les plus anciennes aux plus récentes",
       "de": "Kompatibel mit allen Anlagen — von den ältesten Generationen bis zu den neuesten",
-      "ar": "متوافق مع جميع المعدات — من الأجيال الأقدم إلى الأحدث"
+      "ar": "متوافق مع جميع المعدات — من الأجيال الأقدم إلى الأحدث",
+      "zh": "兼容所有设备 — 从最旧一代到最新一代"
     },
     "data.subtitle": {
       "source": "Nous connaissons les équipements anciens comme les modèles récents, et leur cycle de vie réel",
       "de": "Wir kennen sowohl die alten Anlagen als auch die aktuellen Modelle und deren tatsächlichen Lebenszyklus",
-      "ar": "نحن نعرف المعدات القديمة كما نعرف الموديلات الحديثة، ودورة حياتها الفعلية"
+      "ar": "نحن نعرف المعدات القديمة كما نعرف الموديلات الحديثة، ودورة حياتها الفعلية",
+      "zh": "我们熟悉旧设备以及最新型号及其真实的生命周期"
     }
   }
 }

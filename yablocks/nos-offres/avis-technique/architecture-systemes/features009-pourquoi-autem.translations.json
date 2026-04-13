@@ -7,7 +7,8 @@
       "de": "WARUM AUTEM",
       "ar": "لماذا AUTEM",
       "ru": "ПОЧЕМУ AUTEM",
-      "it": "PERCHÉ AUTEM"
+      "it": "PERCHÉ AUTEM",
+      "zh": "为什么选择 AUTEM"
     },
     "data.title": {
       "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
@@ -15,7 +16,8 @@
       "de": "Unabhängiger, herstellerübergreifender Praxisexperte – kein allgemeines Planungsbüro.",
       "ar": "خبير مستقل، متعدد العلامات التجارية، ميداني — وليس مجرد مكتب دراسات عام.",
       "ru": "Независимый многобрендовый эксперт-практик — а не просто общий проектный институт.",
-      "it": "Esperto indipendente, multimarca, sul campo — non un ufficio di studi generalista."
+      "it": "Esperto indipendente, multimarca, sul campo — non un ufficio di studi generalista.",
+      "zh": "独立、多品牌、实战专家 —— 而非通用设计事务所。"
     },
     "data.conclusion": {
       "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
@@ -23,7 +25,8 @@
       "de": "Wir haben kein Interesse daran, Sie zu einem bestimmten Lieferanten zu steuern. Unsere einzige Kennzahl ist Ihre operative Autonomie in 5 und 10 Jahren.",
       "ar": "ليس لدينا أي مصلحة في توجيهكم نحو مورد دون آخر. مقياسنا الوحيد هو استقلاليتكم التشغيلية على مدى 5 و10 سنوات.",
       "ru": "Мы не заинтересованы в продвижении одного поставщика перед другим. Нашим единственным критерием является ваша операционная автономность на горизонте 5 и 10 лет.",
-      "it": "Non abbiamo alcun interesse a indirizzarvi verso un fornitore piuttosto che un altro. La nostra unica metrica è la vostra autonomia operativa a 5 e 10 anni."
+      "it": "Non abbiamo alcun interesse a indirizzarvi verso un fornitore piuttosto che un altro. La nostra unica metrica è la vostra autonomia operativa a 5 e 10 anni.",
+      "zh": "我们没有理由引导您选择某个特定供应商。我们唯一的衡量标准是您在 5 到 10 年内的运营自主权。"
     },
     "data.image.alt": {
       "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
@@ -31,7 +34,8 @@
       "de": "AUTEM-Experte – Architektur industrieller Steuerungs- und Leitsysteme",
       "ar": "خبير AUTEM — هندسة أنظمة التحكم والقيادة الصناعية",
       "ru": "Эксперт AUTEM — архитектура промышленных систем управления",
-      "it": "Esperto AUTEM — architettura sistemi di controllo-comando industriali"
+      "it": "Esperto AUTEM — architettura sistemi di controllo-comando industriali",
+      "zh": "AUTEM 专家 —— 工业控制系统架构"
     },
     "data.paragraphs[@mFiBX2].text": {
       "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",

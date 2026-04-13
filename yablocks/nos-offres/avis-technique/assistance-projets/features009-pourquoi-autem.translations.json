@@ -4,22 +4,26 @@
     "data.overtitle": {
       "source": "POURQUOI AUTEM",
       "de": "WARUM AUTEM",
-      "ar": "لماذا AUTEM"
+      "ar": "لماذا AUTEM",
+      "zh": "为什么选择 AUTEM"
     },
     "data.title": {
       "source": "Un AMOA technique qui a lui-même intégré des systèmes — pas un chef de projet avec une checklist.",
       "de": "Ein technisches AMOA, das selbst Systeme integriert hat — kein Projektleiter mit einer Checkliste.",
-      "ar": "مساعدة فنية (AMOA) قامت بنفسها بدمج الأنظمة — وليس مجرد مدير مشروع يحمل قائمة مهام."
+      "ar": "مساعدة فنية (AMOA) قامت بنفسها بدمج الأنظمة — وليس مجرد مدير مشروع يحمل قائمة مهام.",
+      "zh": "一个亲自集成过系统的技术 AMOA — 而非一个拿着清单的项目经理。"
     },
     "data.conclusion": {
       "source": "Nos recommandations viennent de projets réels. Nous avons les mains sales — dans le bon sens.",
       "de": "Unsere Empfehlungen basieren auf realen Projekten. Wir packen selbst mit an — im besten Sinne.",
-      "ar": "توصياتنا نابعة من مشاريع حقيقية. نحن نعمل ميدانياً وبشكل مباشر — بالمعنى الإيجابي للكلمة."
+      "ar": "توصياتنا نابعة من مشاريع حقيقية. نحن نعمل ميدانياً وبشكل مباشر — بالمعنى الإيجابي للكلمة.",
+      "zh": "我们的建议源自真实项目。我们深入一线，实操经验丰富。"
     },
     "data.image.alt": {
       "source": "AUTEM AMOA — assistance projet automatisme industriel",
       "de": "AUTEM AMOA — technische Unterstützung für industrielle Automatisierung",
-      "ar": "AUTEM AMOA — دعم مشاريع الأتمتة الصناعية"
+      "ar": "AUTEM AMOA — دعم مشاريع الأتمتة الصناعية",
+      "zh": "AUTEM AMOA — 工业自动化项目协助"
     }
   }
 }

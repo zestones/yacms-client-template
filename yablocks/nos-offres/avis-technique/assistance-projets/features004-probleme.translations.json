@@ -4,12 +4,14 @@
     "data.headline": {
       "source": "Un projet industriel mal piloté côté client, c'est un intégrateur qui prend toutes les décisions techniques à votre place.",
       "de": "Ein industrielles Projekt, das kundenseitig schlecht gesteuert wird, führt dazu, dass der Systemintegrator alle technischen Entscheidungen an Ihrer Stelle trifft.",
-      "ar": "عندما يتم إدارة المشروع الصناعي بشكل سيئ من جانب العميل، فإن شركة التكامل هي التي تتخذ جميع القرارات الفنية بدلاً منك."
+      "ar": "عندما يتم إدارة المشروع الصناعي بشكل سيئ من جانب العميل، فإن شركة التكامل هي التي تتخذ جميع القرارات الفنية بدلاً منك.",
+      "zh": "如果客户方的工业项目管理不善，集成商将代替您做出所有技术决策。"
     },
     "data.closing": {
       "source": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement.",
       "de": "Ihr Systemintegrator arbeitet effizienter, wenn Ihr Kunde weiß, was er will – und dies technisch fundiert vertreten kann.",
-      "ar": "يعمل مكامل النظام (integrator) بشكل أفضل عندما يعرف العميل ما يريده — ويكون قادراً على الدفاع عن ذلك فنياً."
+      "ar": "يعمل مكامل النظام (integrator) بشكل أفضل عندما يعرف العميل ما يريده — ويكون قادراً على الدفاع عن ذلك فنياً.",
+      "zh": "当您的客户明确知道自己的需求并能在技术上予以维护时，您的集成商的工作效率会更高。"
     }
   }
 }

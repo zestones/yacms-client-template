@@ -4,22 +4,26 @@
     "data.overtitle": {
       "source": "ASSISTANCE PROJETS",
       "de": "PROJEKTUnterstützung",
-      "ar": "دعم المشاريع"
+      "ar": "دعم المشاريع",
+      "zh": "项目协助"
     },
     "data.title": {
       "source": "AMOA technique en automatisme et digitalisation : périmètre et livrables",
       "de": "Technische AMOA in Automatisierung und Digitalisierung: Umfang und Ergebnisse",
-      "ar": "المساعدة الفنية لإدارة المشاريع (AMOA) في الأتمتة والرقمنة: النطاق والمخرجات"
+      "ar": "المساعدة الفنية لإدارة المشاريع (AMOA) في الأتمتة والرقمنة: النطاق والمخرجات",
+      "zh": "自动化与数字化技术 AMOA：范围与交付物"
     },
     "data.conclusion": {
       "source": "Résultat : un projet réceptionné conforme au besoin initial, avec une équipe interne formée et une documentation exploitable pour la maintenance.",
       "de": "Ergebnis: Ein Projekt, das den ursprünglichen Anforderungen entspricht, mit einem geschulten internen Team und einer für die Wartung nutzbaren Dokumentation.",
-      "ar": "النتيجة: مشروع يتم استلامه مطابقاً للاحتياجات الأولية، مع فريق داخلي مدرب وتوثيق قابل للاستخدام للصيانة."
+      "ar": "النتيجة: مشروع يتم استلامه مطابقاً للاحتياجات الأولية، مع فريق داخلي مدرب وتوثيق قابل للاستخدام للصيانة.",
+      "zh": "结果：项目验收符合初始需求，内部团队经过培训，并拥有可用于维护的文档。"
     },
     "data.image.alt": {
       "source": "Assistance MOA projet automatisme industriel — AUTEM",
       "de": "Unterstützung bei der Projektsteuerung (MOA) für industrielle Automatisierung — AUTEM",
-      "ar": "دعم إدارة مشاريع الأتمتة الصناعية — AUTEM"
+      "ar": "دعم إدارة مشاريع الأتمتة الصناعية — AUTEM",
+      "zh": "工业自动化项目 MOA 协助 — AUTEM"
     }
   }
 }

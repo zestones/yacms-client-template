@@ -7,7 +7,8 @@
       "de": "Planen Sie die Architektur Ihres nächsten Produktionssystems?",
       "ar": "هل تقوم بتحديد بنية نظام الإنتاج القادم الخاص بك؟",
       "ru": "Вы проектируете архитектуру вашей следующей производственной системы?",
-      "it": "Stai definendo l'architettura del tuo prossimo sistema di produzione?"
+      "it": "Stai definendo l'architettura del tuo prossimo sistema di produzione?",
+      "zh": "您正在定义下一个生产系统的架构吗？"
     },
     "data.cta.text": {
       "source": "Demander un avis d'architecture",
@@ -15,7 +16,8 @@
       "de": "Architekturberatung anfragen",
       "ar": "طلب استشارة حول البنية التحتية",
       "ru": "Запросить консультацию по архитектуре",
-      "it": "Richiedi un parere sull'architettura"
+      "it": "Richiedi un parere sull'architettura",
+      "zh": "申请架构咨询"
     },
     "data.benefits[@6YHe5A].text": {
       "source": "Expert indépendant — aucun lien commercial avec les constructeurs",

@@ -7,7 +7,8 @@
       "de": "SYSTEMARCHITEKTUR",
       "ar": "هندسة الأنظمة",
       "ru": "АРХИТЕКТУРА СИСТЕМ",
-      "it": "ARCHITETTURA DI SISTEMA"
+      "it": "ARCHITETTURA DI SISTEMA",
+      "zh": "系统架构"
     },
     "data.title": {
       "source": "Du cahier des charges à la spécification d'architecture : périmètre et livrables",
@@ -15,7 +16,8 @@
       "de": "Vom Lastenheft zur Architekturspezifikation: Umfang und Ergebnisse",
       "ar": "من دفتر الشروط إلى مواصفات الهندسة: النطاق والمخرجات",
       "ru": "От технического задания до спецификации архитектуры: область применения и результаты",
-      "it": "Dal capitolato tecnico alla specifica di architettura: perimetro e deliverable"
+      "it": "Dal capitolato tecnico alla specifica di architettura: perimetro e deliverable",
+      "zh": "从需求规格书到架构规范：范围与交付物"
     },
     "data.conclusion": {
       "source": "Résultat : un document de référence qui engage les bons choix dès le départ, permet d'objectiver les comparaisons entre solutions et protège vos équipes contre la dépendance fournisseur.",
@@ -23,7 +25,8 @@
       "de": "Ergebnis: Ein Referenzdokument, das von Beginn an die richtigen Entscheidungen sicherstellt, objektive Vergleiche zwischen Lösungen ermöglicht und Ihre Teams vor der Abhängigkeit von einzelnen Lieferanten schützt.",
       "ar": "النتيجة: وثيقة مرجعية تضمن اتخاذ الخيارات الصحيحة منذ البداية، وتسمح بمقارنة موضوعية بين الحلول، وتحمي فرقكم من التبعية للموردين.",
       "ru": "Результат: базовый документ, который обеспечивает правильный выбор решений с самого начала, позволяет объективно сравнивать варианты и защищает ваши команды от зависимости от одного поставщика.",
-      "it": "Risultato: un documento di riferimento che garantisce le scelte corrette fin dall'inizio, permette di oggettivare i confronti tra le soluzioni e protegge i vostri team dal lock-in del fornitore."
+      "it": "Risultato: un documento di riferimento che garantisce le scelte corrette fin dall'inizio, permette di oggettivare i confronti tra le soluzioni e protegge i vostri team dal lock-in del fornitore.",
+      "zh": "结果：一份参考文档，确保从一开始就做出正确选择，使不同方案之间的比较客观化，并保护您的团队免受供应商依赖的影响。"
     },
     "data.image.alt": {
       "source": "Architecture systèmes de contrôle-commande — spécification technique AUTEM",
@@ -31,7 +34,8 @@
       "de": "Architektur von Steuerungs- und Leitsystemen – technische Spezifikation von AUTEM",
       "ar": "هندسة أنظمة التحكم والقيادة - المواصفات التقنية لشركة AUTEM",
       "ru": "Архитектура систем управления и контроля — техническая спецификация AUTEM",
-      "it": "Architettura sistemi di controllo-comando — specifica tecnica AUTEM"
+      "it": "Architettura sistemi di controllo-comando — specifica tecnica AUTEM",
+      "zh": "控制系统架构 — AUTEM 技术规范"
     },
     "data.paragraphs[@Nqw0xc].text": {
       "source": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée.",

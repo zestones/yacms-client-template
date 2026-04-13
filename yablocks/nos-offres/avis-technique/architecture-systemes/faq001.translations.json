@@ -7,7 +7,8 @@
       "de": "FAQ",
       "ar": "الأسئلة الشائعة",
       "ru": "FAQ",
-      "it": "FAQ"
+      "it": "FAQ",
+      "zh": "常见问题"
     },
     "data.title": {
       "source": "Questions fréquentes sur la définition d'architecture de systèmes industriels",
@@ -15,7 +16,8 @@
       "de": "Häufig gestellte Fragen zur Definition der industriellen Systemarchitektur",
       "ar": "أسئلة شائعة حول تعريف بنية الأنظمة الصناعية",
       "ru": "Часто задаваемые вопросы о проектировании архитектуры промышленных систем",
-      "it": "Domande frequenti sulla definizione dell'architettura di sistemi industriali"
+      "it": "Domande frequenti sulla definizione dell'architettura di sistemi industriali",
+      "zh": "关于工业系统架构定义的常见问题"
     },
     "data.items[@OqFEYN].question": {
       "source": "À quel moment faire appel à un expert en architecture ?",
