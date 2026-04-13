@@ -22,27 +22,32 @@
     "data.logos[@Ws6m9L].alt": {
       "source": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles",
       "de": "Thalys — AMOA Verkaufsautomaten, IoT-Telemetrie, Brüssel",
-      "ar": "Thalys — AMOA لآلات البيع الذاتي، القياس عن بعد IoT، بروكسل"
+      "ar": "Thalys — AMOA لآلات البيع الذاتي، القياس عن بعد IoT، بروكسل",
+      "zh": "Thalys — 自动售货机 AMOA, IoT 遥测, 布鲁塞尔"
     },
     "data.logos[@eRr6JZ].alt": {
       "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris",
       "de": "Amazon — WCS/WMS Automatisierung mechanisierter Lager, Paris",
-      "ar": "Amazon — أتمتة WCS/WMS للمستودعات الميكانيكية، باريس"
+      "ar": "Amazon — أتمتة WCS/WMS للمستودعات الميكانيكية، باريس",
+      "zh": "Amazon — 机械化仓库自动化 WCS/WMS, 巴黎"
     },
     "data.logos[@Bs3hu5].alt": {
       "source": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes",
       "de": "SEE/SFTRF — Überwachung von Straßen- und Schienennetzen Rhône-Alpes",
-      "ar": "SEE/SFTRF — الإشراف على الشبكة الطرقية والسككية في منطقة Rhône-Alpes"
+      "ar": "SEE/SFTRF — الإشراف على الشبكة الطرقية والسككية في منطقة Rhône-Alpes",
+      "zh": "SEE/SFTRF — 罗讷-阿尔卑斯地区铁路公路网络监控"
     },
     "data.logos[@VtrH9O].alt": {
       "source": "Hermès — architecture et assistance systèmes industriels",
       "de": "Hermès — Architektur und Unterstützung industrieller Systeme",
-      "ar": "Hermès — هندسة ودعم الأنظمة الصناعية"
+      "ar": "Hermès — هندسة ودعم الأنظمة الصناعية",
+      "zh": "Hermès — 工业系统架构与支持"
     },
     "data.logos[@eG9Baw].alt": {
       "source": "Seckiot — cybersécurité IoT systèmes industriels",
       "de": "Seckiot — IoT-Cybersicherheit für industrielle Systeme",
-      "ar": "Seckiot — الأمن السيبراني لـ IoT في الأنظمة الصناعية"
+      "ar": "Seckiot — الأمن السيبراني لـ IoT في الأنظمة الصناعية",
+      "zh": "Seckiot — 工业系统 IoT 网络安全"
     }
   }
 }
