@@ -3,11 +3,13 @@
   "fields": {
     "data.overtitle": {
       "source": "NOTRE MÉTHODE",
-      "de": "UNSERE METHODE"
+      "de": "UNSERE METHODE",
+      "ar": "منهجيتنا"
     },
     "data.title": {
       "source": "De l'inventaire du parc à la feuille de route pluriannuelle : 4 étapes",
-      "de": "Vom Anlageninventar zur mehrjährigen Roadmap: 4 Schritte"
+      "de": "Vom Anlageninventar zur mehrjährigen Roadmap: 4 Schritte",
+      "ar": "من جرد الأجهزة إلى خارطة طريق متعددة السنوات: 4 خطوات"
     }
   }
 }

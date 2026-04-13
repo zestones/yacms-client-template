@@ -3,19 +3,23 @@
   "fields": {
     "data.backgroundImage.alt": {
       "source": "Audit cycle de vie équipements industriels — AUTEM",
-      "de": "Lebenszyklus-Audit für Industrieanlagen — AUTEM"
+      "de": "Lebenszyklus-Audit für Industrieanlagen — AUTEM",
+      "ar": "تدقيق دورة حياة المعدات الصناعية — AUTEM"
     },
     "data.quote": {
       "source": "La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc.",
-      "de": "Die Programmierung ist präzise, die Dokumentation einwandfrei und die Inbetriebnahme verlief reibungslos."
+      "de": "Die Programmierung ist präzise, die Dokumentation einwandfrei und die Inbetriebnahme verlief reibungslos.",
+      "ar": "البرمجة دقيقة، والتوثيق لا تشوبه شائبة، وعملية التشغيل تمت دون أي عوائق."
     },
     "data.author.name": {
       "source": "Responsable Technique",
-      "de": "Technischer Leiter"
+      "de": "Technischer Leiter",
+      "ar": "المسؤول التقني"
     },
     "data.author.role": {
       "source": "BEMA — Grenoble",
-      "de": "BEMA — Grenoble"
+      "de": "BEMA — Grenoble",
+      "ar": "BEMA — غرينوبل"
     }
   }
 }

@@ -3,11 +3,13 @@
   "fields": {
     "data.sectionLabel": {
       "source": "FAQ",
-      "de": "FAQ"
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة"
     },
     "data.title": {
       "source": "Questions fréquentes sur l'assistance à la maîtrise d'ouvrage technique",
-      "de": "Häufig gestellte Fragen zur technischen Projektsteuerung"
+      "de": "Häufig gestellte Fragen zur technischen Projektsteuerung",
+      "ar": "أسئلة شائعة حول المساعدة في إدارة المشاريع التقنية"
     }
   }
 }

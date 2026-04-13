@@ -3,11 +3,13 @@
   "fields": {
     "data.overtitle": {
       "source": "NOTRE MÉTHODE",
-      "de": "UNSERE METHODE"
+      "de": "UNSERE METHODE",
+      "ar": "منهجيتنا"
     },
     "data.title": {
       "source": "De l'expression du besoin à la réception technique : 6 étapes",
-      "de": "Vom Bedarfsanalyse bis zur technischen Abnahme: 6 Schritte"
+      "de": "Vom Bedarfsanalyse bis zur technischen Abnahme: 6 Schritte",
+      "ar": "من تحديد الاحتياجات إلى الاستلام الفني: 6 خطوات"
     }
   }
 }

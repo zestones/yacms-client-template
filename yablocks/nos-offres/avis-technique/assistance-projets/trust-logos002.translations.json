@@ -3,11 +3,13 @@
   "fields": {
     "data.title": {
       "source": "Ils nous ont confié l'assistance technique de leurs projets stratégiques",
-      "de": "Sie haben uns die technische Unterstützung ihrer strategischen Projekte anvertraut"
+      "de": "Sie haben uns die technische Unterstützung ihrer strategischen Projekte anvertraut",
+      "ar": "لقد وضعوا ثقتهم بنا لتقديم الدعم الفني لمشاريعهم الاستراتيجية"
     },
     "data.subtitle": {
       "source": "Indépendant, multimarque, expérience terrain — de la spec à la réception",
-      "de": "Unabhängig, markenübergreifend, Praxiserfahrung — von der Spezifikation bis zur Abnahme"
+      "de": "Unabhängig, markenübergreifend, Praxiserfahrung — von der Spezifikation bis zur Abnahme",
+      "ar": "مستقلون، متعددو العلامات التجارية، وخبرة ميدانية — من المواصفات إلى الاستلام"
     }
   }
 }

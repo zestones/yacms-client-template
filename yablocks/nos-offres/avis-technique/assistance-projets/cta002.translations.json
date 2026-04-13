@@ -3,11 +3,13 @@
   "fields": {
     "data.title": {
       "source": "Vous avez un projet d'automatisme ou de digitalisation à piloter ?",
-      "de": "Haben Sie ein Automatisierungs- oder Digitalisierungsprojekt zu steuern?"
+      "de": "Haben Sie ein Automatisierungs- oder Digitalisierungsprojekt zu steuern?",
+      "ar": "هل لديك مشروع أتمتة أو تحول رقمي ترغب في إدارته؟"
     },
     "data.cta.text": {
       "source": "Discuter de votre projet",
-      "de": "Über Ihr Projekt sprechen"
+      "de": "Über Ihr Projekt sprechen",
+      "ar": "ناقش مشروعك معنا"
     }
   }
 }

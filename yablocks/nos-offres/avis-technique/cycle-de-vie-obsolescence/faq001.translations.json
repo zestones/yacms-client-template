@@ -3,11 +3,13 @@
   "fields": {
     "data.sectionLabel": {
       "source": "FAQ",
-      "de": "FAQ"
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة"
     },
     "data.title": {
       "source": "Questions fréquentes sur la gestion de l'obsolescence industrielle",
-      "de": "Häufig gestellte Fragen zum Management industrieller Obsoleszenz"
+      "de": "Häufig gestellte Fragen zum Management industrieller Obsoleszenz",
+      "ar": "أسئلة شائعة حول إدارة التقادم الصناعي"
     }
   }
 }

@@ -3,19 +3,23 @@
   "fields": {
     "data.backgroundImage.alt": {
       "source": "Références projets AUTEM — assistance technique industrielle",
-      "de": "AUTEM Projektreferenzen — industrielle technische Unterstützung"
+      "de": "AUTEM Projektreferenzen — industrielle technische Unterstützung",
+      "ar": "مراجع مشاريع AUTEM — الدعم الفني الصناعي"
     },
     "data.quote": {
       "source": "AUTEM a joué un rôle clé dans la structuration technique de notre projet. Leur capacité à traduire nos besoins opérationnels en exigences précises pour l'intégrateur nous a évité bien des incompréhensions en cours de chantier.",
-      "de": "AUTEM hat eine Schlüsselrolle bei der technischen Strukturierung unseres Projekts gespielt. Ihre Fähigkeit, unsere betrieblichen Anforderungen in präzise Vorgaben für den Integrator zu übersetzen, hat uns viele Missverständnisse während der Bauphase erspart."
+      "de": "AUTEM hat eine Schlüsselrolle bei der technischen Strukturierung unseres Projekts gespielt. Ihre Fähigkeit, unsere betrieblichen Anforderungen in präzise Vorgaben für den Integrator zu übersetzen, hat uns viele Missverständnisse während der Bauphase erspart.",
+      "ar": "لعبت AUTEM دوراً رئيسياً في الهيكلة الفنية لمشروعنا. إن قدرتهم على ترجمة احتياجاتنا التشغيلية إلى متطلبات دقيقة للمكامل (integrator) جنبتنا الكثير من سوء الفهم أثناء تنفيذ المشروع."
     },
     "data.author.name": {
       "source": "Responsable Infrastructure & Systèmes",
-      "de": "Leiter Infrastruktur & Systeme"
+      "de": "Leiter Infrastruktur & Systeme",
+      "ar": "مسؤول البنية التحتية والأنظمة"
     },
     "data.author.role": {
       "source": "Thalys — Bruxelles",
-      "de": "Thalys — Brüssel"
+      "de": "Thalys — Brüssel",
+      "ar": "Thalys — بروكسل"
     }
   }
 }
