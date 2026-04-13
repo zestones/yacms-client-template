@@ -18,6 +18,34 @@
       "ru": "План по борьбе с устареванием, разработанный в этом году, — это целевой бюджет на 3 года и руководство, которое управляет инвестициями, а не просто реагирует на поломки.",
       "en": "An obsolescence plan built this year means a target budget over 3 years—and a management team that steers investments rather than suffering from breakdowns.",
       "it": "Un piano di obsolescenza costruito quest'anno significa un budget obiettivo su 3 anni — e una direzione che guida gli investimenti piuttosto che subire i guasti."
+    },
+    "data.badges[@OXDdAR].alt": {
+      "source": "Siemens — S7-300, S7-400, fin de support 2023",
+      "de": "Siemens — S7-300, S7-400, Supportende 2023"
+    },
+    "data.badges[@yzulw3].alt": {
+      "source": "Rockwell Allen-Bradley — PLC5, SLC500, fin de vie",
+      "de": "Rockwell Allen-Bradley — PLC5, SLC500, End-of-Life"
+    },
+    "data.badges[@amhgjh].alt": {
+      "source": "Schneider Electric — TSX, Quantum, Modicon fin de support",
+      "de": "Schneider Electric — TSX, Quantum, Modicon Supportende"
+    },
+    "data.paragraphs[@SFSSdw].text": {
+      "source": "Un automate S7-300 en fin de support depuis 2023, une carte électronique introuvable chez tous les distributeurs, un PC industriel sous Windows XP sans solution de remplacement identifiée — les signaux d'alerte sont là. La vraie question n'est pas si la panne arrivera, mais quand. Et si votre équipe aura le matériel et le plan pour y répondre en quelques heures plutôt qu'en quelques semaines.",
+      "de": "Eine S7-300 SPS, deren Support seit 2023 eingestellt wurde, eine elektronische Baugruppe, die bei keinem Händler mehr zu finden ist, ein Industrie-PC unter Windows XP ohne identifizierte Ersatzlösung — die Warnsignale sind deutlich. Die eigentliche Frage ist nicht, ob der Ausfall passieren wird, sondern wann. Und ob Ihr Team über die Hardware und den Plan verfügt, um innerhalb weniger Stunden statt mehrerer Wochen darauf zu reagieren."
+    },
+    "data.paragraphs[@rsddH4].text": {
+      "source": "La gestion de l'obsolescence est souvent différée. L'atelier tourne, les budgets sont sous pression, et changer un équipement qui fonctionne semble injustifiable. Jusqu'au jour où le fournisseur annonce 8 semaines de délai sur une carte de rechange, ou pire — l'arrêt définitif de la pièce. À ce moment, toute urgence a un coût : arrêt de ligne, stock de sécurité épuisé, production dégradée.",
+      "de": "Das Obsoleszenzmanagement wird oft aufgeschoben. Die Werkstatt läuft, die Budgets stehen unter Druck, und der Austausch einer funktionierenden Anlage scheint nicht zu rechtfertigen. Bis zu dem Tag, an dem der Lieferant eine Lieferzeit von 8 Wochen für eine Ersatzkarte ankündigt oder, schlimmer noch, die endgültige Einstellung des Teils. In diesem Moment hat jeder Notfall seinen Preis: Bandstillstand, erschöpfte Sicherheitsbestände, beeinträchtigte Produktion."
+    },
+    "data.paragraphs[@ejHOu0].text": {
+      "source": "Une cartographie d'obsolescence structurée permet d'objectiver la situation : quels équipements sont en fin de support ? Quels fabricants ont annoncé des dates d'arrêt ? Quels composants n'ont plus de stock ? Quelle est la criticité de chaque équipement sur la continuité de production ? Avec ces données, les décisions d'investissement deviennent traçables et défendables en CODIR.",
+      "de": "Eine strukturierte Obsoleszenz-Kartierung ermöglicht es, die Situation objektiv zu bewerten: Welche Anlagen haben keinen Support mehr? Welche Hersteller haben Enddaten angekündigt? Welche Komponenten sind nicht mehr vorrätig? Wie kritisch ist jede Anlage für die Produktionskontinuität? Mit diesen Daten werden Investitionsentscheidungen nachvollziehbar und gegenüber der Geschäftsführung vertretbar."
+    },
+    "data.paragraphs[@PPaOt8].text": {
+      "source": "AUTEM réalise ces audits et établit les plans de renouvellement associés — en tenant compte de vos contraintes budgétaires, de votre calendrier de maintenance et des opportunités de modernisation que représente chaque remplacement.",
+      "de": "AUTEM führt diese Audits durch und erstellt die zugehörigen Erneuerungspläne — unter Berücksichtigung Ihrer Budgetbeschränkungen, Ihres Wartungskalenders und der Modernisierungsmöglichkeiten, die jeder Austausch bietet."
     }
   }
 }

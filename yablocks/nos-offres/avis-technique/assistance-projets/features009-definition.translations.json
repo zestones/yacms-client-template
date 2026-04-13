@@ -36,6 +36,34 @@
       "ru": "Техническое сопровождение (AMOA) проекта промышленной автоматизации — AUTEM",
       "en": "Industrial automation project PMO support — AUTEM",
       "it": "Assistenza MOA progetto automazione industriale — AUTEM"
+    },
+    "data.paragraphs[@fwgGmi].text": {
+      "source": "L'assistance à maîtrise d'ouvrage (AMOA) technique en automatisme couvre tout le cycle d'un projet industriel du côté du client : de la définition des besoins jusqu'à la réception du système. AUTEM joue le rôle de traducteur entre vos enjeux opérationnels et les exigences techniques des intégrateurs.",
+      "de": "Die technische Projektbegleitung (AMOA) in der Automatisierung deckt den gesamten Zyklus eines Industrieprojekts auf Kundenseite ab: von der Bedarfsdefinition bis zur Systemabnahme. AUTEM fungiert als Übersetzer zwischen Ihren betrieblichen Herausforderungen und den technischen Anforderungen der Integratoren."
+    },
+    "data.highlights[@ygrekM].text": {
+      "source": "Rédaction du cahier des charges technique et fonctionnel pour appels d'offres",
+      "de": "Erstellung des technischen und funktionalen Lastenhefts für Ausschreibungen"
+    },
+    "data.highlights[@dTaD74].text": {
+      "source": "Analyse comparative des offres intégrateurs et recommandations objectives",
+      "de": "Vergleichende Analyse der Integratoren-Angebote und objektive Empfehlungen"
+    },
+    "data.highlights[@jAjT9a].text": {
+      "source": "Suivi de conception : revues techniques, validation des plans, commentaires documentaires",
+      "de": "Konzeptionsbegleitung: technische Reviews, Validierung von Plänen, Dokumentationskommentare"
+    },
+    "data.highlights[@qdS5xB].text": {
+      "source": "Préparation et conduite des tests d'acceptation (FAT en atelier intégrateur, SAT sur site client)",
+      "de": "Vorbereitung und Durchführung von Abnahmetests (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort)"
+    },
+    "data.highlights[@Is3UMW].text": {
+      "source": "Réception technique et constitution du dossier de fin d'affaire (DOE, manuels, programmes)",
+      "de": "Technische Abnahme und Erstellung der Projektabschlussdokumentation (DOE, Handbücher, Programme)"
+    },
+    "data.highlights[@bebf1L].text": {
+      "source": "Coordination entre les expertises : automaticien, électricien, informatique industrielle, process",
+      "de": "Koordination zwischen den Fachbereichen: Automatisierung, Elektrik, industrielle Informatik, Prozess"
     }
   }
 }

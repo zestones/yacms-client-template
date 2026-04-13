@@ -18,6 +18,54 @@
       "ru": "От формулирования потребностей до технической приемки: 6 этапов",
       "en": "From requirement definition to technical acceptance: 6 steps",
       "it": "Dall'espressione del bisogno alla ricezione tecnica: 6 fasi"
+    },
+    "data.steps[@y4DovU].title": {
+      "source": "Expression du besoin & cadrage",
+      "de": "Bedarfsanalyse & Rahmensetzung"
+    },
+    "data.steps[@hYDoDP].title": {
+      "source": "Rédaction du cahier des charges",
+      "de": "Erstellung des Lastenhefts"
+    },
+    "data.steps[@JDDnT4].title": {
+      "source": "Sélection de l'intégrateur",
+      "de": "Auswahl des Integrators"
+    },
+    "data.steps[@evZeAd].title": {
+      "source": "Suivi de conception & revues",
+      "de": "Konzeptionsbegleitung & Reviews"
+    },
+    "data.steps[@kTIKbN].title": {
+      "source": "FAT & SAT — tests d'acceptation",
+      "de": "FAT & SAT — Abnahmetests"
+    },
+    "data.steps[@iRs8Ca].title": {
+      "source": "Réception & documentation finale",
+      "de": "Abnahme & finale Dokumentation"
+    },
+    "data.steps[@y4DovU].description": {
+      "source": "Interviews des équipes terrain, opérateurs, maintenance et direction pour capturer les enjeux réels — pas seulement les exigences formelles. Rédaction d'un document de cadrage partagé comme base du projet.",
+      "de": "Interviews mit Teams vor Ort, Bedienern, Instandhaltung und Geschäftsführung, um die realen Herausforderungen zu erfassen — nicht nur die formalen Anforderungen. Erstellung eines gemeinsamen Rahmendokuments als Projektbasis."
+    },
+    "data.steps[@hYDoDP].description": {
+      "source": "Formalisation des exigences fonctionnelles, techniques, de performance, de cybersécurité et de maintenabilité. Structure adaptée à un appel d'offres ou une consultation directe intégrateur.",
+      "de": "Formalisierung der funktionalen, technischen, Performance-, Cybersicherheits- und Wartbarkeitsanforderungen. Struktur, die für eine Ausschreibung oder eine direkte Anfrage an den Integrator geeignet ist."
+    },
+    "data.steps[@JDDnT4].description": {
+      "source": "Analyse comparative des offres reçues : évaluation technique, cohérence avec les specs, expérience du candidat, qualité documentaire proposée, risques projet. Synthèse et recommandation objective.",
+      "de": "Vergleichende Analyse der eingegangenen Angebote: technische Bewertung, Konsistenz mit den Spezifikationen, Erfahrung des Bewerbers, Qualität der vorgeschlagenen Dokumentation, Projektrisiken. Zusammenfassung und objektive Empfehlung."
+    },
+    "data.steps[@evZeAd].description": {
+      "source": "Participation aux revues de conception, validation des plans électriques et des choix d'architecture, gestion des demandes de modification, traçabilité des décisions techniques tout au long du projet.",
+      "de": "Teilnahme an Konzeptionsreviews, Validierung von Elektroplänen und Architekturentscheidungen, Verwaltung von Änderungsanfragen, Rückverfolgbarkeit technischer Entscheidungen während des gesamten Projekts."
+    },
+    "data.steps[@kTIKbN].description": {
+      "source": "Préparation des protocoles de tests (FAT en atelier intégrateur, SAT sur site client), conduite des recettes, gestion des réserves et validation formelle de la mise en service.",
+      "de": "Erstellung von Testprotokollen (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort), Durchführung der Abnahmen, Verwaltung von Mängellisten und formelle Validierung der Inbetriebnahme."
+    },
+    "data.steps[@iRs8Ca].description": {
+      "source": "Constitution du Dossier des Ouvrages Exécutés (DOE), vérification de la complétude documentaire (manuels, programmes commentés, schémas as-built), formation des équipes internes.",
+      "de": "Erstellung der Projektabschlussdokumentation (DOE), Überprüfung der Dokumentationsvollständigkeit (Handbücher, kommentierte Programme, As-Built-Pläne), Schulung der internen Teams."
     }
   }
 }

@@ -18,6 +18,26 @@
       "ru": "Независимость, мультибрендовость, практический опыт — от спецификации до приемки",
       "en": "Independent, multi-brand, field experience — from specification to acceptance",
       "it": "Indipendente, multimarca, esperienza sul campo — dalla specifica alla ricezione"
+    },
+    "data.logos[@Ws6m9L].alt": {
+      "source": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles",
+      "de": "Thalys — AMOA Verkaufsautomaten, IoT-Telemetrie, Brüssel"
+    },
+    "data.logos[@eRr6JZ].alt": {
+      "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris",
+      "de": "Amazon — WCS/WMS Automatisierung mechanisierter Lager, Paris"
+    },
+    "data.logos[@Bs3hu5].alt": {
+      "source": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes",
+      "de": "SEE/SFTRF — Überwachung von Straßen- und Schienennetzen Rhône-Alpes"
+    },
+    "data.logos[@VtrH9O].alt": {
+      "source": "Hermès — architecture et assistance systèmes industriels",
+      "de": "Hermès — Architektur und Unterstützung industrieller Systeme"
+    },
+    "data.logos[@eG9Baw].alt": {
+      "source": "Seckiot — cybersécurité IoT systèmes industriels",
+      "de": "Seckiot — IoT-Cybersicherheit für industrielle Systeme"
     }
   }
 }

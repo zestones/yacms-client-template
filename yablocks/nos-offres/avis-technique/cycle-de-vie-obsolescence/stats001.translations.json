@@ -1,0 +1,53 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.stats[@ONj627].value": {
+      "source": "10",
+      "de": "10"
+    },
+    "data.stats[@W7tZlN].value": {
+      "source": "6",
+      "de": "6"
+    },
+    "data.stats[@IzHT8l].value": {
+      "source": "15",
+      "de": "15"
+    },
+    "data.stats[@HxGkaC].value": {
+      "source": "100",
+      "de": "100"
+    },
+    "data.stats[@ONj627].label": {
+      "source": "Années d'expérience sur les équipements Siemens, Rockwell, Schneider — y compris leurs gammes en fin de support",
+      "de": "Jahre Erfahrung mit Siemens-, Rockwell- und Schneider-Equipment – einschließlich ihrer Support-End-Serien"
+    },
+    "data.stats[@W7tZlN].label": {
+      "source": "Marques d'automates maîtrisées dont les générations obsolètes (S7-300, PLC5, TSX, Quantum)",
+      "de": "Beherrschte SPS-Marken, einschließlich veralteter Generationen (S7-300, PLC5, TSX, Quantum)"
+    },
+    "data.stats[@IzHT8l].label": {
+      "source": "Clients dont nous avons audité ou rénové le parc d'équipements industriels",
+      "de": "Kunden, deren industrielle Anlagen wir auditiert oder modernisiert haben"
+    },
+    "data.stats[@HxGkaC].label": {
+      "source": "Des audits livrés avec rapport exécutif, plan de renouvellement et budget estimatif",
+      "de": "Audits mit Executive Summary, Erneuerungsplan und Kostenvoranschlag geliefert"
+    },
+    "data.stats[@ONj627].suffix": {
+      "source": "+",
+      "de": "+"
+    },
+    "data.stats[@W7tZlN].suffix": {
+      "source": "+",
+      "de": "+"
+    },
+    "data.stats[@IzHT8l].suffix": {
+      "source": "+",
+      "de": "+"
+    },
+    "data.stats[@HxGkaC].suffix": {
+      "source": "%",
+      "de": "%"
+    }
+  }
+}
