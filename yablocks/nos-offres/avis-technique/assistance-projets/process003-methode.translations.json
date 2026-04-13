@@ -6,14 +6,16 @@
       "de": "UNSERE METHODE",
       "ar": "منهجيتنا",
       "zh": "我们的方法",
-      "ru": "НАШ МЕТОД"
+      "ru": "НАШ МЕТОД",
+      "en": "OUR METHOD"
     },
     "data.title": {
       "source": "De l'expression du besoin à la réception technique : 6 étapes",
       "de": "Vom Bedarfsanalyse bis zur technischen Abnahme: 6 Schritte",
       "ar": "من تحديد الاحتياجات إلى الاستلام الفني: 6 خطوات",
       "zh": "从需求表达至技术验收：6 个步骤",
-      "ru": "От формулирования потребностей до технической приемки: 6 этапов"
+      "ru": "От формулирования потребностей до технической приемки: 6 этапов",
+      "en": "From requirement definition to technical acceptance: 6 steps"
     }
   }
 }

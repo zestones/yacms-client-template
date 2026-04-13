@@ -6,28 +6,32 @@
       "de": "WARUM AUTEM",
       "ar": "لماذا AUTEM",
       "zh": "为什么选择 AUTEM",
-      "ru": "ПОЧЕМУ AUTEM"
+      "ru": "ПОЧЕМУ AUTEM",
+      "en": "WHY AUTEM"
     },
     "data.title": {
       "source": "Un expert qui connaît les équipements de l'intérieur — pas juste les références catalogue.",
       "de": "Ein Experte, der die Anlagen von innen kennt — nicht nur die Katalogreferenzen.",
       "ar": "خبير يعرف المعدات من الداخل — وليس مجرد مراجع الكتالوجات.",
       "zh": "深谙设备内部结构的专家 — 而不仅仅是熟悉目录参考。",
-      "ru": "Эксперт, который знает оборудование изнутри, а не только по каталогам"
+      "ru": "Эксперт, который знает оборудование изнутри, а не только по каталогам",
+      "en": "An expert who knows equipment from the inside — not just catalog references."
     },
     "data.conclusion": {
       "source": "Nos recommandations sont construites sur ce qu'on a vu tomber en panne, pas sur ce qu'un éditeur demande de vendre. L'objectif est votre continuité de production.",
       "de": "Unsere Empfehlungen basieren auf dem, was wir in der Praxis als defekt erlebt haben, nicht auf dem, was ein Hersteller verkaufen möchte. Ziel ist Ihre Produktionskontinuität.",
       "ar": "توصياتنا مبنية على ما رأيناه يتعطل فعلياً، وليس على ما يطلب الناشر بيعه. الهدف هو ضمان استمرارية إنتاجكم.",
       "zh": "我们的建议基于实际故障经验，而非供应商的销售需求。我们的目标是确保您的生产连续性。",
-      "ru": "Наши рекомендации основаны на том, что реально выходило из строя, а не на том, что вендор хочет продать. Наша цель — непрерывность вашего производства"
+      "ru": "Наши рекомендации основаны на том, что реально выходило из строя, а не на том, что вендор хочет продать. Наша цель — непрерывность вашего производства",
+      "en": "Our recommendations are based on what we've seen fail, not on what a vendor wants to sell. The goal is your production continuity."
     },
     "data.image.alt": {
       "source": "Expert AUTEM — audit obsolescence équipements industriels",
       "de": "AUTEM-Experte — Obsoleszenz-Audit für Industrieanlagen",
       "ar": "خبير AUTEM — تدقيق تقادم المعدات الصناعية",
       "zh": "AUTEM 专家 — 工业设备陈旧化审计",
-      "ru": "Эксперт AUTEM — аудит устаревания промышленного оборудования"
+      "ru": "Эксперт AUTEM — аудит устаревания промышленного оборудования",
+      "en": "AUTEM Expert — industrial equipment obsolescence audit"
     }
   }
 }

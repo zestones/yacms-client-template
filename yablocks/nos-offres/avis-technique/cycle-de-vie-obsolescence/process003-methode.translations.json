@@ -6,14 +6,16 @@
       "de": "UNSERE METHODE",
       "ar": "منهجيتنا",
       "zh": "我们的方法",
-      "ru": "НАШ МЕТОД"
+      "ru": "НАШ МЕТОД",
+      "en": "OUR METHOD"
     },
     "data.title": {
       "source": "De l'inventaire du parc à la feuille de route pluriannuelle : 4 étapes",
       "de": "Vom Anlageninventar zur mehrjährigen Roadmap: 4 Schritte",
       "ar": "من جرد الأجهزة إلى خارطة طريق متعددة السنوات: 4 خطوات",
       "zh": "从资产盘点到多年路线图：4 个步骤",
-      "ru": "От инвентаризации парка до многолетнего плана: 4 этапа"
+      "ru": "От инвентаризации парка до многолетнего плана: 4 этапа",
+      "en": "From Fleet Inventory to Multi-Year Roadmap: 4 Steps"
     }
   }
 }
