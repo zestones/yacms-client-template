@@ -29,6 +29,11 @@
       {
         "icon": "align-center-horizontal",
         "text": "accompagnement personalisé"
+      },
+      {
+        "icon": "align-center-vertical",
+        "text": "approche personalisé",
+        "_tid": "tlfIcE"
       }
     ],
     "cta": {
