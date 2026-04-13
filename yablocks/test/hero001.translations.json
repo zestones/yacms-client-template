@@ -3,27 +3,33 @@
   "fields": {
     "data.badge": {
       "source": "Super site web",
-      "de": "Super Website"
+      "de": "Super Website",
+      "ar": "موقع إلكتروني رائع"
     },
     "data.title": {
       "source": "Nous vendons de tous ici",
-      "de": "Wir verkaufen hier alles"
+      "de": "Wir verkaufen hier alles",
+      "ar": "نحن نبيع كل شيء هنا"
     },
     "data.titleHighlight": {
       "source": "",
-      "de": ""
+      "de": "",
+      "ar": ""
     },
     "data.subtitle": {
       "source": "",
-      "de": ""
+      "de": "",
+      "ar": ""
     },
     "data.cta.primary.text": {
       "source": "",
-      "de": ""
+      "de": "",
+      "ar": ""
     },
     "data.trustBadges[@9hm77l].text": {
       "source": "",
-      "de": ""
+      "de": "",
+      "ar": ""
     }
   }
 }
