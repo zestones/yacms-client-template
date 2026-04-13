@@ -7,7 +7,8 @@
       "ar": "هل لديك مشروع أتمتة أو تحول رقمي ترغب في إدارته؟",
       "zh": "您是否有自动化或数字化项目需要管理？",
       "ru": "У вас есть проект по автоматизации или цифровизации, которым нужно управлять?",
-      "en": "Do you have an automation or digitalization project to manage?"
+      "en": "Do you have an automation or digitalization project to manage?",
+      "it": "Avete un progetto di automazione o digitalizzazione da gestire?"
     },
     "data.cta.text": {
       "source": "Discuter de votre projet",
@@ -15,7 +16,8 @@
       "ar": "ناقش مشروعك معنا",
       "zh": "讨论您的项目",
       "ru": "Обсудить ваш проект",
-      "en": "Discuss your project"
+      "en": "Discuss your project",
+      "it": "Discuti il tuo progetto"
     }
   }
 }

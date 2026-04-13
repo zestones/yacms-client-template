@@ -7,7 +7,8 @@
       "ar": "متوافق مع جميع المعدات — من الأجيال الأقدم إلى الأحدث",
       "zh": "兼容所有设备 — 从最旧一代到最新一代",
       "ru": "Совместимо со всем оборудованием — от самых старых поколений до новейших",
-      "en": "Compatible with all equipment — from the oldest generations to the most recent"
+      "en": "Compatible with all equipment — from the oldest generations to the most recent",
+      "it": "Compatibile con tutte le apparecchiature — dalle generazioni più vecchie alle più recenti"
     },
     "data.subtitle": {
       "source": "Nous connaissons les équipements anciens comme les modèles récents, et leur cycle de vie réel",
@@ -15,7 +16,8 @@
       "ar": "نحن نعرف المعدات القديمة كما نعرف الموديلات الحديثة، ودورة حياتها الفعلية",
       "zh": "我们熟悉旧设备以及最新型号及其真实的生命周期",
       "ru": "Мы знаем как старое оборудование, так и современные модели, а также их реальный жизненный цикл",
-      "en": "We are familiar with both legacy equipment and modern models, as well as their actual life cycles"
+      "en": "We are familiar with both legacy equipment and modern models, as well as their actual life cycles",
+      "it": "Conosciamo le apparecchiature datate così come i modelli recenti e il loro reale ciclo di vita"
     }
   }
 }

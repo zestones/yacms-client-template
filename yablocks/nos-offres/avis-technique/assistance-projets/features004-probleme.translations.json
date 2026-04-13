@@ -7,7 +7,8 @@
       "ar": "عندما يتم إدارة المشروع الصناعي بشكل سيئ من جانب العميل، فإن شركة التكامل هي التي تتخذ جميع القرارات الفنية بدلاً منك.",
       "zh": "如果客户方的工业项目管理不善，集成商将代替您做出所有技术决策。",
       "ru": "Если промышленный проект плохо управляется со стороны заказчика, интегратор принимает все технические решения за вас.",
-      "en": "An industrial project poorly managed on the client side means an integrator taking all the technical decisions for you."
+      "en": "An industrial project poorly managed on the client side means an integrator taking all the technical decisions for you.",
+      "it": "Un progetto industriale gestito male dal lato cliente, significa che l'integratore prenderà tutte le decisioni tecniche al vostro posto."
     },
     "data.closing": {
       "source": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement.",
@@ -15,7 +16,8 @@
       "ar": "يعمل مكامل النظام (integrator) بشكل أفضل عندما يعرف العميل ما يريده — ويكون قادراً على الدفاع عن ذلك فنياً.",
       "zh": "当您的客户明确知道自己的需求并能在技术上予以维护时，您的集成商的工作效率会更高。",
       "ru": "Ваш интегратор работает эффективнее, когда заказчик точно знает, чего хочет, и может технически обосновать свои требования.",
-      "en": "Your integrator works better when your client knows what they want — and can defend it technically."
+      "en": "Your integrator works better when your client knows what they want — and can defend it technically.",
+      "it": "Il vostro integratore lavora meglio quando il vostro cliente sa cosa vuole — e può sostenerlo tecnicamente."
     }
   }
 }

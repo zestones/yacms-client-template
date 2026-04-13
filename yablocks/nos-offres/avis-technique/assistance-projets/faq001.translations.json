@@ -7,7 +7,8 @@
       "ar": "الأسئلة الشائعة",
       "zh": "常见问题",
       "ru": "FAQ",
-      "en": "FAQ"
+      "en": "FAQ",
+      "it": "FAQ"
     },
     "data.title": {
       "source": "Questions fréquentes sur l'assistance à la maîtrise d'ouvrage technique",
@@ -15,7 +16,8 @@
       "ar": "أسئلة شائعة حول المساعدة في إدارة المشاريع التقنية",
       "zh": "关于技术业主工程师 (AMO) 支持的常见问题",
       "ru": "Часто задаваемые вопросы о техническом сопровождении заказчика (AMOA)",
-      "en": "Frequently Asked Questions about Technical Project Management Assistance"
+      "en": "Frequently Asked Questions about Technical Project Management Assistance",
+      "it": "Domande frequenti sull'assistenza alla gestione tecnica dell'opera"
     }
   }
 }

@@ -7,7 +7,8 @@
       "ar": "دعم المشاريع",
       "zh": "项目协助",
       "ru": "ПОДДЕРЖКА ПРОЕКТОВ",
-      "en": "PROJECT SUPPORT"
+      "en": "PROJECT SUPPORT",
+      "it": "ASSISTENZA PROGETTI"
     },
     "data.title": {
       "source": "AMOA technique en automatisme et digitalisation : périmètre et livrables",
@@ -15,7 +16,8 @@
       "ar": "المساعدة الفنية لإدارة المشاريع (AMOA) في الأتمتة والرقمنة: النطاق والمخرجات",
       "zh": "自动化与数字化技术 AMOA：范围与交付物",
       "ru": "Техническое сопровождение (AMOA) в области автоматизации и цифровизации: область применения и результаты",
-      "en": "Technical PMO for automation and digitalization: scope and deliverables"
+      "en": "Technical PMO for automation and digitalization: scope and deliverables",
+      "it": "AMOA tecnica in automazione e digitalizzazione: perimetro e deliverable"
     },
     "data.conclusion": {
       "source": "Résultat : un projet réceptionné conforme au besoin initial, avec une équipe interne formée et une documentation exploitable pour la maintenance.",
@@ -23,7 +25,8 @@
       "ar": "النتيجة: مشروع يتم استلامه مطابقاً للاحتياجات الأولية، مع فريق داخلي مدرب وتوثيق قابل للاستخدام للصيانة.",
       "zh": "结果：项目验收符合初始需求，内部团队经过培训，并拥有可用于维护的文档。",
       "ru": "Результат: проект принят в полном соответствии с первоначальными требованиями, внутренняя команда обучена, а документация пригодна для эксплуатации и технического обслуживания.",
-      "en": "Result: a project delivered in compliance with the initial needs, with a trained internal team and usable documentation for maintenance."
+      "en": "Result: a project delivered in compliance with the initial needs, with a trained internal team and usable documentation for maintenance.",
+      "it": "Risultato: un progetto collaudato e conforme alle esigenze iniziali, con un team interno formato e una documentazione utilizzabile per la manutenzione."
     },
     "data.image.alt": {
       "source": "Assistance MOA projet automatisme industriel — AUTEM",
@@ -31,7 +34,8 @@
       "ar": "دعم إدارة مشاريع الأتمتة الصناعية — AUTEM",
       "zh": "工业自动化项目 MOA 协助 — AUTEM",
       "ru": "Техническое сопровождение (AMOA) проекта промышленной автоматизации — AUTEM",
-      "en": "Industrial automation project PMO support — AUTEM"
+      "en": "Industrial automation project PMO support — AUTEM",
+      "it": "Assistenza MOA progetto automazione industriale — AUTEM"
     }
   }
 }

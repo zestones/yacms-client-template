@@ -7,7 +7,8 @@
       "ar": "لماذا AUTEM",
       "zh": "为什么选择 AUTEM",
       "ru": "ПОЧЕМУ AUTEM",
-      "en": "WHY AUTEM"
+      "en": "WHY AUTEM",
+      "it": "PERCHÉ AUTEM"
     },
     "data.title": {
       "source": "Un AMOA technique qui a lui-même intégré des systèmes — pas un chef de projet avec une checklist.",
@@ -15,7 +16,8 @@
       "ar": "مساعدة فنية (AMOA) قامت بنفسها بدمج الأنظمة — وليس مجرد مدير مشروع يحمل قائمة مهام.",
       "zh": "一个亲自集成过系统的技术 AMOA — 而非一个拿着清单的项目经理。",
       "ru": "Технический AMOA, который сам внедрял системы, а не просто менеджер проектов с чек-листом.",
-      "en": "Technical PMO support from experts who have actually integrated systems — not just a project manager with a checklist."
+      "en": "Technical PMO support from experts who have actually integrated systems — not just a project manager with a checklist.",
+      "it": "Un'AMOA tecnica che ha integrato sistemi personalmente — non un project manager con una checklist."
     },
     "data.conclusion": {
       "source": "Nos recommandations viennent de projets réels. Nous avons les mains sales — dans le bon sens.",
@@ -23,7 +25,8 @@
       "ar": "توصياتنا نابعة من مشاريع حقيقية. نحن نعمل ميدانياً وبشكل مباشر — بالمعنى الإيجابي للكلمة.",
       "zh": "我们的建议源自真实项目。我们深入一线，实操经验丰富。",
       "ru": "Наши рекомендации основаны на реальных проектах. Мы знаем внутреннюю кухню процесса — в лучшем смысле этого слова.",
-      "en": "Our recommendations come from real-world projects. We get our hands dirty — in the best way possible."
+      "en": "Our recommendations come from real-world projects. We get our hands dirty — in the best way possible.",
+      "it": "Le nostre raccomandazioni derivano da progetti reali. Abbiamo le mani sporche — nel senso buono."
     },
     "data.image.alt": {
       "source": "AUTEM AMOA — assistance projet automatisme industriel",
@@ -31,7 +34,8 @@
       "ar": "AUTEM AMOA — دعم مشاريع الأتمتة الصناعية",
       "zh": "AUTEM AMOA — 工业自动化项目协助",
       "ru": "AUTEM AMOA — техническое сопровождение проектов промышленной автоматизации",
-      "en": "AUTEM PMO — industrial automation project assistance"
+      "en": "AUTEM PMO — industrial automation project assistance",
+      "it": "AUTEM AMOA — assistenza progetto automazione industriale"
     }
   }
 }

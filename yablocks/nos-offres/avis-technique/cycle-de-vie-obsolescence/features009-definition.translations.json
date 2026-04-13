@@ -7,7 +7,8 @@
       "ar": "دورة الحياة والتقادم",
       "zh": "生命周期与过时",
       "ru": "ЖИЗНЕННЫЙ ЦИКЛ И УСТАРЕВАНИЕ",
-      "en": "LIFE CYCLE & OBSOLESCENCE"
+      "en": "LIFE CYCLE & OBSOLESCENCE",
+      "it": "CICLO DI VITA & OBSOLESCENZA"
     },
     "data.title": {
       "source": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
@@ -15,7 +16,8 @@
       "ar": "تدقيق التقادم وخطة التجديد: النطاق والمخرجات",
       "zh": "过时审计与更新计划：范围与交付物",
       "ru": "Аудит устаревания и план обновления: область применения и результаты",
-      "en": "Obsolescence Audit and Renewal Plan: Scope and Deliverables"
+      "en": "Obsolescence Audit and Renewal Plan: Scope and Deliverables",
+      "it": "Audit di obsolescenza e piano di rinnovo: perimetro e deliverable"
     },
     "data.conclusion": {
       "source": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",
@@ -23,7 +25,8 @@
       "ar": "النتيجة: رؤية واضحة للأجهزة الموجودة، وخطة عمل يمكن الدفاع عنها في اجتماعات الميزانية، وبرنامج صيانة تطويرية لمدة 3 إلى 5 سنوات.",
       "zh": "结果：对现有设备资产有清晰的认识，在预算会议上拥有可论证的行动计划，以及一个 3 到 5 年的渐进式维护计划。",
       "ru": "Результат: четкое представление о существующем парке оборудования, план действий, который можно обосновать на бюджетном совещании, и программа эволюционного обслуживания на 3–5 лет.",
-      "en": "Result: a clear vision of the existing fleet, an actionable plan for budget meetings, and an evolutionary maintenance program over 3 to 5 years."
+      "en": "Result: a clear vision of the existing fleet, an actionable plan for budget meetings, and an evolutionary maintenance program over 3 to 5 years.",
+      "it": "Risultato: una visione chiara del parco macchine esistente, un piano d'azione difendibile in riunione di budget e un programma di manutenzione evolutiva su 3-5 anni."
     },
     "data.image.alt": {
       "source": "Audit obsolescence équipements industriels — cartographie cycle de vie AUTEM",
@@ -31,7 +34,8 @@
       "ar": "تدقيق تقادم المعدات الصناعية — رسم خرائط دورة الحياة من AUTEM",
       "zh": "工业设备过时审计 — AUTEM 生命周期映射",
       "ru": "Аудит устаревания промышленного оборудования — картирование жизненного цикла AUTEM",
-      "en": "Industrial equipment obsolescence audit — AUTEM life cycle mapping"
+      "en": "Industrial equipment obsolescence audit — AUTEM life cycle mapping",
+      "it": "Audit obsolescenza apparecchiature industriali — mappatura ciclo di vita AUTEM"
     }
   }
 }
