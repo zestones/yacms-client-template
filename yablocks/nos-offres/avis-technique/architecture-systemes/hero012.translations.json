@@ -4,16 +4,16 @@
     "data.overtitle": {
       "source": "AVIS TECHNIQUE",
       "en": "TECHNICAL ADVISORY",
-      "de": "TECHNISCHE MITTEILUNG",
+      "de": "TECHNISCHE ",
       "ar": "رأي تقني",
       "ru": "ТЕХНИЧЕСКИЙ ОБЗОР",
       "it": "PARERE TECNICO",
       "zh": "技术建议"
     },
     "data.title": {
-      "source": "Architecture de Systèmes de Contrôle-Commande.",
+      "source": "Architecture de Systèmes de Commande.",
       "en": "Control System Architecture.",
-      "de": "Architektur von Steuerungs- und Regelsystemen.",
+      "de": "Architektur von Steuerungssystemen.",
       "ar": "بنية أنظمة التحكم والقيادة.",
       "ru": "Архитектура систем управления",
       "it": "Architettura dei Sistemi di Controllo-Comando.",
