@@ -39,5 +39,7 @@
     "/assets/panneaux-solaires-toit-cellule-photovoltaique.avif",
     "/assets/whatsapp.png"
   ],
-  "team": []
+  "team": [
+    "/team/whatsapp.png"
+  ]
 }
