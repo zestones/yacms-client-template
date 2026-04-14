@@ -25,7 +25,7 @@ export default defineConfig({
       { code: 'en', label: 'English' },
       { code: 'it', label: 'Italiano' },
     ],
-    routing: 'prefix-except-default',
+    routing: 'prefix-all',
     fallback: 'default',
     translation: {
       adapter: 'gemini',
