@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/hero/Hero001",
-    "section": "landing-page/hero001"
+    "section": "home-copy/hero001"
   },
   "data": {
     "badge": "Studio Web",
