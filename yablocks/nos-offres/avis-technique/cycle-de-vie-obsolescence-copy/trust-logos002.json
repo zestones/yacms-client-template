@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos002",
+    "section": "nos-offres/avis-technique/cycle-de-vie-obsolescence-copy/trust-logos002"
+  },
+  "data": {
+    "title": "Compatible avec tous les équipements — des générations les plus anciennes aux plus récentes",
+    "subtitle": "Nous connaissons les équipements anciens comme les modèles récents, et leur cycle de vie réel",
+    "logos": [
+      {
+        "src": "/logos/siemens.png",
+        "alt": "Siemens — S7-300, S7-400, S7-1500, TIA Portal, WinCC",
+        "_tid": "bKPfPh"
+      },
+      {
+        "src": "/logos/rockwell.png",
+        "alt": "Rockwell Allen-Bradley — PLC5, SLC500, ControlLogix, Studio 5000",
+        "_tid": "nwx0Le"
+      },
+      {
+        "src": "/logos/schneider.png",
+        "alt": "Schneider Electric — TSX, Quantum, M340, EcoStruxure",
+        "_tid": "BOtRgb"
+      },
+      {
+        "src": "/logos/eaton.png",
+        "alt": "Eaton — XSoft-CoDeSys, Easy Series",
+        "_tid": "4yotOv"
+      },
+      {
+        "src": "/logos/wonderware.png",
+        "alt": "AVEVA Wonderware — anciennes versions et migration",
+        "_tid": "uisPb7"
+      }
+    ]
+  }
+}
