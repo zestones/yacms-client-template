@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "nos-offres/avis-technique/cycle-de-vie-obsolescence-copy/cta002"
+  },
+  "data": {
+    "title": "Vos équipements industriels ont plus de 10 ans et vous n'avez pas de plan d'obsolescence ?",
+    "benefits": [
+      {
+        "icon": "search",
+        "text": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques",
+        "_tid": "q98U0T"
+      },
+      {
+        "icon": "bar-chart",
+        "text": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention",
+        "_tid": "0uHuaT"
+      },
+      {
+        "icon": "shield",
+        "text": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées",
+        "_tid": "p6Mppo"
+      }
+    ],
+    "cta": {
+      "text": "Lancer votre audit d'obsolescence",
+      "link": "/contact"
+    }
+  }
+}
