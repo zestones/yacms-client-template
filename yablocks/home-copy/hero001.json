@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero001",
+    "section": "home-copy/hero001"
+  },
+  "data": {
+    "badge": "Studio Web",
+    "title": "Yacms",
+    "titleHighlight": "Prêt en 2",
+    "subtitle": "Sites vitrine ",
+    "cta": {
+      "primary": {
+        "text": "Demandez un devis",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
+        "link": ""
+      }
+    },
+    "trustBadges": [
+      {
+        "icon": "clock",
+        "text": "",
+        "_tid": "kW1XxM"
+      }
+    ],
+    "mockupImage": {
+      "src": "",
+      "alt": ""
+    }
+  }
+}
