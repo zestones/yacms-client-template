@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/trust/TrustLogos002",
+    "component": "blocks/trust/TrustLogoGrid",
     "section": "offre/avis-technique/architecture-systemes/trust-logos002"
   },
   "data": {

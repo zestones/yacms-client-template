@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero001",
+    "component": "blocks/hero/HeroSplitMockup",
     "section": "test-copy/hero001"
   },
   "data": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "component": "blocks/navigation/NavGlassmorphic",
     "section": "home/navigation"
   },
   "data": {

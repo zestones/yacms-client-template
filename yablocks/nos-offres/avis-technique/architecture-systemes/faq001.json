@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/faq/Faq001",
+    "component": "blocks/faq/FaqSplitAccordion",
     "section": "nos-offres/avis-technique/architecture-systemes/faq001"
   },
   "data": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/process/ProcessStep003",
+    "component": "blocks/process/ProcessCarousel",
     "section": "offre/avis-technique/architecture-systemes/process003-methode"
   },
   "data": {

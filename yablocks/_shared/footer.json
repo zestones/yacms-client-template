@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/footer/FooterColumns",
+    "component": "blocks/footer/FooterColumns",
     "section": "_shared/footer"
   },
   "data": {
