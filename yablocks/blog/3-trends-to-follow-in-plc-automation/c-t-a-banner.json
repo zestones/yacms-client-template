@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABanner",
+    "section": "blog/3-trends-to-follow-in-plc-automation/c-t-a-banner"
+  },
+  "data": {
+    "eyebrow": "Stay Ahead",
+    "title": "Keep Up with Automation Advancements",
+    "subtitle": "Subscribe to our newsletter for the latest insights and technology reviews in PLC automation.",
+    "primaryCTA": {
+      "text": "Subscribe Now",
+      "href": "/newsletter",
+      "variant": "primary"
+    },
+    "secondaryCTA": {
+      "text": "Watch the Video",
+      "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I",
+      "variant": "outline"
+    },
+    "features": [
+      "Latest Trends",
+      "Expert Analysis",
+      "AI in Automation"
+    ],
+    "layout": "centered"
+  }
+}

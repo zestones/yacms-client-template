@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/3-trends-to-follow-in-plc-automation/article-toc-layout"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "tocTitle": "Trends in PLC Automation",
+    "sections": [
+      {
+        "heading": "Introduction to the Changing PLC Landscape",
+        "paragraphs": [
+          {
+            "text": "The world of Programmable Logic Controllers (PLCs) is evolving rapidly, driven by advancements in technology. Over the past quarter, three key areas have seen significant development: training platforms, troubleshooting tools, and programming platforms. Artificial Intelligence (AI) is the catalyst, accelerating the implementation of innovative ideas that make PLC automation more accessible and efficient without altering the fundamental electronics or methodologies.",
+            "_tid": "8Co2iO"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "The Role of AI",
+            "paragraphs": [
+              {
+                "text": "AI has been instrumental in speeding up development cycles and bringing creative ideas to life, making the PLC automation world easier to navigate. While the core technology and operational aspects remain the same, AI is transforming the tools available to engineers.",
+                "_tid": "drE3G2"
+              }
+            ],
+            "_tid": "xcddCp"
+          }
+        ],
+        "_tid": "aJoQ6W"
+      },
+      {
+        "heading": "Trend 1: Advanced Training Platforms",
+        "paragraphs": [
+          {
+            "text": "The first major trend is the rise of sophisticated training platforms. Previously, learning PLC programming often involved hands-on experience and trial-and-error on the field. However, AI-powered platforms now offer structured, accessible, and often free learning resources. These platforms are developed by experienced PLC engineers and provide a more efficient way to upskill or transition into automation from fields like IT.",
+            "_tid": "8DY1aR"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Key Platforms",
+            "paragraphs": [
+              {
+                "text": "Notable platforms include plc.app and easyplc.school. EasyPLC is open-source on GitHub, making advanced training accessible to a wider audience. These resources are invaluable for both newcomers to automation and IT professionals looking to understand the machinery hardware world.",
+                "_tid": "KSk6fa"
+              }
+            ],
+            "_tid": "se1Cj4"
+          }
+        ],
+        "_tid": "duB5Qh"
+      },
+      {
+        "heading": "Trend 2: AI-Powered Troubleshooting Tools",
+        "paragraphs": [
+          {
+            "text": "Troubleshooting PLCs has also been revolutionized by AI. Tools like Snap PLC allow engineers to diagnose issues more efficiently. By uploading a picture of a PLC cabinet, these tools can identify the PLC brand, technology, and even suggest potential root causes and solutions based on system LEDs and other indicators.",
+            "_tid": "vZGk75"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Benefits of Snap PLC",
+            "paragraphs": [
+              {
+                "text": "While not a replacement for expert knowledge, Snap PLC provides valuable guidance, especially for engineers encountering new systems or seeking confirmation. It acts as a first line of support, potentially reducing the need to immediately contact service support or disturb colleagues. This free platform empowers engineers to resolve issues more independently.",
+                "_tid": "KvnX2W"
+              }
+            ],
+            "_tid": "aEjJEh"
+          }
+        ],
+        "_tid": "3sbzQW"
+      },
+      {
+        "heading": "Trend 3: Innovative Programming Platforms",
+        "paragraphs": [
+          {
+            "text": "The third significant trend lies in programming platforms that leverage AI to streamline development. Several tools are emerging that change how PLC code is written and debugged.",
+            "_tid": "rYlxLp"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "PLC Copilot",
+            "paragraphs": [
+              {
+                "text": "PLC Copilot acts as an intelligent assistant within development environments like Codesys. It helps identify potential errors in code, significantly reducing debugging time. For instance, a task that might take hours can be completed in minutes with its guidance.",
+                "_tid": "wWpAdM"
+              }
+            ],
+            "_tid": "FWsTkI"
+          },
+          {
+            "heading": "Accelera Platform",
+            "paragraphs": [
+              {
+                "text": "The Accelera platform takes a different approach by generating PLC code directly from functional specifications. This allows engineers to focus more on the clarity and detail of the initial specifications, which also aids in the validation and testing phases. It facilitates better communication with non-programmers, such as process engineers or end-users, by allowing discussions based on plain English specifications.",
+                "_tid": "3Mkylj"
+              }
+            ],
+            "_tid": "ZosIjv"
+          },
+          {
+            "heading": "Chronax (formerly IR Reflex)",
+            "paragraphs": [
+              {
+                "text": "Chronax offers an IDE experience for PLC programming using software-oriented languages. This makes PLC development more accessible to individuals with a background in general programming and algorithms, broadening the pool of potential engineers. It allows code to be written in a familiar text-based format, which is then compiled into PLC-compatible language.",
+                "_tid": "l04zsa"
+              }
+            ],
+            "_tid": "u9B5Ll"
+          }
+        ],
+        "_tid": "0DrjKG"
+      },
+      {
+        "heading": "Conclusion",
+        "paragraphs": [
+          {
+            "text": "The automation world is experiencing substantial progress in training, troubleshooting, and programming, largely thanks to AI. These advancements empower engineers with more leverage in their daily tasks, making the field more accessible and efficient. We encourage you to stay updated by subscribing to the channel and following technology reviews.",
+            "_tid": "vOHbKj"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Further Engagement",
+            "paragraphs": [
+              {
+                "text": "Let us know your thoughts on these trends in the comments below. Your insights are valuable as we navigate the evolving landscape of automation technology.",
+                "_tid": "1PbQXW"
+              }
+            ],
+            "links": [
+              {
+                "text": "Watch the video on YouTube",
+                "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I",
+                "_tid": "xrktlg"
+              }
+            ],
+            "_tid": "dCW9PI"
+          }
+        ],
+        "_tid": "SaqUFr"
+      }
+    ]
+  }
+}
