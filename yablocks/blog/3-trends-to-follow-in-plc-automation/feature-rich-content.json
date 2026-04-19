@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "blog/3-trends-to-follow-in-plc-automation/feature-rich-content"
+  },
+  "data": {
+    "title": "Key Takeaways",
+    "content": "The PLC automation landscape is evolving rapidly, driven by AI. This evolution impacts training, troubleshooting, and programming, making the field more accessible and efficient. Key trends include advanced, AI-assisted training platforms, intelligent troubleshooting tools like Snap PLC, and innovative programming environments such as PLC Copilot, Accelera, and Chronax. These advancements allow engineers to focus more on high-level tasks and less on routine debugging, ultimately accelerating development and improving system reliability.",
+    "caption": "The future of PLC automation is here, powered by AI.",
+    "image": {
+      "src": "/images/banner.png",
+      "alt": ""
+    }
+  }
+}

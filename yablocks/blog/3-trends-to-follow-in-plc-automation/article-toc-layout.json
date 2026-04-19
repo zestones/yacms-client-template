@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/3-trends-to-follow-in-plc-automation/article-toc-layout"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "tocTitle": "Key Takeaways",
+    "sections": [
+      {
+        "heading": "Introduction: The Evolving PLC Landscape",
+        "paragraphs": [
+          {
+            "text": "The world of Programmable Logic Controllers (PLCs) is undergoing a significant transformation, largely driven by advancements in Artificial Intelligence (AI). While the core electronics and fundamental methodologies remain, the tools and approaches to PLC automation are rapidly evolving. This evolution is making the field more accessible and efficient for engineers.",
+            "_tid": "Ge2BS5"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "AI as an Accelerator",
+            "paragraphs": [
+              {
+                "text": "AI is not changing the underlying principles of manufacturing or operational technology, but it is revolutionizing the tools available to PLC and system engineers. These AI-powered tools provide greater leverage in daily tasks, speeding up development and implementation of creative ideas.",
+                "_tid": "7suInJ"
+              }
+            ],
+            "_tid": "oI4cY1"
+          }
+        ],
+        "_tid": "fiGrlf",
+        "videoUrl": "https://www.youtube.com/watch?v=u1zvKZyBE6I"
+      },
+      {
+        "heading": "Trend 1: Advanced Training Platforms",
+        "paragraphs": [
+          {
+            "text": "The way engineers learn and upskill in PLC automation has dramatically improved. Gone are the days when learning was solely dependent on on-the-job experience and trial-and-error. Modern training platforms, often developed with AI assistance, offer structured and accessible learning paths.",
+            "_tid": "fnonwj"
+          }
+        ],
+        "links": [
+          {
+            "text": "Visit plc.app",
+            "href": "https://plc.app",
+            "_tid": "hBvYmj"
+          },
+          {
+            "text": "Explore easyplc.school",
+            "href": "https://easyplc.school",
+            "_tid": "FBTOME"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Free and Accessible Learning",
+            "paragraphs": [
+              {
+                "text": "Platforms like plc.app and easyplc.school provide free access to high-quality training, a stark contrast to the expensive courses of the past. These resources are invaluable for both newcomers to automation and IT professionals looking to understand the machinery hardware world.",
+                "_tid": "6BQPvk"
+              }
+            ],
+            "_tid": "AgJ1HT"
+          }
+        ],
+        "_tid": "GtrCcS"
+      },
+      {
+        "heading": "Trend 2: AI-Powered Troubleshooting Tools",
+        "paragraphs": [
+          {
+            "text": "Troubleshooting PLCs has become more efficient with AI-driven tools. These platforms assist engineers in diagnosing issues, reducing reliance on immediate support from colleagues or service teams.",
+            "_tid": "EYXA7k"
+          }
+        ],
+        "links": [
+          {
+            "text": "Learn more about Snap PLC",
+            "href": "https://snap.plc",
+            "_tid": "MATwnt"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Snap PLC: Guided Diagnostics",
+            "paragraphs": [
+              {
+                "text": "Tools like Snap PLC allow users to upload a picture of their PLC cabinet. By analyzing system LEDs and identifying the PLC brand and type, the tool can suggest potential root causes and solutions. While not a replacement for expertise, it offers valuable guidance, especially for unfamiliar systems or for confirming initial assessments.",
+                "_tid": "0ed6Ex"
+              }
+            ],
+            "_tid": "6173uc"
+          }
+        ],
+        "_tid": "6HPoQm"
+      },
+      {
+        "heading": "Trend 3: Innovative Programming Platforms",
+        "paragraphs": [
+          {
+            "text": "The programming landscape for PLCs is being reshaped by platforms that leverage AI to streamline code generation, debugging, and development. These tools make PLC programming more accessible to a wider range of technical professionals.",
+            "_tid": "cy1vBY"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "PLC Copilot: Enhanced Debugging",
+            "paragraphs": [
+              {
+                "text": "Similar to AI copilots in IT development, PLC Copilot integrates with environments like CODESYS to assist programmers. It can identify potential code issues and significantly reduce debugging time, as demonstrated by examples where debugging time was cut from hours to minutes.",
+                "_tid": "aFzIH7"
+              }
+            ],
+            "_tid": "zGZhPT"
+          },
+          {
+            "heading": "Accelera: Specification-to-Code Generation",
+            "paragraphs": [
+              {
+                "text": "Accelera stands out by generating PLC code directly from functional specifications. This capability is particularly beneficial for large projects or greenfield implementations, allowing engineers to focus more on the clarity and detail of specifications rather than the intricacies of code writing. It also aids in validation and testing phases.",
+                "_tid": "wp6CdC"
+              }
+            ],
+            "_tid": "m8mFV3"
+          },
+          {
+            "heading": "Chronax (formerly IR Reflex): Software-like PLC Programming",
+            "paragraphs": [
+              {
+                "text": "Chronax offers an IDE for PLC programming that uses software-oriented languages. This approach makes PLC development more accessible to individuals with backgrounds in general programming and algorithms, broadening the pool of potential PLC engineers. It allows users to write code in familiar IT languages, which is then compiled and deployed to PLC platforms.",
+                "_tid": "oN7unp"
+              }
+            ],
+            "_tid": "2Qc8cj"
+          }
+        ],
+        "_tid": "MHV2sm"
+      },
+      {
+        "heading": "Conclusion: Embracing the Future of Automation",
+        "paragraphs": [
+          {
+            "text": "The PLC automation world is rapidly advancing, with significant progress in training, troubleshooting, and programming. These AI-enhanced tools are not only increasing efficiency but also making the field more inclusive. Staying updated with these trends is crucial for anyone involved in industrial automation.",
+            "_tid": "2rEXRl"
+          }
+        ],
+        "links": [
+          {
+            "text": "Watch the full video",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I",
+            "_tid": "slG4uL"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Stay Connected",
+            "paragraphs": [
+              {
+                "text": "Subscribe to the channel for regular technology reviews and updates. Engage in the comments section to share your thoughts and experiences with these new tools and trends.",
+                "_tid": "nVoYIh"
+              }
+            ],
+            "_tid": "Fd8Hrn"
+          }
+        ],
+        "_tid": "7oJSRW"
+      }
+    ]
+  }
+}

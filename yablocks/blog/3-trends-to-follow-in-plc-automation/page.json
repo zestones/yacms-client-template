@@ -1,5 +1,10 @@
 {
   "meta": {},
-  "theme": "theme001",
-  "blocks": []
+  "theme": "light",
+  "blocks": [
+    "./hero-article-header.json",
+    "./article-toc-layout.json",
+    "./feature-rich-content.json",
+    "./c-t-a-banner.json"
+  ]
 }
