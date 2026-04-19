@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "blog/3-trends-to-follow-in-plc-automation/feature-rich-content-6"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>Texte de la section...</p>",
+    "image": {
+      "src": "/images/placeholders/1.svg",
+      "alt": "Description de l'image"
+    },
+    "caption": "Sample text"
+  }
+}

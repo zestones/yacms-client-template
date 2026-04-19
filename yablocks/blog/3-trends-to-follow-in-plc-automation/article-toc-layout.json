@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/3-trends-to-follow-in-plc-automation/article-toc-layout"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "topGap": 4.5,
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+            "_tid": "2bivCV"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "_tid": "G4A0E9"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "_tid": "D4gFyv"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "_tid": "zuYmzo"
+            },
+            {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "_tid": "otcK17"
+            },
+            {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "_tid": "o0HqyH"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/placeholders/1.svg",
+          "alt": "Description de l'image",
+          "caption": "Sample text"
+        },
+        "videoUrl": "#",
+        "quote": {
+          "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+          "attribution": "Sample text"
+        },
+        "links": [
+          {
+            "text": "Voir la source",
+            "href": "https://…",
+            "_tid": "yHg41C"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "href": "#",
+            "_tid": "FebnuE"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "href": "#",
+            "_tid": "YSzide"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Sous-section",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "qmOjJI"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "MCbh4q"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "HYqr3c"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "fQhz9g"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "AOSQM3"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "Ims64l"
+                }
+              ]
+            },
+            "quote": {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "gN68QM"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "HyG9ff"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "nLfoKW"
+              }
+            ],
+            "_tid": "VHP4WF"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "qjNZqC"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "ucf2ec"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "sxzrCA"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "dpT5QA"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "EBb2jR"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "N8NMKY"
+                }
+              ]
+            },
+            "quote": {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "85hQBd"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "tLOoxz"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "ZLUeaH"
+              }
+            ],
+            "_tid": "YRgj0P"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "gn6vGA"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "eDGfYe"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "4zzh2Q"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "DF718J"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "MPTga0"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "FcEu4Z"
+                }
+              ]
+            },
+            "quote": {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "QrNo1e"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "By0tJ5"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "eBbnnf"
+              }
+            ],
+            "_tid": "na0S2L"
+          }
+        ],
+        "_tid": "dL9hq2"
+      },
+      {
+        "heading": "Sample Titre de section (H2)",
+        "paragraphs": [
+          {
+            "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+            "_tid": "4nekSW"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "_tid": "JqvBPM"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "_tid": "Dfs54I"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "_tid": "ZjJzNC"
+            },
+            {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "_tid": "2t3OQp"
+            },
+            {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "_tid": "jwDnBZ"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/placeholders/2.svg",
+          "alt": "Descriptive alt text for accessibility",
+          "caption": "Sample text"
+        },
+        "videoUrl": "#",
+        "quote": {
+          "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+          "attribution": "Sample text"
+        },
+        "links": [
+          {
+            "text": "Voir la source",
+            "href": "https://…",
+            "_tid": "ei1z6M"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "href": "#",
+            "_tid": "vVDrNh"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "href": "#",
+            "_tid": "R3bhuJ"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Sous-section",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "SfG5ur"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "gHVdJF"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "JJbiSx"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "PZ5xm1"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "LJCkEa"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "WjL9LT"
+                }
+              ]
+            },
+            "quote": {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "kDgACN"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "eMio9p"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "a4zBjB"
+              }
+            ],
+            "_tid": "eSgMqB"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "QXwBK4"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "bwLVXG"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "0VPJS7"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "H6UTXq"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "CjwVUI"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "5cCulc"
+                }
+              ]
+            },
+            "quote": {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "3mI8SB"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "7DgCQX"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "dIDfAg"
+              }
+            ],
+            "_tid": "FbpVCI"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "f4D24Z"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "ySLFPp"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "IqmH6g"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "z9WaMN"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "BIdR8M"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "48gcfp"
+                }
+              ]
+            },
+            "quote": {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "syOnpi"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "5QsK0X"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "Bvd0NQ"
+              }
+            ],
+            "_tid": "aerlds"
+          }
+        ],
+        "_tid": "afpulU"
+      },
+      {
+        "heading": "Sample Titre de section (H2)",
+        "paragraphs": [
+          {
+            "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+            "_tid": "7V4VAi"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "_tid": "aDIY7m"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "_tid": "FcoI7W"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "_tid": "O2ghQK"
+            },
+            {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "_tid": "50K6TN"
+            },
+            {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "_tid": "AMa2ID"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/placeholders/3.svg",
+          "alt": "Descriptive alt text for accessibility",
+          "caption": "Sample text"
+        },
+        "videoUrl": "#",
+        "quote": {
+          "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+          "attribution": "Sample text"
+        },
+        "links": [
+          {
+            "text": "Voir la source",
+            "href": "https://…",
+            "_tid": "kbnZ6b"
+          },
+          {
+            "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+            "href": "#",
+            "_tid": "UUOekx"
+          },
+          {
+            "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+            "href": "#",
+            "_tid": "2oiD01"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Sous-section",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "krCrhg"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "6Dfdm6"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "2EqGyM"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "x64NXj"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "FHi7m9"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "vaCmYp"
+                }
+              ]
+            },
+            "quote": {
+              "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "gD6jhr"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "izQu5a"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "m3jzYD"
+              }
+            ],
+            "_tid": "Gtc1YR"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "g8pV6e"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "kTeJ3e"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "jzxUWx"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "3pyZ2S"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "cCSkti"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "hzqPTN"
+                }
+              ]
+            },
+            "quote": {
+              "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "2p8mHS"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "vi1RKZ"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "g55xrK"
+              }
+            ],
+            "_tid": "1EQAim"
+          },
+          {
+            "heading": "Sample Titre H3",
+            "paragraphs": [
+              {
+                "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                "_tid": "1sPJ8Q"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "_tid": "fppTBH"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "_tid": "YDwca9"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Our comprehensive approach ensures that every aspect of your project is handled with care and precision, from initial planning through final delivery.",
+                  "_tid": "t8anjV"
+                },
+                {
+                  "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                  "_tid": "bjINvF"
+                },
+                {
+                  "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                  "_tid": "rHewVv"
+                }
+              ]
+            },
+            "quote": {
+              "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+              "attribution": "Sample text"
+            },
+            "links": [
+              {
+                "text": "Voir la source",
+                "href": "https://…",
+                "_tid": "Zm3JcR"
+              },
+              {
+                "text": "We leverage the latest technologies and best practices to create solutions that not only meet but exceed expectations.",
+                "href": "#",
+                "_tid": "RCH0x8"
+              },
+              {
+                "text": "With years of experience across multiple industries, we bring a unique perspective to every challenge we tackle.",
+                "href": "#",
+                "_tid": "mMWWDm"
+              }
+            ],
+            "_tid": "WnAqpx"
+          }
+        ],
+        "_tid": "pbIiG4"
+      }
+    ]
+  }
+}

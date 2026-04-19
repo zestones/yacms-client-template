@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/3-trends-to-follow-in-plc-automation/hero-article-header"
+  },
+  "data": {
+    "backLink": "/",
+    "backLinkLabel": "Performance",
+    "clientLogo": {
+      "src": "/images/placeholders/1.svg",
+      "alt": "Nom de l'entreprise"
+    },
+    "title": "Refonte HubSpot et intégration Sage X3...",
+    "tags": [
+      {
+        "label": "CRM HubSpot",
+        "type": "secteur",
+        "_tid": "IxvvTY"
+      },
+      {
+        "label": "Reliability",
+        "type": "secteur",
+        "_tid": "V4ZAx9"
+      },
+      {
+        "label": "Innovation",
+        "type": "secteur",
+        "_tid": "jI6s46"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "Sample text",
+      "publishDate": "Sample text",
+      "updatedDate": "Sample text"
+    }
+  }
+}
