@@ -34,6 +34,6 @@ export default defineConfig({
   },
   ai: {
     adapter: 'gemini',
-    model: 'gemma-4-26b-a4b-it',
+    model: 'gemini-2.5-flash-lite',
   },
 });
