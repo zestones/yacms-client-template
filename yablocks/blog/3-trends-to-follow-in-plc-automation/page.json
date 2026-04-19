@@ -1,16 +1,5 @@
 {
   "meta": {},
   "theme": "theme001",
-  "blocks": [
-    "./hero-article-header.json",
-    "./article-toc-layout.json",
-    "./feature-rich-content.json",
-    "./feature-rich-content-1.json",
-    "./feature-rich-content-2.json",
-    "./feature-rich-content-3.json",
-    "./feature-rich-content-4.json",
-    "./feature-rich-content-5.json",
-    "./feature-video-scroll.json",
-    "./feature-rich-content-6.json"
-  ]
+  "blocks": []
 }
