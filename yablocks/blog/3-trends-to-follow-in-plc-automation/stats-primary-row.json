@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "blog/3-trends-to-follow-in-plc-automation/stats-primary-row"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "10x",
+        "label": "Productivité accrue",
+        "_tid": "rHqXEI"
+      },
+      {
+        "value": "3",
+        "label": "Tendances majeures",
+        "_tid": "DAChId"
+      },
+      {
+        "value": "2026",
+        "label": "Vision technologique",
+        "_tid": "R61Csw"
+      }
+    ]
+  }
+}

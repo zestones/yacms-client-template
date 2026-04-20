@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "component": "blocks/contact/ContactSimpleForm",
+    "section": "blog/3-trends-to-follow-in-plc-automation/contact-simple-form"
+  },
+  "data": {
+    "formTitle": "Partagez votre avis",
+    "infoTitle": "Discutons de ces tendances",
+    "infoDescription": "Que pensez-vous de l'intégration de l'IA dans vos projets d'automatisation ? Laissez-moi un message."
+  }
+}

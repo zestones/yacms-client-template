@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/3-trends-to-follow-in-plc-automation/article-toc-layout"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "L'univers des automates programmables (PLC) se transforme radicalement. L'IA agit comme un catalyseur puissant, permettant aux ingénieurs de se concentrer sur la conception plutôt que sur le débogage fastidieux.",
+            "_tid": "YzqclL"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=u1zvKZyBE6I",
+        "subsections": [],
+        "_tid": "TvC1M7"
+      },
+      {
+        "heading": "1. Plateformes de formation",
+        "paragraphs": [
+          {
+            "text": "Fini l'apprentissage exclusif 'sur le terrain'. Des outils comme plc.app (https://plc.app) et easyplc.school (https://easyplc.school) permettent désormais de monter en compétences gratuitement.",
+            "_tid": "2OTxdZ"
+          }
+        ],
+        "subsections": [],
+        "_tid": "5ivUYg"
+      },
+      {
+        "heading": "2. Outils de dépannage",
+        "paragraphs": [
+          {
+            "text": "Snap PLC (https://snapplc.com) révolutionne le diagnostic en analysant vos armoires électriques par photo pour identifier des causes racines immédiates.",
+            "_tid": "h7X6Wc"
+          }
+        ],
+        "subsections": [],
+        "_tid": "3aWRn1"
+      },
+      {
+        "heading": "3. Plateformes de programmation",
+        "paragraphs": [
+          {
+            "text": "Des outils comme PLC Copilot, Accelera et Chronax redéfinissent l'IDE en générant du code à partir de spécifications ou en utilisant des langages modernes.",
+            "_tid": "tfEBU8"
+          }
+        ],
+        "subsections": [],
+        "_tid": "NoaDZY"
+      }
+    ]
+  }
+}

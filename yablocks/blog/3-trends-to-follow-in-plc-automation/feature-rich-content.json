@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "blog/3-trends-to-follow-in-plc-automation/feature-rich-content"
+  },
+  "data": {
+    "title": "Une nouvelle ère pour les ingénieurs système",
+    "content": "L'automatisation ne change pas dans ses fondamentaux, mais dans ses outils. L'IA offre une productivité décuplée. Pour rester à la pointe, abonnez-vous à ma newsletter technique pour recevoir les prochaines revues d'outils et analyses sectorielles."
+  }
+}
