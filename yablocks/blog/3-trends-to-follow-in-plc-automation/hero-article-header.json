@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/3-trends-to-follow-in-plc-automation/hero-article-header"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Back to Blog",
+    "title": "3 Trends to Follow in PLC Automation",
+    "tags": [
+      {
+        "label": "PLC Automation",
+        "type": "categorie",
+        "_tid": "oLCjC2"
+      },
+      {
+        "label": "Technology Trends",
+        "type": "categorie",
+        "_tid": "Ut6nqC"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "8 min read",
+      "publishDate": "2026-04-01"
+    }
+  }
+}
