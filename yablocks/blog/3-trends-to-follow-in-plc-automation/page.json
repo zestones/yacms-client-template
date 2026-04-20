@@ -7,10 +7,7 @@
   "blocks": [
     "./hero-article-header.json",
     "./article-toc-layout.json",
-    "./feature-rich-content.json",
-    "./feature-card-gallery.json",
-    "./contact-simple-form.json",
-    "./stats-primary-row.json",
-    "./c-t-a-banner.json"
+    "./c-t-a-banner.json",
+    "./feature-card-gallery.json"
   ]
 }
